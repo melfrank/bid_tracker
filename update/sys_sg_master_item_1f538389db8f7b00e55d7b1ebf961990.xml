@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <datasource_table>x_172976_bid_track_project_task</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Project Task Form Screen">83538389db8f7b00e55d7b1ebf96198f</embedded_screen>
+        <item_view display_value="Project Task List Screen Item View">07538389db8f7b00e55d7b1ebf96198e</item_view>
+        <name>Project Task master_item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:43:08</sys_created_on>
+        <sys_id>1f538389db8f7b00e55d7b1ebf961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Task master_item</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_sg_master_item_1f538389db8f7b00e55d7b1ebf961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:43:08</sys_updated_on>
+        <table>x_172976_bid_track_project_task</table>
+    </sys_sg_master_item>
+</record_update>

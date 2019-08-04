@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" text_index="true" type="collection">
+        <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
+                <element inactive_on_update="false" label="1 - INCLUDED WITH DOWNLOAD" sequence="20" value="1 - INCLUDED WITH DOWNLOAD"/>
+                <element inactive_on_update="false" label="2 - INCLUDED WITH DOWNLOAD" sequence="30" value="2 - INCLUDED WITH DOWNLOAD"/>
+                <element inactive_on_update="false" label="3 - INCLUDED WITH DOWNLOAD" sequence="40" value="3 - INCLUDED WITH DOWNLOAD"/>
+            </choice>
+        </element>
+        <element label="Bid Date - Time" max_length="40" name="bid_date_time" type="glide_date_time"/>
+        <element label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
+        <element label="Delivery Method" max_length="40" name="delivery_method" type="string"/>
+        <element label="Design Build Types" max_length="40" name="design_build_types" type="string"/>
+        <element label="Engineer" max_length="32" name="engineer" reference="core_company" reference_qual="vendor_typeLIKE3cc3b13ddb073f00e55d7b1ebf96190e^EQ" reference_qual_condition="vendor_typeLIKE3cc3b13ddb073f00e55d7b1ebf96190e^EQ" type="reference"/>
+        <element label="Engineers Estimate" max_length="20" name="engineers_estimate" type="currency"/>
+        <element default="http://ww1.smartbid.net/" label="Link to Website" max_length="1024" name="link_to_website" type="url"/>
+        <element label="On Job Board" max_length="40" name="on_job_board" type="boolean"/>
+        <element default="sctv981d" label="Password/Log In" max_length="40" name="password_log_in" type="string"/>
+        <element label="Plans Secured/Scanned" max_length="40" name="plans_secured_scanned" type="glide_date"/>
+        <element default="95924f82cf3e022" label="Plan Service Number" max_length="40" name="plan_service_number" type="string"/>
+        <element default="SmartBidNet" label="Plan Service Used Name" max_length="40" name="plan_service_used_name" type="string"/>
+        <element label="Project City" max_length="40" name="project_city" type="string"/>
+        <element label="Project County" max_length="40" name="project_county" type="string"/>
+        <element label="Project ID" max_length="40" name="project_id" type="string"/>
+        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
+        <element label="Project Name" max_length="40" name="project_name" type="string"/>
+        <element label="Project Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" reference_qual_condition="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" type="reference"/>
+        <element label="Project State" max_length="40" name="project_state" type="string"/>
+        <element label="Project Type" max_length="40" name="project_type" type="string"/>
+        <element label="Project Zip" max_length="40" name="project_zip" type="string"/>
+        <element label="Quotations Specialist" max_length="32" name="quotations_specialist" reference="sys_user" type="reference"/>
+        <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>
+    </element>
+</database>

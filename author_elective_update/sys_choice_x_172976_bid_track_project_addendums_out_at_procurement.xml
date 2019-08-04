@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="addendums_out_at_procurement" table="x_172976_bid_track_project" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>addendums_out_at_procurement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>20%20-%20INCLUDED%20WITH%20DOWNLOAD</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 12:41:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4da131b9db073f00e55d7b1ebf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 12:41:32</sys_updated_on>
+            <value>20%20-%20INCLUDED%20WITH%20DOWNLOAD</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>addendums_out_at_procurement</element>
+            <name>x_172976_bid_track_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 12:41:32</sys_created_on>
+            <sys_id>c1a13d39db073f00e55d7b1ebf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>addendums_out_at_procurement</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_choice_x_172976_bid_track_project_addendums_out_at_procurement</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 12:41:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_choice_x_172976_bid_track_project_addendums_out_at_procurement</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="addendums_out_at_procurement" table="x_172976_bid_track_project" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>addendums_out_at_procurement</element><hint/><inactive>false</inactive><label>20%20-%20INCLUDED%20WITH%20DOWNLOAD</label><language>en</language><name>x_172976_bid_track_project</name><sequence>8</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-04 12:41:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4da131b9db073f00e55d7b1ebf96192a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-04 12:41:32</sys_updated_on><value>20%20-%20INCLUDED%20WITH%20DOWNLOAD</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>addendums_out_at_procurement</element><name>x_172976_bid_track_project</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-04 12:41:32</sys_created_on><sys_id>c1a13d39db073f00e55d7b1ebf9619ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>addendums_out_at_procurement</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_choice_x_172976_bid_track_project_addendums_out_at_procurement</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-04 12:41:32</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1154885718</payload_hash>
+        <record_name>Project.Addendums Out at Procurement</record_name>
+        <reverted_from/>
+        <source>89314385db4f7b00e55d7b1ebf96196e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 12:42:43</sys_created_on>
+        <sys_id>a2e135b9db073f00e55d7b1ebf9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c5ca74cae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 12:42:43</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>2ee135b9f5073f00687f413130d881df</update_guid>
+        <update_guid_history>2ee135b9f5073f00687f413130d881df:1154885718,2ae135b9db073f00753d885c0430fadc:1167788970,16e135b992073f00f05c2b368ab69dd9:474548417,12e135b9de073f00996e376ba8c1ecd6:-894212276,56e135b919073f00474606deb1ac56c6:1794234698,52e135b972073f0023f834ccd3a01ac3:114493144,5ee135b937073f00afc3898a1a05f1bf:-1380880555,1ae135b934073f0050b721735ab37abc:504098470,c5a131b912073f00221ac1e11b19f72d:-1857509138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 12:42:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>c1a13d39db073f00e55d7b1ebf9619ec</sys_id>
+        <sys_metadata>c1a13d39db073f00e55d7b1ebf9619ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>addendums_out_at_procurement</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_choice_x_172976_bid_track_project_addendums_out_at_procurement</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_172976_bid_track_project_addendums_out_at_procurement">a2e135b9db073f00e55d7b1ebf9619e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 12:42:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
