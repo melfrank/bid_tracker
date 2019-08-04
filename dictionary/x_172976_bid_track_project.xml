@@ -8,26 +8,41 @@
                 <element inactive_on_update="false" label="3 - INCLUDED WITH DOWNLOAD" sequence="40" value="3 - INCLUDED WITH DOWNLOAD"/>
             </choice>
         </element>
-        <element label="Bid Date - Time" max_length="40" name="bid_date_time" type="glide_date_time"/>
+        <element label="Bid Date - Time" mandatory="true" max_length="40" name="bid_date_time" type="glide_date_time"/>
         <element label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
-        <element label="Delivery Method" max_length="40" name="delivery_method" type="string"/>
-        <element label="Design Build Types" max_length="40" name="design_build_types" type="string"/>
+        <element choice="1" label="Delivery Method" max_length="40" name="delivery_method" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Design-Build" sequence="10" value="design-build"/>
+            </choice>
+        </element>
+        <element choice="1" label="Design Build Types" max_length="40" name="design_build_types" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Design-Build" sequence="10" value="Design-Build"/>
+                <element inactive_on_update="false" label="CMAR" sequence="20" value="CMAR"/>
+                <element inactive_on_update="false" label="Progressive D-B" sequence="30" value="Progressive D-B"/>
+                <element inactive_on_update="false" label="DBO" sequence="40" value="DBO"/>
+                <element inactive_on_update="false" label="DBOF" sequence="50" value="DBOF"/>
+                <element inactive_on_update="false" label="P3" sequence="60" value="P3"/>
+                <element inactive_on_update="false" label="Fixed Price D-B" sequence="70" value="Fixed Price D-B"/>
+                <element inactive_on_update="false" label="GC/CM" sequence="80" value="GC/CM"/>
+            </choice>
+        </element>
         <element label="Engineer" max_length="32" name="engineer" reference="core_company" reference_qual="vendor_typeLIKE3cc3b13ddb073f00e55d7b1ebf96190e^EQ" reference_qual_condition="vendor_typeLIKE3cc3b13ddb073f00e55d7b1ebf96190e^EQ" type="reference"/>
         <element label="Engineers Estimate" max_length="20" name="engineers_estimate" type="currency"/>
         <element default="http://ww1.smartbid.net/" label="Link to Website" max_length="1024" name="link_to_website" type="url"/>
         <element label="On Job Board" max_length="40" name="on_job_board" type="boolean"/>
-        <element default="sctv981d" label="Password/Log In" max_length="40" name="password_log_in" type="string"/>
+        <element default="sctv981d" dependent="bid_date_time" dependent_on_field="bid_date_time" label="Password/Log In" max_length="40" name="password_log_in" read_only="true" type="string" use_dependent_field="true"/>
         <element label="Plans Secured/Scanned" max_length="40" name="plans_secured_scanned" type="glide_date"/>
-        <element default="95924f82cf3e022" label="Plan Service Number" max_length="40" name="plan_service_number" type="string"/>
-        <element default="SmartBidNet" label="Plan Service Used Name" max_length="40" name="plan_service_used_name" type="string"/>
+        <element default="95924f82cf3e022" dependent="bid_date_time" dependent_on_field="bid_date_time" label="Plan Service Number" max_length="40" name="plan_service_number" read_only="true" type="string" use_dependent_field="true"/>
+        <element default="SmartBidNet" dependent="bid_date_time" dependent_on_field="bid_date_time" label="Plan Service Used Name" max_length="40" name="plan_service_used_name" read_only="true" type="string" use_dependent_field="true"/>
         <element label="Project City" max_length="40" name="project_city" type="string"/>
         <element label="Project County" max_length="40" name="project_county" type="string"/>
         <element label="Project ID" max_length="40" name="project_id" type="string"/>
-        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
-        <element label="Project Name" max_length="40" name="project_name" type="string"/>
+        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" reference_qual="department=1efe7df5db473f00e55d7b1ebf961939^EQ" reference_qual_condition="department=1efe7df5db473f00e55d7b1ebf961939^EQ" type="reference"/>
+        <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Project Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" reference_qual_condition="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" type="reference"/>
         <element label="Project State" max_length="40" name="project_state" type="string"/>
-        <element label="Project Type" max_length="40" name="project_type" type="string"/>
+        <element label="Project Type" mandatory="true" max_length="40" name="project_type" type="string"/>
         <element label="Project Zip" max_length="40" name="project_zip" type="string"/>
         <element label="Quotations Specialist" max_length="32" name="quotations_specialist" reference="sys_user" type="reference"/>
         <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>

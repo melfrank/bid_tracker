@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>project_name</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Show-Hide project details section</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    //Type appropriate comment here, and begin script below
+    var sections = g_form.getSections(); // get sections (array)
+	alert('sections = ' + sections);
+    if (newValue != "") {
+        sections[1].style.display = 'none';
+    } else {
+        sections[1].style.display = 'block';
+    }
+
+
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 14:46:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f8aceb1db873f00e55d7b1ebf9619d6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Show-Hide project details section</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_script_client_4f8aceb1db873f00e55d7b1ebf9619d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 14:49:47</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_script_client_4f8aceb1db873f00e55d7b1ebf9619d6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;project_name&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Show-Hide project details section&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    //Type appropriate comment here, and begin script below
+    var sections = g_form.getSections(); // get sections (array)
+	alert('sections = ' + sections);
+    if (newValue != "") {
+        sections[1].style.display = 'none';
+    } else {
+        sections[1].style.display = 'block';
+    }
+
+
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-08-04 14:46:10&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4f8aceb1db873f00e55d7b1ebf9619d6&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Show-Hide project details section&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_4f8aceb1db873f00e55d7b1ebf9619d6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-08-04 14:49:47&lt;/sys_updated_on&gt;&lt;table&gt;x_172976_bid_track_project&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>572838921</payload_hash>
+        <record_name>Show-Hide project details section</record_name>
+        <reverted_from/>
+        <source>89314385db4f7b00e55d7b1ebf96196e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 14:49:47</sys_created_on>
+        <sys_id>e7feceb5db873f00e55d7b1ebf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c5d1ba04c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 14:49:47</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>63feceb5bb873f00f248686c39ef6e3d</update_guid>
+        <update_guid_history>63feceb5bb873f00f248686c39ef6e3d:572838921,48de4eb526873f005f536001ce67e190:1372759728,7bbe4eb5b1873f00acf0fb936c78373b:1386789328,045eceb1d2873f0017b9acfe57d9a8ff:732963250,e62eceb155873f00b16b566344ab4f85:718933650</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 14:50:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>7a3c9cd3220c4a7cb9e42eedadfe3a84</sys_id>
+        <sys_metadata>4f8aceb1db873f00e55d7b1ebf9619d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show-Hide project details section</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Project">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_script_client_4f8aceb1db873f00e55d7b1ebf9619d6</sys_update_name>
+        <sys_update_version display_value="sys_script_client_4f8aceb1db873f00e55d7b1ebf9619d6">e7feceb5db873f00e55d7b1ebf96193d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 14:50:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

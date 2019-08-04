@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="design_build_types" table="x_172976_bid_track_project" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design-Build</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:09:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a95c6bddb473f00e55d7b1ebf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:09:49</sys_updated_on>
+            <value>Design-Build</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CMAR</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:10:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89f58ef9db473f00e55d7b1ebf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:10:17</sys_updated_on>
+            <value>CMAR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Progressive D-B</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:10:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d068ef9db473f00e55d7b1ebf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:10:36</sys_updated_on>
+            <value>Progressive D-B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DBO</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>171682bddb473f00e55d7b1ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:10:59</sys_updated_on>
+            <value>DBO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DBOF</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:11:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb2682bddb473f00e55d7b1ebf9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:11:16</sys_updated_on>
+            <value>DBOF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P3</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c468abddb473f00e55d7b1ebf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:11:35</sys_updated_on>
+            <value>P3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixed Price D-B</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:11:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1456067ddb473f00e55d7b1ebf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:11:52</sys_updated_on>
+            <value>Fixed Price D-B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GC/CM</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>80</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:12:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e86642fddb473f00e55d7b1ebf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:12:10</sys_updated_on>
+            <value>GC/CM</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>design_build_types</element>
+            <name>x_172976_bid_track_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:09:49</sys_created_on>
+            <sys_id>1ad506bddb473f00e55d7b1ebf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>design_build_types</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_choice_x_172976_bid_track_project_design_build_types</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 14:09:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
