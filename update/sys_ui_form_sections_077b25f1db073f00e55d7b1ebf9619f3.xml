@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-04 12:14:38</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c2bdca2dbcbbf00e55d7b1ebf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_bid_track_project" name="x_172976_bid_track_project" sys_domain="global" view="Default view">077b25f1db073f00e55d7b1ebf9619f3</sys_ui_form>
+            <sys_ui_section caption="RFQ Tracking" display_value="RFQ Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">6c2b9ca2dbcbbf00e55d7b1ebf96196f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_172976_bid_track_project</name>
             <roles/>
