@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>602bdca2dbcbbf00e55d7b1ebf961941</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>17c35475dbd3bb40e55d7b1ebf96199d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>project_city</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e42bdca2dbcbbf00e55d7b1ebf961941</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>9bc35475dbd3bb40e55d7b1ebf96199d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>project_state</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>6c2bdca2dbcbbf00e55d7b1ebf961941</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>13c35475dbd3bb40e55d7b1ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,349 +46,279 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e02bdca2dbcbbf00e55d7b1ebf961942</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>97c35475dbd3bb40e55d7b1ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
+            <element>project_county</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>682bdca2dbcbbf00e55d7b1ebf961942</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1fc35475dbd3bb40e55d7b1ebf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_county</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>ec2bdca2dbcbbf00e55d7b1ebf961942</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_zip</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>642bdca2dbcbbf00e55d7b1ebf961943</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>93c35475dbd3bb40e55d7b1ebf96199f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e82bdca2dbcbbf00e55d7b1ebf961943</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1bc35475dbd3bb40e55d7b1ebf96199f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>602bdca2dbcbbf00e55d7b1ebf961944</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>9fc35475dbd3bb40e55d7b1ebf96199f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e42bdca2dbcbbf00e55d7b1ebf961944</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>17c35475dbd3bb40e55d7b1ebf9619a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer.city</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>6c2bdca2dbcbbf00e55d7b1ebf961944</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>9bc35475dbd3bb40e55d7b1ebf9619a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer.state</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e02bdca2dbcbbf00e55d7b1ebf961945</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>13c35475dbd3bb40e55d7b1ebf9619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer.phone</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>682bdca2dbcbbf00e55d7b1ebf961945</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>97c35475dbd3bb40e55d7b1ebf9619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineer.website</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>ec2bdca2dbcbbf00e55d7b1ebf961945</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1fc35475dbd3bb40e55d7b1ebf9619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>engineers_estimate</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>642bdca2dbcbbf00e55d7b1ebf961946</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>93c35475dbd3bb40e55d7b1ebf9619a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_manager</element>
-            <position>15</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e82bdca2dbcbbf00e55d7b1ebf961946</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>addendums_out_at_procurement</element>
-            <position>16</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>602bdca2dbcbbf00e55d7b1ebf961947</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1bc35475dbd3bb40e55d7b1ebf9619a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>17</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e42bdca2dbcbbf00e55d7b1ebf961947</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>9fc35475dbd3bb40e55d7b1ebf9619a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_owner</element>
-            <position>18</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>6c2bdca2dbcbbf00e55d7b1ebf961947</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>17c35475dbd3bb40e55d7b1ebf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_owner.city</element>
-            <position>19</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e02bdca2dbcbbf00e55d7b1ebf961948</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>9bc35475dbd3bb40e55d7b1ebf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_owner.state</element>
-            <position>20</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>682bdca2dbcbbf00e55d7b1ebf961948</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>13c35475dbd3bb40e55d7b1ebf9619a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_owner.phone</element>
-            <position>21</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>ec2bdca2dbcbbf00e55d7b1ebf961948</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>97c35475dbd3bb40e55d7b1ebf9619a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_owner.website</element>
-            <position>22</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>642bdca2dbcbbf00e55d7b1ebf961949</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1fc35475dbd3bb40e55d7b1ebf9619a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>23</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e82bdca2dbcbbf00e55d7b1ebf961949</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>93c35475dbd3bb40e55d7b1ebf9619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>24</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>602bdca2dbcbbf00e55d7b1ebf96194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e42bdca2dbcbbf00e55d7b1ebf96194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>26</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>6c2bdca2dbcbbf00e55d7b1ebf96194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>27</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-06 14:19:01</sys_created_on>
-            <sys_id>e02bdca2dbcbbf00e55d7b1ebf96194b</sys_id>
+            <sys_created_on>2019-08-16 16:07:14</sys_created_on>
+            <sys_id>1bc35475dbd3bb40e55d7b1ebf9619a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-06 14:19:01</sys_updated_on>
+            <sys_updated_on>2019-08-16 16:07:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

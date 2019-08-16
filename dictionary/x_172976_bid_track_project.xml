@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="1" text_index="true" type="collection">
+    <element extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="3" text_index="true" type="collection">
         <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
@@ -10,9 +10,25 @@
         </element>
         <element label="Bid Date - Time" mandatory="true" max_length="40" name="bid_date_time" type="glide_date_time"/>
         <element label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="DB Status" max_length="40" name="db_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="(DB 30%)" sequence="0" value="db_30"/>
+                <element inactive_on_update="false" label="(DB 60%)" sequence="1" value="db_60"/>
+                <element inactive_on_update="false" label="(DB 90%)" sequence="2" value="db_90"/>
+                <element inactive_on_update="false" label="(DB 100%)" sequence="3" value="db_100"/>
+            </choice>
+        </element>
         <element choice="1" label="Delivery Method" max_length="40" name="delivery_method" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Design-Build" sequence="10" value="design-build"/>
+                <element inactive_on_update="false" label="Hard Bid" sequence="0" value="Hard Bid"/>
+                <element inactive_on_update="false" label="Design-Build" sequence="1" value="design-build"/>
+                <element inactive_on_update="false" label="Post Bid" sequence="2" value="Post Bid"/>
+                <element inactive_on_update="false" label="Private" sequence="3" value="Private"/>
+                <element inactive_on_update="false" label="Customer List" sequence="4" value="Customer List"/>
+                <element inactive_on_update="false" label="Take Off Only" sequence="5" value="Take Off Only"/>
+                <element inactive_on_update="false" label="No Quote" sequence="6" value="No Quote"/>
+                <element inactive_on_update="false" label="Invitation" sequence="7" value="Invitation"/>
+                <element inactive_on_update="false" label="Rebid" sequence="8" value="Rebid"/>
             </choice>
         </element>
         <element choice="1" label="Design Build Types" max_length="40" name="design_build_types" type="choice">
@@ -44,7 +60,30 @@
         <element default="0" label="Project RFQ count" max_length="40" name="project_rfq_count" type="integer"/>
         <element label="Project RFQ Vendors" max_length="4000" name="project_rfq_vendors" reference="core_company" reference_qual="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" reference_qual_condition="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" type="glide_list"/>
         <element label="Project State" max_length="40" name="project_state" type="string"/>
-        <element label="Project Type" mandatory="true" max_length="40" name="project_type" type="string"/>
+        <element choice="1" default="1" label="Project Status" max_length="40" name="project_status" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="TRACKING" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="PLANS SECURED" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="TAKE OFF IN PROGRESS" sequence="30" value="3"/>
+                <element inactive_on_update="false" label="PRICING" sequence="40" value="4"/>
+                <element inactive_on_update="false" label="SENT TO PM" sequence="50" value="5"/>
+                <element inactive_on_update="false" label="COMPLETE LESS VALVES" sequence="60" value="6"/>
+                <element inactive_on_update="false" label="COMPLETE LESS PKGS" sequence="70" value="7"/>
+                <element inactive_on_update="false" label="COMPLETE" sequence="80" value="8"/>
+                <element inactive_on_update="false" label="CLOSEOUT" sequence="90" value="9"/>
+            </choice>
+        </element>
+        <element choice="1" label="Project Type" mandatory="true" max_length="40" name="project_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="WWTP" sequence="0" value="WWTP"/>
+                <element inactive_on_update="false" label="WTP" sequence="1" value="WTP"/>
+                <element inactive_on_update="false" label="PS" sequence="2" value="PS"/>
+                <element inactive_on_update="false" label="Cad Drawing" sequence="3" value="Cad Drawing"/>
+                <element inactive_on_update="false" label="HATCH" sequence="4" value="HATCH"/>
+                <element inactive_on_update="false" label="WRF" sequence="5" value="WRF"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="Other"/>
+            </choice>
+        </element>
         <element label="Project Zip" max_length="40" name="project_zip" type="string"/>
         <element label="Quotations Specialist" max_length="32" name="quotations_specialist" reference="sys_user" type="reference"/>
         <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>
