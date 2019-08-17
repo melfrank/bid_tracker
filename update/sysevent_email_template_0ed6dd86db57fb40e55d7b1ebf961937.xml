@@ -42,21 +42,21 @@
 </table>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>ferguson.rfq.send</name>
+        <name>ferguson.rfq.send.withattachment</name>
         <sms_alternate/>
         <subject>${project_name} - ${project_city}, ${project_state}  ${project_zip} - Bid Date - ${bid_date_time}</subject>
         <sys_class_name>sysevent_email_template</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-05 15:59:00</sys_created_on>
-        <sys_id>ff912b86db4b7f00e55d7b1ebf961997</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>ferguson.rfq.send</sys_name>
+        <sys_created_on>2019-08-17 15:38:38</sys_created_on>
+        <sys_id>0ed6dd86db57fb40e55d7b1ebf961937</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ferguson.rfq.send.withattachment</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sysevent_email_template_ff912b86db4b7f00e55d7b1ebf961997</sys_update_name>
+        <sys_update_name>sysevent_email_template_0ed6dd86db57fb40e55d7b1ebf961937</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-17 17:04:31</sys_updated_on>
+        <sys_updated_on>2019-08-17 17:03:09</sys_updated_on>
         <sys_version>2</sys_version>
     </sysevent_email_template>
 </record_update>
