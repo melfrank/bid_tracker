@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="password_log_in" table="x_172976_bid_track_project">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="original_addendum" table="x_172976_bid_track_project">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Login/Pswd</column_label>
+        <column_label>Original Addendum</column_label>
         <comments/>
         <create_roles/>
-        <default_value>sctv981d</default_value>
+        <default_value>0</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -27,12 +22,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>password_log_in</element>
+        <element>original_addendum</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_172976_bid_track_project</name>
@@ -52,20 +47,20 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-04 12:02:17</sys_created_on>
-        <sys_id>4905a935db8ffb00e55d7b1ebf96199f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Login/Pswd</sys_name>
+        <sys_created_on>2019-08-19 18:30:15</sys_created_on>
+        <sys_id>1741d4fadb973300e55d7b1ebf9619d2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Original Addendum</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sys_dictionary_x_172976_bid_track_project_password_log_in</sys_update_name>
+        <sys_update_name>sys_dictionary_x_172976_bid_track_project_original_addendum</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-08-19 19:11:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
-        <use_dependent_field>true</use_dependent_field>
+        <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

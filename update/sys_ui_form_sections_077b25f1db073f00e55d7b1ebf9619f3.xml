@@ -24,23 +24,37 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_172976_bid_track_project" name="x_172976_bid_track_project" sys_domain="global" view="Default view">077b25f1db073f00e55d7b1ebf9619f3</sys_ui_form>
-            <sys_ui_section caption="Engineer - Owner" display_value="Engineer - Owner" name="x_172976_bid_track_project" sys_domain="global" view="Default view">908c298adb97fb40e55d7b1ebf96194c</sys_ui_section>
+            <sys_ui_section caption="Engineer - Owner - Contractor" display_value="Engineer - Owner - Contractor" name="x_172976_bid_track_project" sys_domain="global" view="Default view">908c298adb97fb40e55d7b1ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-17 17:18:11</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-19 17:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5123087edb573300e55d7b1ebf961915</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_bid_track_project" name="x_172976_bid_track_project" sys_domain="global" view="Default view">077b25f1db073f00e55d7b1ebf9619f3</sys_ui_form>
+            <sys_ui_section caption="Plan Service Information" display_value="Plan Service Information" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-19 17:28:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-06 14:19:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2c2bdca2dbcbbf00e55d7b1ebf961921</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_172976_bid_track_project" name="x_172976_bid_track_project" sys_domain="global" view="Default view">077b25f1db073f00e55d7b1ebf9619f3</sys_ui_form>
             <sys_ui_section caption="RFQ Tracking" display_value="RFQ Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">6c2b9ca2dbcbbf00e55d7b1ebf96196f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-17 17:18:11</sys_updated_on>
+            <sys_updated_on>2019-08-19 17:28:24</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_172976_bid_track_project</name>

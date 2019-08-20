@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="project_state" table="x_172976_bid_track_project">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="preferred_plan_service_website3" table="x_172976_bid_track_project">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Project State</column_label>
+        <column_label>Website</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +22,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>project_state</element>
+        <element>preferred_plan_service_website3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="URL">url</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>1024</max_length>
         <name>x_172976_bid_track_project</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-04 12:02:18</sys_created_on>
-        <sys_id>4df5ed79dbc33f00e55d7b1ebf9619bc</sys_id>
+        <sys_created_on>2019-08-19 19:11:20</sys_created_on>
+        <sys_id>89ba1836dbd73300e55d7b1ebf961995</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Project State</sys_name>
+        <sys_name>Website</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sys_dictionary_x_172976_bid_track_project_project_state</sys_update_name>
+        <sys_update_name>sys_dictionary_x_172976_bid_track_project_preferred_plan_service_website3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-04 12:02:18</sys_updated_on>
+        <sys_updated_on>2019-08-19 19:11:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
