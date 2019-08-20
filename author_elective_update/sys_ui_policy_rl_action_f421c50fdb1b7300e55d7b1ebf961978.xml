@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list>REL:b9edf0ca0a0a0b010035de2d6b579a03</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 16:37:44</sys_created_on>
+        <sys_id>f421c50fdb1b7300e55d7b1ebf961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REL:b9edf0ca0a0a0b010035de2d6b579a03</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_f421c50fdb1b7300e55d7b1ebf961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 16:37:44</sys_updated_on>
+        <ui_policy display_value="Show - Hide Related Lists">17d08d4bdb1b7300e55d7b1ebf9619f6</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_ui_policy_rl_action_f421c50fdb1b7300e55d7b1ebf961978</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list>REL:b9edf0ca0a0a0b010035de2d6b579a03</list><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-20 16:37:44</sys_created_on><sys_id>f421c50fdb1b7300e55d7b1ebf961978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>REL:b9edf0ca0a0a0b010035de2d6b579a03</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_policy_rl_action_f421c50fdb1b7300e55d7b1ebf961978</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-20 16:37:44</sys_updated_on><ui_policy display_value="Show - Hide Related Lists">17d08d4bdb1b7300e55d7b1ebf9619f6</ui_policy><visible>true</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>1124263031</payload_hash>
+        <record_name>REL:b9edf0ca0a0a0b010035de2d6b579a03</record_name>
+        <reverted_from/>
+        <source>89314385db4f7b00e55d7b1ebf96196e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 16:37:44</sys_created_on>
+        <sys_id>f021c50fdb1b7300e55d7b1ebf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cafe434de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 16:37:44</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>3c21c50f271b7300daae8499215ca979</update_guid>
+        <update_guid_history>3c21c50f271b7300daae8499215ca979:1124263031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 17:59:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>608ebf8575e4496bbe6c3e50882717a9</sys_id>
+        <sys_metadata>f421c50fdb1b7300e55d7b1ebf961978</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REL:b9edf0ca0a0a0b010035de2d6b579a03</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_f421c50fdb1b7300e55d7b1ebf961978</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_f421c50fdb1b7300e55d7b1ebf961978">f021c50fdb1b7300e55d7b1ebf96197a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 17:59:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

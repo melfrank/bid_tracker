@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_recipient_qualifier">
+    <sys_recipient_qualifier action="INSERT_OR_UPDATE">
+        <conditions table="x_172976_bid_track_project">project_rfq_vendorsISNOTEMPTY^EQ<item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description>Selected RFQ Vendors</description>
+        <disambiguator_fields/>
+        <display_name_field>project_rfq_vendors</display_name_field>
+        <email_address_field>sys_created_by</email_address_field>
+        <name>Selected RFQ Vendors</name>
+        <order>100</order>
+        <script><![CDATA[(function (recipientQuery, targetRecord) {
+	/**
+	 * recipientQuery: A GlideRecord representing the table defined in "Table". Add conditions to
+	 *        filter the recipients returned to the Email Client auto-complete.
+	 *        i.e. recipientQuery.addQuery('active', true);
+	 * targetRecord: A GlideRecord representing the record in which the Email Client was opened from
+	 */
+
+})(recipientQuery, targetRecord);]]></script>
+        <search_disambiguators_fields>false</search_disambiguators_fields>
+        <sys_class_name>sys_recipient_qualifier</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 17:12:11</sys_created_on>
+        <sys_id>09a741c3db5b7300e55d7b1ebf96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Selected RFQ Vendors</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_recipient_qualifier_09a741c3db5b7300e55d7b1ebf96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 17:12:11</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <type>condition</type>
+    </sys_recipient_qualifier>
+</record_update>

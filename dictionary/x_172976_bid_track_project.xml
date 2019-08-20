@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="1" text_index="true" type="collection">
+    <element attributes="email_client=true" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="2" text_index="true" type="collection">
         <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
@@ -118,6 +118,7 @@
                 <element inactive_on_update="false" label="Private" sequence="20" value="Private"/>
             </choice>
         </element>
+        <element label="View/Create Quick Messages" max_length="32" name="quick_messages" reference="sys_email_canned_message" type="reference"/>
         <element label="Quotations Specialist" max_length="32" name="quotations_specialist" reference="sys_user" type="reference"/>
         <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>
         <element label="Revised Bid Date" max_length="40" name="revised_bid_date" type="glide_date_time"/>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_address_filter">
+    <sys_email_address_filter action="INSERT_OR_UPDATE">
+        <domains>e3694d07db5b7300e55d7b1ebf9619bf</domains>
+        <exceptions/>
+        <name>RFQ Blacklist Filter</name>
+        <sys_class_name>sys_email_address_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 17:14:13</sys_created_on>
+        <sys_id>d3398907db5b7300e55d7b1ebf961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RFQ Blacklist Filter</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_email_address_filter_d3398907db5b7300e55d7b1ebf961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 17:14:13</sys_updated_on>
+        <type>blacklist</type>
+    </sys_email_address_filter>
+</record_update>
