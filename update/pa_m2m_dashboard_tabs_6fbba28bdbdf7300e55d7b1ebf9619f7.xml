@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Pre-Bid Process Tracker">cdbba28bdbdf7300e55d7b1ebf961948</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 00:23:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fbba28bdbdf7300e55d7b1ebf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdbba28bdbdf7300e55d7b1ebf961948</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 00:23:30</sys_updated_on>
+        <tab display_value="New Tab">e7bba28bdbdf7300e55d7b1ebf9619f5</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

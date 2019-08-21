@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_icon_3" table="x_172976_bid_track_project">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="project_rfqs_received" table="x_172976_bid_track_project">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Icon 3</column_label>
+        <column_label>Project RFQs Received</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>0</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -22,18 +27,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_icon_3</element>
+        <element>project_rfqs_received</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Icon">icon</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100</max_length>
+        <max_length>40</max_length>
         <name>x_172976_bid_track_project</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-19 19:26:28</sys_created_on>
-        <sys_id>f22edcf6dbd73300e55d7b1ebf96198a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Icon 3</sys_name>
+        <sys_created_on>2019-08-20 21:20:31</sys_created_on>
+        <sys_id>b1b14a03db5f7300e55d7b1ebf9619ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Project RFQs Received</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sys_dictionary_x_172976_bid_track_project_u_icon_3</sys_update_name>
+        <sys_update_name>sys_dictionary_x_172976_bid_track_project_project_rfqs_received</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-19 19:26:28</sys_updated_on>
+        <sys_updated_on>2019-08-20 21:22:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

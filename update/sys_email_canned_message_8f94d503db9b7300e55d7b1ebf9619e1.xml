@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_canned_message">
     <sys_email_canned_message action="INSERT_OR_UPDATE">
         <active>true</active>
-        <body><![CDATA[<p><img src="/sys_attachment.do?sys_id=f6b49dcfdb5b7300e55d7b1ebf9619fb" alt="Image result for ferguson waterworks logo" /></p>
+        <body><![CDATA[<p><img src="/sys_attachment.do?sys_id=6d3ffd4fdb1f7300e55d7b1ebf961909" alt="Image result for ferguson waterworks logo" /></p>
 <p>&nbsp;</p>
-<p>Please quote the attached Request for Quote for:&nbsp;Project Name: ${project_name}<br /><strong><br />Notes:&nbsp;&nbsp;Comments: ${short_description}<br /></strong></p>
-<p>Project Name:&nbsp;Project Name: ${project_name}<br /><br />Project Location:&nbsp; ${project_city.city}, ${project_city.state} ${project_city.zip}</p>
-<p><br />PLEASE RETURN TO ME BY:&nbsp;<strong><span style="text-decoration: underline;">Tomorrow</span></strong><strong><br /><br /></strong>If You Find Any Discrepancies With The Attached Materials List And Specifications&nbsp;<br />Please Quote Per Written Specifications And Drawings&nbsp;<br /><br />If Your Quote Does Not Fully Comply With The Project Specifications,<br />You Are Required To List All Exceptions Taken.<br /><br /><strong>ALL EXCEPTIONS NEED TO BE LISTED ON YOUR QUOTE OR ON THE VENDOR QUALIFICATION FORM.<br /><br /></strong>If No Exceptions Are Noted, Ferguson Will Assume&nbsp;<br /><strong>That Your Quote Is In Full Compliance With The Material Specifications.<br /></strong>Please let me know if you need more Information.<br /><br />Thank you in advance for your help, hope to hear from you soon.</p>
+<p><span style="font-size: 10pt;">Please quote the attached Request for Quote for:&nbsp;Project Name: ${project_name}</span><br /><span style="font-size: 10pt;"><strong><br />Notes:&nbsp;&nbsp;Comments: ${short_description}<br /></strong></span></p>
+<p><span style="font-size: 10pt;">Project Name:&nbsp;Project Name: ${project_name}</span><br /><br /><span style="font-size: 10pt;">Project Location:&nbsp; ${project_city.city}, ${project_city.state} ${project_city.zip}</span></p>
+<p><br /><span style="font-size: 10pt;">PLEASE RETURN TO ME BY:&nbsp;<strong><span style="text-decoration: underline;">Tomorrow</span></strong><strong><br /><br /></strong>If You Find Any Discrepancies With The Attached Materials List And Specifications&nbsp;</span><br /><span style="font-size: 10pt;">Please Quote Per Written Specifications And Drawings&nbsp;</span><br /><br /><span style="font-size: 10pt;">If Your Quote Does Not Fully Comply With The Project Specifications,</span><br /><span style="font-size: 10pt;">You Are Required To List All Exceptions Taken.</span><br /><br /><span style="font-size: 10pt;"><strong>ALL EXCEPTIONS NEED TO BE LISTED ON YOUR QUOTE OR ON THE VENDOR QUALIFICATION FORM.<br /><br /></strong>If No Exceptions Are Noted, Ferguson Will Assume&nbsp;</span><br /><span style="font-size: 10pt;"><strong>That Your Quote Is In Full Compliance With The Material Specifications.<br /></strong>Please let me know if you need more Information.</span><br /><br /><span style="font-size: 10pt;">Thank you in advance for your help, hope to hear from you soon.</span></p>
 <p>&nbsp;</p>
-<p>With Best Regards,</p>
-<p>&nbsp;${project_quotations.name}</p>
-<p><strong>Quotations Manager</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Ferguson Waterworks | Plant Division</strong></p>
-<p>T: 704-972-7871&nbsp; F: 704-554-0874</p>
-<p>E:&nbsp;<a href="mailto:diane.jacob@ferguson.com">diane.jacob@ferguson.com</a></p>
+<p><span style="font-size: 10pt;">With Best Regards,</span></p>
+<p><span style="font-size: 10pt;">&nbsp;${project_quotations.name}</span></p>
+<p><span style="font-size: 10pt;"><strong>Quotations Manager</strong></span></p>
+<p><span style="font-size: 10pt;"><strong>&nbsp;</strong></span></p>
+<p><span style="font-size: 10pt;"><strong>Ferguson Waterworks | Plant Division</strong></span></p>
+<p><span style="font-size: 10pt;">T: 704-972-7871&nbsp; F: 704-554-0874</span></p>
+<p><span style="font-size: 10pt;">E: ${project_quotations.email}</span></p>
 <p>&nbsp;</p>
-<p><a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ferguson.com_&amp;d=DwMFAg&amp;c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r=b9WRLcgtX7wuhlpG4G3LyF4KRvX-jKgXnVAuH6BYdU4&amp;m=iXtrqFsxVS3U4Yy8ZtKUCtdttFSzdfJk4R8qR044HsM&amp;s=gUImqlJVEGs--vQC4EXkoPEoK5xUnIl01nHjJy6IUFE&amp;e=">www.ferguson.com</a></p>]]></body>
+<p><span style="font-size: 10pt;"><a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ferguson.com_&amp;d=DwMFAg&amp;c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r=b9WRLcgtX7wuhlpG4G3LyF4KRvX-jKgXnVAuH6BYdU4&amp;m=iXtrqFsxVS3U4Yy8ZtKUCtdttFSzdfJk4R8qR044HsM&amp;s=gUImqlJVEGs--vQC4EXkoPEoK5xUnIl01nHjJy6IUFE&amp;e=">www.ferguson.com</a></span></p>]]></body>
         <condition table="x_172976_bid_track_project">project_rfq_vendorsISNOTEMPTY^EQ<item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-20 18:11:51</sys_created_on>
         <sys_id>8f94d503db9b7300e55d7b1ebf9619e1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>RFQ Message 2</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_email_canned_message_8f94d503db9b7300e55d7b1ebf9619e1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-20 18:11:51</sys_updated_on>
+        <sys_updated_on>2019-08-20 21:09:23</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <title>RFQ Message 2</title>
         <user/>

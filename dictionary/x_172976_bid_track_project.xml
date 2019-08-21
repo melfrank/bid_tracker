@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="2" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="2" text_index="true" type="collection">
         <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
@@ -86,6 +86,8 @@
         <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Project Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" reference_qual_condition="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" type="reference"/>
         <element label="Project Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;03b0388adb93fb40e55d7b1ebf961908&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element default="0" label="Project RFQs Received" max_length="40" name="project_rfqs_received" read_only="true" type="integer"/>
+        <element default="0" label="Project RFQs Sent" max_length="40" name="project_rfqs_sent" read_only="true" type="integer"/>
         <element default="0" label="Project RFQ count" max_length="40" name="project_rfq_count" type="integer"/>
         <element label="Project RFQ Vendors" max_length="4000" name="project_rfq_vendors" reference="core_company" reference_qual="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" reference_qual_condition="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" type="glide_list"/>
         <element choice="1" default="1" label="Project Status" max_length="40" name="project_status" type="integer">
@@ -123,6 +125,7 @@
         <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>
         <element label="Revised Bid Date" max_length="40" name="revised_bid_date" type="glide_date_time"/>
         <element label="Send RFQs Now" max_length="40" name="send_rfqs_now" type="boolean"/>
-        <element label="Icon 3" max_length="100" name="u_icon_3" type="icon"/>
+        <element label="Calendar start date span" max_length="40" name="u_first_date" type="glide_date"/>
+        <element label="Calendar end date span" max_length="40" name="u_last_date" type="glide_date"/>
     </element>
 </database>
