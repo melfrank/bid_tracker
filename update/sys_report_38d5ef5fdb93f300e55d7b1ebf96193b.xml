@@ -43,8 +43,10 @@
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
-        <field_list>number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list>
-        <filter/>
+        <field_list>bid_date_time,project_name,business_unit,number,opened_at,project_city.city,project_city.state,project_status,delivery_method,project_estimator.name,project_manager.name,engineer,engineers_estimate,sys_updated_on,sys_updated_by</field_list>
+        <filter table="x_172976_bid_track_project">project_status!=10^project_estimator=2d9d6122db03ff00e55d7b1ebf9619bf<item display_value="MISC" endquery="false" field="project_status" goto="false" newquery="false" operator="!=" or="false" value="10"/>
+            <item display_table="sys_user" display_value="Bob  Walters" endquery="false" field="project_estimator" goto="false" newquery="false" operator="=" or="false" value="2d9d6122db03ff00e55d7b1ebf9619bf"/>
+        </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
@@ -100,23 +102,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>shahzad.hussain</sys_created_by>
-        <sys_created_on>2019-08-20 19:47:22</sys_created_on>
-        <sys_id>e68ca10bdbdb7300e55d7b1ebf961918</sys_id>
+        <sys_created_on>2019-08-21 23:15:44</sys_created_on>
+        <sys_id>38d5ef5fdb93f300e55d7b1ebf96193b</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Estimator Dashboard</sys_name>
+        <sys_name>Bob's Estimates</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sys_report_e68ca10bdbdb7300e55d7b1ebf961918</sys_update_name>
+        <sys_update_name>sys_report_38d5ef5fdb93f300e55d7b1ebf96193b</sys_update_name>
         <sys_updated_by>shahzad.hussain</sys_updated_by>
-        <sys_updated_on>2019-08-21 22:25:27</sys_updated_on>
+        <sys_updated_on>2019-08-21 23:17:05</sys_updated_on>
         <table>x_172976_bid_track_project</table>
-        <title>Estimator Dashboard</title>
+        <title>Bob's Estimates</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>bid_date_time</trend_field>
-        <type>calendar</type>
+        <trend_field/>
+        <type>list</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>

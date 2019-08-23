@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>db_status</element>
+        <name>x_172976_bid_track_project</name>
+        <style>background-color:Tomato</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 11:10:53</sys_created_on>
+        <sys_id>971942abdb1ff300e55d7b1ebf9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_style_971942abdb1ff300e55d7b1ebf9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 11:10:53</sys_updated_on>
+        <value>db_30</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=971942abdb1ff300e55d7b1ebf9619c8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_ui_style_971942abdb1ff300e55d7b1ebf9619c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>db_status</element><name>x_172976_bid_track_project</name><style>background-color:Tomato</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-22 11:10:53</sys_created_on><sys_id>971942abdb1ff300e55d7b1ebf9619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_172976_bid_track_project</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_style_971942abdb1ff300e55d7b1ebf9619c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 11:10:53</sys_updated_on><value>db_30</value></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=971942abdb1ff300e55d7b1ebf9619c8"/></record_update>]]></payload>
+        <payload_hash>-38285244</payload_hash>
+        <record_name>x_172976_bid_track_project</record_name>
+        <reverted_from/>
+        <source>ffe7d69fdb5fb300e55d7b1ebf961976</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 11:10:53</sys_created_on>
+        <sys_id>a8890aabdb1ff300e55d7b1ebf96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cb905b0880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 11:10:53</sys_updated_on>
+        <type>Style</type>
+        <update_guid>e0890aab151ff300c70f53b4a39b386b</update_guid>
+        <update_guid_history>e0890aab151ff300c70f53b4a39b386b:-38285244</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 11:17:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>a564ae7bf0cd4f5ca8d7994bef5c0044</sys_id>
+        <sys_metadata>971942abdb1ff300e55d7b1ebf9619c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Project">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_style_971942abdb1ff300e55d7b1ebf9619c8</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_971942abdb1ff300e55d7b1ebf9619c8">a8890aabdb1ff300e55d7b1ebf96196b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 11:17:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,19 +4,19 @@
         <height>10</height>
         <portal_widget display_value="Created 2019-08-20 17:25:20">6a2c22cbdbdf7300e55d7b1ebf96195b</portal_widget>
         <posx>0</posx>
-        <posy>12</posy>
+        <posy>22</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>shahzad.hussain</sys_created_by>
         <sys_created_on>2019-08-21 00:25:20</sys_created_on>
         <sys_id>a62ce2cbdbdf7300e55d7b1ebf961979</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>2bbba28bdbdf7300e55d7b1ebf9619f3</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_a62ce2cbdbdf7300e55d7b1ebf961979</sys_update_name>
         <sys_updated_by>shahzad.hussain</sys_updated_by>
-        <sys_updated_on>2019-08-21 00:25:27</sys_updated_on>
+        <sys_updated_on>2019-08-22 18:26:05</sys_updated_on>
         <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

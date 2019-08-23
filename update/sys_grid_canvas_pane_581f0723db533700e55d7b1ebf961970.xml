@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA New Tab">2bbba28bdbdf7300e55d7b1ebf9619f3</grid_canvas>
-        <height>12</height>
-        <portal_widget display_value="Created 2019-08-20 17:23:43">c3cb228bdbdf7300e55d7b1ebf961951</portal_widget>
+        <height>10</height>
+        <portal_widget display_value="Created 2019-08-22 09:14:47">dc1fcbafdb133700e55d7b1ebf961942</portal_widget>
         <posx>0</posx>
-        <posy>10</posy>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>shahzad.hussain</sys_created_by>
-        <sys_created_on>2019-08-21 00:23:44</sys_created_on>
-        <sys_id>8fcb2e8bdbdf7300e55d7b1ebf96199e</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_created_on>2019-08-22 16:14:47</sys_created_on>
+        <sys_id>581f0723db533700e55d7b1ebf961970</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>2bbba28bdbdf7300e55d7b1ebf9619f3</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_8fcb2e8bdbdf7300e55d7b1ebf96199e</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_581f0723db533700e55d7b1ebf961970</sys_update_name>
         <sys_updated_by>shahzad.hussain</sys_updated_by>
         <sys_updated_on>2019-08-22 18:26:05</sys_updated_on>
         <width>12</width>

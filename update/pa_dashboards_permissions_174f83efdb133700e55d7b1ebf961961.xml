@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Pre-Bid Process Tracker">cdbba28bdbdf7300e55d7b1ebf961948</dashboard>
+        <delete>false</delete>
+        <group display_value="Ferguson Estimators" name="Ferguson Estimators">43bc6962db03ff00e55d7b1ebf9619ec</group>
+        <identity>43bc6962db03ff00e55d7b1ebf9619ec</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-22 16:15:49</sys_created_on>
+        <sys_id>174f83efdb133700e55d7b1ebf961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>43bc6962db03ff00e55d7b1ebf9619ec</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_174f83efdb133700e55d7b1ebf961961</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-22 16:15:49</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>

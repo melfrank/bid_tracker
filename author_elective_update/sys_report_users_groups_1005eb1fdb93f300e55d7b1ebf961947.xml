@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">9805eb1fdb93f300e55d7b1ebf961946</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 23:12:09</sys_created_on>
+        <sys_id>1005eb1fdb93f300e55d7b1ebf961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9805eb1fdb93f300e55d7b1ebf961946</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_users_groups_1005eb1fdb93f300e55d7b1ebf961947</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 23:12:09</sys_updated_on>
+        <user_id display_value="Shahzad Hussain">0641eb2adbd33300e55d7b1ebf9619c8</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_report_users_groups_1005eb1fdb93f300e55d7b1ebf961947</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">9805eb1fdb93f300e55d7b1ebf961946</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>shahzad.hussain</sys_created_by><sys_created_on>2019-08-21 23:12:09</sys_created_on><sys_id>1005eb1fdb93f300e55d7b1ebf961947</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9805eb1fdb93f300e55d7b1ebf961946</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_report_users_groups_1005eb1fdb93f300e55d7b1ebf961947</sys_update_name><sys_updated_by>shahzad.hussain</sys_updated_by><sys_updated_on>2019-08-21 23:12:09</sys_updated_on><user_id display_value="Shahzad Hussain">0641eb2adbd33300e55d7b1ebf9619c8</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-263609123</payload_hash>
+        <record_name>9805eb1fdb93f300e55d7b1ebf961946</record_name>
+        <reverted_from/>
+        <source>ffe7d69fdb5fb300e55d7b1ebf961976</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 23:12:09</sys_created_on>
+        <sys_id>5c05eb1fdb93f300e55d7b1ebf961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cb673ac890000001</sys_recorded_at>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 23:12:09</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>9405eb1f9d93f3001f32a29d686f7248</update_guid>
+        <update_guid_history>9405eb1f9d93f3001f32a29d686f7248:-263609123</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 23:13:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>53c35d3f503744868e3849718d1dc4a4</sys_id>
+        <sys_metadata>1005eb1fdb93f300e55d7b1ebf961947</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9805eb1fdb93f300e55d7b1ebf961946</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_1005eb1fdb93f300e55d7b1ebf961947</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_1005eb1fdb93f300e55d7b1ebf961947">5c05eb1fdb93f300e55d7b1ebf961948</sys_update_version>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 23:13:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

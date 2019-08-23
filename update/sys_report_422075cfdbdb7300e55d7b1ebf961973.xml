@@ -43,8 +43,9 @@
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
-        <field_list>bid_date_time,project_name,business_unit,number,opened_at,company.city,company.state,project_status,delivery_method,project_estimator.name,project_manager.name,engineer,engineers_estimate,sys_updated_on,sys_updated_by</field_list>
-        <filter/>
+        <field_list>bid_date_time,project_name,business_unit,number,opened_at,project_city.city,project_city.state,project_status,delivery_method,project_estimator.name,project_manager.name,engineer,engineers_estimate,sys_updated_on,sys_updated_by</field_list>
+        <filter table="x_172976_bid_track_project">project_status!=10<item display_value="MISC" endquery="false" field="project_status" goto="false" newquery="false" operator="!=" or="false" value="10"/>
+        </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
@@ -102,16 +103,16 @@
         <sys_created_by>shahzad.hussain</sys_created_by>
         <sys_created_on>2019-08-20 20:03:11</sys_created_on>
         <sys_id>422075cfdbdb7300e55d7b1ebf961973</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Bid Spreadsheet</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Four Week Outlook</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_report_422075cfdbdb7300e55d7b1ebf961973</sys_update_name>
         <sys_updated_by>shahzad.hussain</sys_updated_by>
-        <sys_updated_on>2019-08-21 00:24:55</sys_updated_on>
+        <sys_updated_on>2019-08-21 23:06:36</sys_updated_on>
         <table>x_172976_bid_track_project</table>
-        <title>Bid Spreadsheet</title>
+        <title>Four Week Outlook</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
