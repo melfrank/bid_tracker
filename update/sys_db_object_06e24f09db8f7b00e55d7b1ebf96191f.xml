@@ -17,6 +17,7 @@
         <number_ref display_value="PRT">c2e24f09db8f7b00e55d7b1ebf961989</number_ref>
         <provider_class/>
         <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
         <super_class display_value="Task" name="task">ba4428b4db323300e55d7b1ebf9619e4</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>

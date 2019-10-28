@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Project Tracking" section_id="437b25f1db073f00e55d7b1ebf9619f2" sys_domain="global" table="x_172976_bid_track_project" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>5c8c298adb97fb40e55d7b1ebf96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineers_estimate</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>d48c298adb97fb40e55d7b1ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_city</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>5c8c298adb97fb40e55d7b1ebf96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_state</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>d08c298adb97fb40e55d7b1ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>588c298adb97fb40e55d7b1ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_county</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:16</sys_created_on>
+            <sys_id>dc8c298adb97fb40e55d7b1ebf96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 17:13:17</sys_created_on>
+            <sys_id>548c298adb97fb40e55d7b1ebf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 17:13:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project Tracking</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 12:14:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>437b25f1db073f00e55d7b1ebf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Tracking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_437b25f1db073f00e55d7b1ebf9619f2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-04 12:14:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_ui_section_437b25f1db073f00e55d7b1ebf9619f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Project Tracking" section_id="437b25f1db073f00e55d7b1ebf9619f2" sys_domain="global" table="x_172976_bid_track_project" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>5c8c298adb97fb40e55d7b1ebf96197d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineers_estimate</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>d48c298adb97fb40e55d7b1ebf96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_city</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>5c8c298adb97fb40e55d7b1ebf96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_state</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>d08c298adb97fb40e55d7b1ebf96197f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_zip</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>588c298adb97fb40e55d7b1ebf96197f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_county</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:16</sys_created_on><sys_id>dc8c298adb97fb40e55d7b1ebf96197f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:16</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-17 17:13:17</sys_created_on><sys_id>548c298adb97fb40e55d7b1ebf961980</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Tracking" display_value="Project Tracking" name="x_172976_bid_track_project" sys_domain="global" view="Default view">437b25f1db073f00e55d7b1ebf9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-17 17:13:17</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Project Tracking</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-04 12:14:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>437b25f1db073f00e55d7b1ebf9619f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tracking</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_437b25f1db073f00e55d7b1ebf9619f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-04 12:14:38</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1119413050</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>89314385db4f7b00e55d7b1ebf96196e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-17 17:13:17</sys_created_on>
+        <sys_id>948c298adb97fb40e55d7b1ebf961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ca091abe60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-17 17:13:17</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>108c298a0f97fb40e2720073355d7e82</update_guid>
+        <update_guid_history>108c298a0f97fb40e2720073355d7e82:1119413050,bb92cdc27b17fb40a132a659472a0d3d:1409642095,e8f105c2df17fb40ee41377eaeea31b5:798951714,53c35475a8d3bb40043d2e5eb3af7ba8:333080248,c3435c353cd3bb40ac051c9ae68cacb8:663693677,f4fdfb21a093bb40c6b4a3ccfa74db69:-1092390116,602bdca2c0cbbf00c4629da85796524e:-1813643130,51da98a209cbbf00c2d15487b24316a8:-1202657745,965542bdf1473f00a6c0fe64bae97fdc:-1813643130,0be971b197473f00537c254d672cb7bc:1073762512,2e58f931c6473f0034452f3647ef791f:-35068244,5653f9f917073f000a430ca3fbea1d99:1785161857,cb7b65f128073f0018fbb6c2bb34331b:1059095290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-17 17:18:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3e11d5c40b5f4410a98e614dcff53e10</sys_id>
+        <sys_metadata>437b25f1db073f00e55d7b1ebf9619f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Tracking</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Project">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_437b25f1db073f00e55d7b1ebf9619f2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_437b25f1db073f00e55d7b1ebf9619f2">948c298adb97fb40e55d7b1ebf961982</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-17 17:18:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

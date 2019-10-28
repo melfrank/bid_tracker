@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="15" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="18" text_index="true" type="collection">
         <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
