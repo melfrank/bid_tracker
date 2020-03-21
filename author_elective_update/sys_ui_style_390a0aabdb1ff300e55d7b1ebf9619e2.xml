@@ -18,7 +18,7 @@
         <sys_updated_on>2019-08-22 11:13:10</sys_updated_on>
         <value>db_60</value>
     </sys_ui_style>
-    <sys_translated_text action="delete_multiple" query="documentkey=390a0aabdb1ff300e55d7b1ebf9619e2"/>
+    <sys_translated_text action="DELETE" query="documentkey=390a0aabdb1ff300e55d7b1ebf9619e2"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true" label="Location" max_length="40" name="cmn_location" sizeclass="10426" text_index="true" type="collection">
+        <element label="Business Unit" max_length="60" name="x_172976_bid_track_business_unit" type="string"/>
+        <element label="County" max_length="60" name="x_172976_bid_track_county" type="string"/>
+        <element label="Region" max_length="60" name="x_172976_bid_track_region" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Engineer" max_length="40" name="x_172976_bid_track_engineer" type="collection">
+        <element label="Engineer" max_length="40" name="engineer" type="string"/>
+        <element label="Engineer's City" max_length="40" name="engineer_s_city" type="string"/>
+        <element label="Engineer's Contact" max_length="40" name="engineer_s_contact" type="string"/>
+        <element label="Engineer's Email" max_length="40" name="engineer_s_email" type="string"/>
+        <element label="Engineer's Mobile" max_length="40" name="engineer_s_mobile" type="phone_number_e164"/>
+        <element label="Engineer's Phone" max_length="40" name="engineer_s_phone" type="phone_number_e164"/>
+        <element label="Engineer's State" max_length="2" name="engineer_s_state" type="string"/>
+        <element label="Engineer's Website" max_length="1024" name="engineer_s_website" type="url"/>
+        <element label="Engineer's Zip" max_length="5" name="engineer_s_zip" type="integer"/>
+    </element>
+</database>

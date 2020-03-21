@@ -178,7 +178,7 @@
         <update_guid_history>9405eb1f9893f3004dd26e1d75a0014a:269628322</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Estimator Dashboard">9a35675fdb93f300e55d7b1ebf96195a</sys_audit_delete>
+        <sys_audit_delete display_value="">9a35675fdb93f300e55d7b1ebf96195a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>shahzad.hussain</sys_created_by>
         <sys_created_on>2019-08-21 23:13:07</sys_created_on>

@@ -19,6 +19,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-02 10:42:27</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>4533c349db8f7b00e55d7b1ebf9619b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>list</sys_name>

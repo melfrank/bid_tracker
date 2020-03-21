@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 172976 Bid Track Plan Service" max_length="40" name="u_imp_tmpl_x_172976_bid_track_plan_service" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plan Service" label="Plan Service" max_length="40" name="u_plan_service" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plan Service Password" label="Plan Service Password" max_length="40" name="u_plan_service_password" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plan Service User Name" label="Plan Service User Name" max_length="40" name="u_plan_service_user_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Plan Service Website" label="Plan Service Website" max_length="1024" name="u_plan_service_website" type="string"/>
+    </element>
+</database>

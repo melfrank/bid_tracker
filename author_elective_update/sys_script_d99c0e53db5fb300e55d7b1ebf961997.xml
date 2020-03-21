@@ -60,7 +60,7 @@
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=d99c0e53db5fb300e55d7b1ebf961997"/>
+    <sys_translated_text action="DELETE" query="documentkey=d99c0e53db5fb300e55d7b1ebf961997"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>

@@ -2,7 +2,7 @@
     <pa_dashboards_permissions action="INSERT_OR_UPDATE">
         <dashboard display_value="Pre-Bid Process Tracker">cdbba28bdbdf7300e55d7b1ebf961948</dashboard>
         <delete>false</delete>
-        <group display_value="Ferguson Estimators" name="Ferguson Estimators">43bc6962db03ff00e55d7b1ebf9619ec</group>
+        <group display_value="">43bc6962db03ff00e55d7b1ebf9619ec</group>
         <identity>43bc6962db03ff00e55d7b1ebf9619ec</identity>
         <read>true</read>
         <role/>

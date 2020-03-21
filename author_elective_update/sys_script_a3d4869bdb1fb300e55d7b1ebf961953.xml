@@ -58,7 +58,7 @@
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=a3d4869bdb1fb300e55d7b1ebf961953"/>
+    <sys_translated_text action="DELETE" query="documentkey=a3d4869bdb1fb300e55d7b1ebf961953"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
@@ -104,7 +104,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Increment RFQ Sent Count</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
-        <sys_parent display_value="Sys Email">c3632430db323300e55d7b1ebf9619b6</sys_parent>
+        <sys_parent display_value="">c3632430db323300e55d7b1ebf9619b6</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>

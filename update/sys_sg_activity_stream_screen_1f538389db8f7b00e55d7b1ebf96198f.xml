@@ -3,19 +3,13 @@
         <add_additional_comment_button>true</add_additional_comment_button>
         <add_attachment_button>true</add_attachment_button>
         <add_work_note_button>true</add_work_note_button>
-        <application_roles/>
         <available_offline>false</available_offline>
-        <data_item/>
         <description> Project Task</description>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <icon display_value="icon-Calendar">0f530b85db4f7b00e55d7b1ebf9619e3</icon>
         <name>Activity Stream</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
         <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>

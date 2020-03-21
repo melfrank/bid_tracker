@@ -14,6 +14,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-11 13:06:09</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>66e9b5ccdb573740e55d7b1ebf9619c1</sys_id>
         <sys_mod_count>96</sys_mod_count>
         <sys_name>Estimating Schedule</sys_name>

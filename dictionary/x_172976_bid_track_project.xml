@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="15" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" text_index="true" type="collection">
         <element choice="1" default="0 - INCLUDED WITH DOWNLOAD" label="Addendums Out at Procurement" max_length="40" name="addendums_out_at_procurement" type="choice">
             <choice>
-                <element inactive_on_update="false" label="0 - INCLUDED WITH DOWNLOAD" sequence="10" value="0 - INCLUDED WITH DOWNLOAD"/>
-                <element inactive_on_update="false" label="1 - INCLUDED WITH DOWNLOAD" sequence="20" value="1 - INCLUDED WITH DOWNLOAD"/>
-                <element inactive_on_update="false" label="2 - INCLUDED WITH DOWNLOAD" sequence="30" value="2 - INCLUDED WITH DOWNLOAD"/>
-                <element inactive_on_update="false" label="3 - INCLUDED WITH DOWNLOAD" sequence="40" value="3 - INCLUDED WITH DOWNLOAD"/>
+                <element inactive_on_update="false" label="20%20-%20INCLUDED%20WITH%20DOWNLOAD" sequence="8" value="20%20-%20INCLUDED%20WITH%20DOWNLOAD"/>
             </choice>
         </element>
         <element label="Add plan service" max_length="40" name="add_plan_service" type="boolean"/>
@@ -80,12 +77,12 @@
         <element attributes="edge_encryption_enabled=true" label="Website" max_length="1024" name="preferred_plan_service_website3" type="url"/>
         <element label="Project City" max_length="40" name="project_city" reference="cmn_location" type="reference"/>
         <element label="Project County" max_length="40" name="project_county" type="string"/>
-        <element label="Project Estimator" max_length="32" name="project_estimator" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;43bc6962db03ff00e55d7b1ebf9619ec&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Project Estimator" max_length="32" name="project_estimator" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;43bc6962db03ff00e55d7b1ebf9619ec&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element label="Project ID" max_length="40" name="project_id" type="string"/>
-        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;bae2213ddbd7bb40e55d7b1ebf9619d8&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;bae2213ddbd7bb40e55d7b1ebf9619d8&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Project Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" reference_qual_condition="vendor_typeLIKEc665317ddb073f00e55d7b1ebf9619c3^EQ" type="reference"/>
-        <element label="Project Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;03b0388adb93fb40e55d7b1ebf961908&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Project Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;03b0388adb93fb40e55d7b1ebf961908&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element default="0" label="Project RFQs Received" max_length="40" name="project_rfqs_received" read_only="true" type="integer"/>
         <element default="0" label="Project RFQs Sent" max_length="40" name="project_rfqs_sent" read_only="true" type="integer"/>
         <element default="0" label="Project RFQ count" max_length="40" name="project_rfq_count" type="integer"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 172976 Bid Track Engineer" max_length="40" name="u_imp_tmpl_x_172976_bid_track_engineer" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer" label="Engineer" max_length="40" name="u_engineer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's City" label="Engineer's City" max_length="40" name="u_engineer_s_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's Contact" label="Engineer's Contact" max_length="40" name="u_engineer_s_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's Email" label="Engineer's Email" max_length="40" name="u_engineer_s_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's Mobile" label="Engineer's Mobile" max_length="40" name="u_engineer_s_mobile" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's Phone" label="Engineer's Phone" max_length="40" name="u_engineer_s_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's State" label="Engineer's State" max_length="2" name="u_engineer_s_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engineer's Website" label="Engineer's Website" max_length="1024" name="u_engineer_s_website" type="string"/>
+        <element attributes="import_attribute_name=Engineer's Zip" label="Engineer's Zip" max_length="5" name="u_engineer_s_zip" type="integer"/>
+    </element>
+</database>
