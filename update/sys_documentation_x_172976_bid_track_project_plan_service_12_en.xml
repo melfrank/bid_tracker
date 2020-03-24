@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="plan_service_12" label="Plan Service 12" language="en" table="x_172976_bid_track_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>plan_service_12</element>
+            <help/>
+            <hint/>
+            <label>Plan Service 12</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <plural>Plan Service 12s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 13:02:27</sys_created_on>
+            <sys_id>43d0b9b0077300109584f0269c1ed05e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Plan Service 12</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_bid_track_project_plan_service_12_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 13:02:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

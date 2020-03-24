@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Engineer</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_172976_bid_track_engineer</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 14:32:48</sys_created_on>
+        <sys_id>9c7762b3072740109584f0269c1ed0d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Engineer</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_db_object_9c7762b3072740109584f0269c1ed0d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 14:32:48</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_172976_bid_track.engineer_user" name="x_172976_bid_track.engineer_user">05c8aabb072340109584f0269c1ed0d4</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_db_object_9c7762b3072740109584f0269c1ed0d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Engineer</label><live_feed_enabled>false</live_feed_enabled><name>x_172976_bid_track_engineer</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-21 14:32:48</sys_created_on><sys_id>9c7762b3072740109584f0269c1ed0d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Engineer</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_db_object_9c7762b3072740109584f0269c1ed0d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-21 14:32:48</sys_updated_on><update_access>false</update_access><user_role display_value="x_172976_bid_track.engineer_user" name="x_172976_bid_track.engineer_user">05c8aabb072340109584f0269c1ed0d4</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1577492841</payload_hash>
+        <record_name>Engineer</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 14:32:49</sys_created_on>
+        <sys_id>bdc8a237072740109584f0269c1ed0d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170fd82c14d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 14:32:49</sys_updated_on>
+        <type>Table</type>
+        <update_guid>f5c8a237dd274010fb10079e169838d3</update_guid>
+        <update_guid_history>f5c8a237dd274010fb10079e169838d3:-1577492841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 21:36:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>116647eec8f14741a21d49120f21e5a9</sys_id>
+        <sys_metadata>9c7762b3072740109584f0269c1ed0d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Engineer</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_db_object_9c7762b3072740109584f0269c1ed0d0</sys_update_name>
+        <sys_update_version display_value="sys_db_object_9c7762b3072740109584f0269c1ed0d0">bdc8a237072740109584f0269c1ed0d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 21:36:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

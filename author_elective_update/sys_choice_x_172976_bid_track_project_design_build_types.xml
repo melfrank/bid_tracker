@@ -5,7 +5,26 @@
             <element>design_build_types</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Design-Build</label>
+            <label>CMAR</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-04 14:10:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89f58ef9db473f00e55d7b1ebf96195a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-23 20:58:40</sys_updated_on>
+            <value>CMAR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer List</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
             <sequence>10</sequence>
@@ -14,29 +33,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0a95c6bddb473f00e55d7b1ebf96191e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-04 14:09:49</sys_updated_on>
-            <value>Design-Build</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>design_build_types</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>CMAR</label>
-            <language>en</language>
-            <name>x_172976_bid_track_project</name>
-            <sequence>20</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-04 14:10:17</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>89f58ef9db473f00e55d7b1ebf96195a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-04 14:10:17</sys_updated_on>
-            <value>CMAR</value>
+            <sys_updated_on>2020-03-23 20:58:29</sys_updated_on>
+            <value>customer_list</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -151,6 +151,44 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-04 14:12:10</sys_updated_on>
             <value>GC/CM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IFC</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>90</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-23 20:59:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1734d2ac077fc0109584f0269c1ed098</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-23 20:59:27</sys_updated_on>
+            <value>ifc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>design_build_types</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GSC</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-23 20:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa6416ec077fc0109584f0269c1ed0b6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-23 20:59:43</sys_updated_on>
+            <value>gsc</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>design_build_types</element>

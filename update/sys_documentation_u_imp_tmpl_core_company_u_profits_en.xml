@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_profits" label="Profits" language="en" table="u_imp_tmpl_core_company">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_profits</element>
+            <help/>
+            <hint/>
+            <label>Profits</label>
+            <language>en</language>
+            <name>u_imp_tmpl_core_company</name>
+            <plural>Profits</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-21 21:29:06</sys_created_on>
+            <sys_id>f3084888077b40109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Profits</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_core_company_u_profits_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-21 21:29:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
