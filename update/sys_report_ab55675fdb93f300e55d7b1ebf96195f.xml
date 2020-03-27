@@ -44,7 +44,7 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>bid_date_time,project_name,business_unit,number,opened_at,project_city.city,project_city.state,project_status,delivery_method,project_estimator.name,project_manager.name,engineer,engineers_estimate,sys_updated_on,sys_updated_by</field_list>
-        <filter table="x_172976_bid_track_project">project_status!=10^project_estimatorDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="MISC" endquery="false" field="project_status" goto="false" newquery="false" operator="!=" or="false" value="10"/>
+        <filter table="x_172976_bid_track_project">project_status!=10^project_estimatorDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="Misc" endquery="false" field="project_status" goto="false" newquery="false" operator="!=" or="false" value="10"/>
             <item endquery="false" field="project_estimator" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
         </filter>
         <from/>

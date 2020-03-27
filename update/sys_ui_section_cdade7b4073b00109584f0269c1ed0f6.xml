@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Timeline" section_id="cdade7b4073b00109584f0269c1ed0f6" sys_domain="global" table="x_172976_bid_track_project" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_first_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-27 17:11:46</sys_created_on>
+            <sys_id>9cb68af107f340109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Timeline" display_value="Timeline" name="x_172976_bid_track_project" sys_domain="global" view="Default view">cdade7b4073b00109584f0269c1ed0f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-27 17:11:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-27 17:11:46</sys_created_on>
+            <sys_id>10b68af107f340109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Timeline" display_value="Timeline" name="x_172976_bid_track_project" sys_domain="global" view="Default view">cdade7b4073b00109584f0269c1ed0f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-27 17:11:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-27 17:11:46</sys_created_on>
+            <sys_id>90b68af107f340109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Timeline" display_value="Timeline" name="x_172976_bid_track_project" sys_domain="global" view="Default view">cdade7b4073b00109584f0269c1ed0f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-27 17:11:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_last_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-27 17:11:46</sys_created_on>
+            <sys_id>14b68af107f340109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Timeline" display_value="Timeline" name="x_172976_bid_track_project" sys_domain="global" view="Default view">cdade7b4073b00109584f0269c1ed0f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-27 17:11:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Timeline</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 22:07:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdade7b4073b00109584f0269c1ed0f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Timeline</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_cdade7b4073b00109584f0269c1ed0f6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 22:07:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="material_origin_requirements" table="x_172976_bid_track_project" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>(AIS) Consolidated Approp. Act, 2014</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:24:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a1f5e3c07f300109584f0269c1ed017</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:24:58</sys_updated_on>
+            <value>ais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All Products must be Manufactured in the USA or Canada</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a2f1e3c07f300109584f0269c1ed0f7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:18</sys_updated_on>
+            <value>usa_canada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buy America</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b3fde7c07f300109584f0269c1ed0c0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:22</sys_updated_on>
+            <value>buy_america</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buy American</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:25:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5f92bc07f300109584f0269c1ed020</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:25</sys_updated_on>
+            <value>buy_american</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domestic Manufactures Only</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:25:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c6f92bc07f300109584f0269c1ed09f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:28</sys_updated_on>
+            <value>domestic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domestic Penn. Steel Act</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:26:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>487fdaf807f300109584f0269c1ed048</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:31</sys_updated_on>
+            <value>penn_steel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domestic Products Only</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:26:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f7f96b807f300109584f0269c1ed0ba</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:34</sys_updated_on>
+            <value>domestics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Import Products Acceptable</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:26:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>478f96bc07f300109584f0269c1ed0a5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:36</sys_updated_on>
+            <value>imports_ok</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MD COMAR Buy American</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>80</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:26:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>629f96bc07f300109584f0269c1ed046</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:39</sys_updated_on>
+            <value>comar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pipe &amp; Fittings Domestic, Other Materials Import is Acceptable</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>90</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:27:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2aafd6bc07f300109584f0269c1ed086</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:42</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>State Domestic Material Laws</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:27:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9abf16bc07f300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:49</sys_updated_on>
+            <value>state_dom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>material_origin_requirements</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>See Notes</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>110</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ecf1abc07f300109584f0269c1ed0ce</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:28:53</sys_updated_on>
+            <value>notes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>material_origin_requirements</element>
+            <name>x_172976_bid_track_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 16:24:45</sys_created_on>
+            <sys_id>222f5e3c07f300109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>material_origin_requirements</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_choice_x_172976_bid_track_project_material_origin_requirements</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 16:24:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Addenda" section_id="dc3d2acd07b340109584f0269c1ed0bd" sys_domain="global" table="x_172976_bid_track_project" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:03</sys_created_on>
+            <sys_id>d94e18e5077300109584f0269c1ed0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:03</sys_updated_on>
+            <text>Addendum 1</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>114e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 2</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>d14e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 3</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>954e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 4</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>594e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 5</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>1d4e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum  6</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>dd4e18e5077300109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 7</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>914e18e5077300109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 8</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>554e18e5077300109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 9</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>194e18e5077300109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 10</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>d94e18e5077300109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 11</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>9d4e18e5077300109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 12</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>514e18e5077300109584f0269c1ed0ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 13</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>154e18e5077300109584f0269c1ed0ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 14</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>d54e18e5077300109584f0269c1ed0ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <text>Addendum 15</text>
+            <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d94e18e5077300109584f0269c1ed0a8</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_1_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_1_line_items</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_1_minutes</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_1_summary</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>114e18e5077300109584f0269c1ed0a9</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_2_date</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_2_line_items</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_2_minutes</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_2_summary</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d14e18e5077300109584f0269c1ed0a9</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_3_date</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_3_line_items</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_3_minutes</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_3_summary</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>954e18e5077300109584f0269c1ed0a9</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_4_date</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_4_line_items</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_4_minutes</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_4_summary</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>594e18e5077300109584f0269c1ed0a9</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_5_date</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed039</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_5_line_items</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_5_minutes</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_5_summary</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>1d4e18e5077300109584f0269c1ed0a9</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_6_date</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_6_line_items</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_6_minutes</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_6_summary</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dd4e18e5077300109584f0269c1ed0a9</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_7_date</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_7_line_items</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_7_minutes</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_7_summary</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>914e18e5077300109584f0269c1ed0aa</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_8_date</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_8_line_items</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_8_minutes</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_8_summary</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>554e18e5077300109584f0269c1ed0aa</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_9_date</element>
+            <position>67</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_9_line_items</element>
+            <position>68</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>69</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_9_minutes</element>
+            <position>70</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_9_summary</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>72</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>194e18e5077300109584f0269c1ed0aa</element>
+            <position>73</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>74</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_10_date</element>
+            <position>75</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_10_line_items</element>
+            <position>76</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>77</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_10_minutes</element>
+            <position>78</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_10_summary</element>
+            <position>79</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>80</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d94e18e5077300109584f0269c1ed0aa</element>
+            <position>81</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>82</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_11_date</element>
+            <position>83</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_11_line_items</element>
+            <position>84</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>85</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_11_minutes</element>
+            <position>86</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_11_summary</element>
+            <position>87</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>88</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9d4e18e5077300109584f0269c1ed0aa</element>
+            <position>89</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>90</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_12_date</element>
+            <position>91</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_12_line_items</element>
+            <position>92</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>93</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_12_minutes</element>
+            <position>94</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_12_summary</element>
+            <position>95</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>96</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>514e18e5077300109584f0269c1ed0ab</element>
+            <position>97</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>98</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_13_date</element>
+            <position>99</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_13_line_items</element>
+            <position>100</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>101</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_13_minutes</element>
+            <position>102</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_13_summary</element>
+            <position>103</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>104</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>154e18e5077300109584f0269c1ed0ab</element>
+            <position>105</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>106</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_14_date</element>
+            <position>107</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_14_line_items</element>
+            <position>108</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>109</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_14_minutes</element>
+            <position>110</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_14_summary</element>
+            <position>111</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>112</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d54e18e5077300109584f0269c1ed0ab</element>
+            <position>113</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e94e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>114</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>6d4e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_15_date</element>
+            <position>115</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>ed4e1c2107b300109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_15_line_items</element>
+            <position>116</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>614e1c2107b300109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>117</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e14e1c2107b300109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_15_minutes</element>
+            <position>118</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>654e1c2107b300109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addendum_15_summary</element>
+            <position>119</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>e54e1c2107b300109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>120</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 14:57:04</sys_created_on>
+            <sys_id>694e1c2107b300109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Addenda" display_value="Addenda" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dc3d2acd07b340109584f0269c1ed0bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Addenda</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 12:04:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc3d2acd07b340109584f0269c1ed0bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Addenda</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_dc3d2acd07b340109584f0269c1ed0bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 12:04:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
