@@ -10,6 +10,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiscal year" label="Fiscal year" max_length="40" name="u_fiscal_year" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Latitude" label="Latitude" max_length="40" name="u_latitude" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Lat long error" label="Lat long error" max_length="1000" name="u_lat_long_error" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Login Name" max_length="40" name="u_login_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Longitude" label="Longitude" max_length="40" name="u_longitude" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Market cap" label="Market cap" max_length="20" name="u_market_cap" type="string"/>
@@ -17,6 +18,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="4000" name="u_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Number of employees" label="Number of employees" max_length="40" name="u_number_of_employees" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent" label="Parent" max_length="32" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="u_password" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone" label="Phone" max_length="40" name="u_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Primary" label="Primary" max_length="40" name="u_primary" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Profits" label="Profits" max_length="20" name="u_profits" type="string"/>

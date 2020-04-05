@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="18" text_index="true" type="collection">
         <element label="Accs. for Fabricated CS" max_length="1024" name="accs_for_fabricated_cs" type="string"/>
         <element label="Accs.  for Fabricated SS" max_length="1024" name="accs_for_fabricated_ss" type="string"/>
         <element label="Addendum 10 Date" max_length="40" name="addendum_10_date" type="glide_date"/>
@@ -65,10 +65,13 @@
         <element label="Add plan service" max_length="40" name="add_plan_service" type="boolean"/>
         <element label="Area Sales Manager" max_length="32" name="area_sales_manager" reference="sys_user" type="reference"/>
         <element label="Bidtracer ID" max_length="40" name="bidtracer_id" type="integer"/>
-        <element label="Bid Items" max_length="1024" name="bid_items" type="string"/>
+        <element choice="3" label="Bid Items" max_length="1024" name="bid_items" type="boolean">
+            <choice/>
+        </element>
         <element label="Buried DIP - EST" max_length="1000" name="buried_dip_est" type="string"/>
         <element label="Buried DIP - PM" max_length="1000" name="buried_dip_pm" type="string"/>
         <element label="Buried DIP Size Ranges" max_length="300" name="buried_dip_size_ranges" type="string"/>
+        <element label="Business Unit" max_length="60" name="business_unit" reference_qual="x_172976_bid_track_business_unitISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_business_unitISNOTEMPTY^EQ" type="string"/>
         <element label="Chemical Piping" max_length="1024" name="chemical_piping" type="string"/>
         <element label="Constructor" max_length="32" name="constructor" reference="core_company" reference_qual="vendor_typeLIKE056cfcec073bc0109584f0269c1ed0af^EQ" reference_qual_condition="vendor_typeLIKE056cfcec073bc0109584f0269c1ed0af^EQ" type="reference"/>
         <element label="Contractor" max_length="32" name="contractor" reference="core_company" reference_qual="vendor_typeLIKE5def3ce0077bc0109584f0269c1ed0c8^EQ" reference_qual_condition="vendor_typeLIKE5def3ce0077bc0109584f0269c1ed0c8^EQ" type="reference"/>
@@ -107,7 +110,7 @@
                 <element inactive_on_update="false" label="GSC" sequence="100" value="gsc"/>
             </choice>
         </element>
-        <element label="DIP Manufacturer" max_length="32" name="dip_manufacturer" reference="core_company" type="reference"/>
+        <element label="DIP Manufacturer" max_length="32" name="dip_manufacturer" reference="core_company" reference_qual="name=U.S. Pipe^NQname=American Pipe and Supply^NQname=McWane Ductile^EQ" reference_qual_condition="name=U.S. Pipe^NQname=American Pipe and Supply^NQname=McWane Ductile^EQ" type="reference"/>
         <element attributes="encode_utf8=false" label="Downloaded by" max_length="32" name="downloaded_by" reference="sys_user" type="reference"/>
         <element label="Email Template" max_length="32" name="email_template" reference="sysevent_email_template" reference_qual="nameSTARTSWITHferguson^EQ" reference_qual_condition="nameSTARTSWITHferguson^EQ" type="reference"/>
         <element label="Engineer" max_length="32" name="engineer" reference="core_company" reference_qual="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" reference_qual_condition="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" type="reference"/>
@@ -146,9 +149,24 @@
         <element label="Low Bidder Amt" max_length="20" name="low_bidder_amt" type="currency"/>
         <element label="Low Bidder Name" max_length="32" name="low_bidder_name" reference="core_company" type="reference"/>
         <element label="Low Bid Amt is an Estimate" max_length="40" name="low_bid_amt_is_an_estimate" type="boolean"/>
-        <element label="Material Origin Requirements" max_length="40" name="material_origin_requirements" type="string"/>
+        <element choice="3" label="Material Origin Requirements" max_length="40" name="material_origin_requirements" type="string">
+            <choice>
+                <element inactive_on_update="false" label="(AIS) Consolidated Approp. Act, 2014" sequence="0" value="ais"/>
+                <element inactive_on_update="false" label="All Products must be Manufactured in the USA or Canada" sequence="10" value="usa_canada"/>
+                <element inactive_on_update="false" label="Buy America" sequence="20" value="buy_america"/>
+                <element inactive_on_update="false" label="Buy American" sequence="30" value="buy_american"/>
+                <element inactive_on_update="false" label="Domestic Manufactures Only" sequence="40" value="domestic"/>
+                <element inactive_on_update="false" label="Domestic Penn. Steel Act" sequence="50" value="penn_steel"/>
+                <element inactive_on_update="false" label="Domestic Products Only" sequence="60" value="domestics"/>
+                <element inactive_on_update="false" label="Import Products Acceptable" sequence="70" value="imports_ok"/>
+                <element inactive_on_update="false" label="MD COMAR Buy American" sequence="80" value="comar"/>
+                <element inactive_on_update="false" label="Pipe &amp; Fittings Domestic, Other Materials Import is Acceptable" sequence="90" value="other"/>
+                <element inactive_on_update="false" label="State Domestic Material Laws" sequence="100" value="state_dom"/>
+                <element inactive_on_update="false" label="See Notes" sequence="110" value="notes"/>
+            </choice>
+        </element>
         <element label="Material Origin Specs/Comments" max_length="2000" name="material_origin_specs_comments" type="string"/>
-        <element label="Mfg Write In" max_length="32" name="mfg_write_in" reference="core_company" type="reference"/>
+        <element label="Mfg Write In" max_length="32" name="mfg_write_in" reference="core_company" reference_qual="manufacturer=true^EQ" reference_qual_condition="manufacturer=true^EQ" type="reference"/>
         <element label="Misc Pkg" max_length="20" name="misc_pkg" type="currency"/>
         <element choice="1" default="0" label="Initial Number of Addenda" max_length="40" name="original_addendum" type="integer">
             <choice>
@@ -172,35 +190,35 @@
         <element label="Pipe Supports Size Ranges" max_length="300" name="pipe_supports_size_ranges" type="string"/>
         <element label="Pipe Support Pkg" max_length="20" name="pipe_support_pkg" type="currency"/>
         <element label="Plans Secured" max_length="40" name="plans_secured_scanned" type="glide_date"/>
-        <element label="Plan Service 1" max_length="32" name="plan_service_1" reference="x_172976_bid_track_plan_service" type="reference"/>
-        <element label="Plan Service 10" max_length="32" name="plan_service_10" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 1" max_length="32" name="plan_service_1" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
+        <element label="Plan Service 10" max_length="32" name="plan_service_10" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 10 Project Number" max_length="40" name="plan_service_10_project_number" type="string"/>
-        <element label="Plan Service 11" max_length="32" name="plan_service_11" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 11" max_length="32" name="plan_service_11" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 11 Project Number" max_length="40" name="plan_service_11_project_number" type="string"/>
-        <element label="Plan Service 12" max_length="32" name="plan_service_12" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 12" max_length="32" name="plan_service_12" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 12 Project Number" max_length="40" name="plan_service_12_project_number" type="string"/>
-        <element label="Plan Service 13" max_length="32" name="plan_service_13" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 13" max_length="32" name="plan_service_13" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 13 Project Number" max_length="40" name="plan_service_13_project_number" type="string"/>
-        <element label="Plan Service 14" max_length="32" name="plan_service_14" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 14" max_length="32" name="plan_service_14" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 14 Project Number" max_length="40" name="plan_service_14_project_number" type="string"/>
-        <element label="Plan Service 15" max_length="32" name="plan_service_15" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 15" max_length="32" name="plan_service_15" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 15 Project Number" max_length="40" name="plan_service_15_project_number" type="string"/>
         <element label="Plan Service 1 Project Number" max_length="40" name="plan_service_1_project_number" type="string"/>
-        <element label="Plan Service 2" max_length="32" name="plan_service_2" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 2" max_length="32" name="plan_service_2" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 2 Project Number" max_length="40" name="plan_service_2_project_number" type="string"/>
-        <element label="Plan Service 3" max_length="32" name="plan_service_3" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 3" max_length="32" name="plan_service_3" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 3 Project Number" max_length="40" name="plan_service_3_project_number" type="string"/>
-        <element label="Plan Service 4" max_length="32" name="plan_service_4" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 4" max_length="32" name="plan_service_4" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 4 Project Number" max_length="40" name="plan_service_4_project_number" type="string"/>
-        <element label="Plan Service 5" max_length="32" name="plan_service_5" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 5" max_length="32" name="plan_service_5" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 5 Project Number" max_length="40" name="plan_service_5_project_number" type="string"/>
-        <element label="Plan Service 6" max_length="32" name="plan_service_6" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 6" max_length="32" name="plan_service_6" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 6 Project Number" max_length="40" name="plan_service_6_project_number" type="string"/>
-        <element label="Plan Service 7" max_length="32" name="plan_service_7" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 7" max_length="32" name="plan_service_7" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 7 Project Number" max_length="40" name="plan_service_7_project_number" type="string"/>
-        <element label="Plan Service 8" max_length="32" name="plan_service_8" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 8" max_length="32" name="plan_service_8" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 8 Project Number" max_length="40" name="plan_service_8_project_number" type="string"/>
-        <element label="Plan Service 9" max_length="32" name="plan_service_9" reference="x_172976_bid_track_plan_service" type="reference"/>
+        <element label="Plan Service 9" max_length="32" name="plan_service_9" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
         <element label="Plan Service 9 Project Number" max_length="40" name="plan_service_9_project_number" type="string"/>
         <element default="95924f82cf3e022" label="Plan Service Number" max_length="40" name="plan_service_number" type="string" use_dependent_field="true"/>
         <element default="SmartBidNet" label="Plan Service Used Name" max_length="40" name="plan_service_used_name" type="string" use_dependent_field="true"/>
@@ -217,7 +235,7 @@
         <element label="Estimator" max_length="32" name="project_estimator" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;43bc6962db03ff00e55d7b1ebf9619ec&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element label="Project ID" max_length="40" name="project_id" type="string"/>
         <element label="Project Manager OLD" max_length="32" name="project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;bae2213ddbd7bb40e55d7b1ebf9619d8&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
-        <element label="Project Manager" max_length="32" name="project_manager_new" reference="sys_user" type="reference"/>
+        <element label="Project Manager_New_Old" max_length="32" name="project_manager_new" reference="sys_user" type="reference"/>
         <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" reference_qual_condition="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" type="reference"/>
         <element label="Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;03b0388adb93fb40e55d7b1ebf961908&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
@@ -225,6 +243,7 @@
         <element default="0" label="Project RFQs Sent" max_length="40" name="project_rfqs_sent" read_only="true" type="integer"/>
         <element default="0" label="Project RFQ count" max_length="40" name="project_rfq_count" type="integer"/>
         <element label="Project RFQ Vendors" max_length="4000" name="project_rfq_vendors" reference="core_company" reference_qual="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" reference_qual_condition="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" type="glide_list"/>
+        <element label="Project State" max_length="2" name="project_state" type="string"/>
         <element choice="1" default="1" label="Project Status" max_length="40" name="project_status" type="integer">
             <choice>
                 <element inactive_on_update="false" label="Tracking" sequence="0" value="1"/>
@@ -290,9 +309,9 @@
         <element label="Calendar start date span" max_length="40" name="u_first_date" type="glide_date"/>
         <element label="Calendar end date span" max_length="40" name="u_last_date" type="glide_date"/>
         <element label="Valves - EST" max_length="1000" name="valves_est" type="string"/>
-        <element label="Valves Pkg" max_length="20" name="valves_pkg" type="currency"/>
+        <element label="Valve Pkg" max_length="20" name="valves_pkg" type="currency"/>
         <element label="Valves - PM" max_length="300" name="valves_pm" type="string"/>
-        <element label="Valves Size Ranges" max_length="300" name="valves_size_ranges" type="string"/>
+        <element label="Valve Size Ranges" max_length="300" name="valves_size_ranges" type="string"/>
         <element label="Vendor Exp DIP" max_length="40" name="vendor_exp_dip" type="glide_date"/>
         <element label="Vendor Exp FRP" max_length="40" name="vendor_exp_frp" type="glide_date"/>
         <element label="Vendor Exp HDPE" max_length="40" name="vendor_exp_hdpe" type="glide_date"/>

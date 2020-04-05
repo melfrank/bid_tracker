@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>ignore</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_core_company">8d4988c8077b40109584f0269c1ed0b1</map>
+        <reference_value_field/>
+        <source_field>u_theme</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_core_company</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 21:34:23</sys_created_on>
+        <sys_id>01494cc8077b40109584f0269c1ed032</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_theme</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_transform_entry_01494cc8077b40109584f0269c1ed032</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 21:34:24</sys_updated_on>
+        <target_field>theme</target_field>
+        <target_table>core_company</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_transform_entry_01494cc8077b40109584f0269c1ed032</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;ignore&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="u_imp_tmpl_core_company"&gt;8d4988c8077b40109584f0269c1ed0b1&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_theme&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_imp_tmpl_core_company&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-21 21:34:23&lt;/sys_created_on&gt;&lt;sys_id&gt;01494cc8077b40109584f0269c1ed032&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_theme&lt;/sys_name&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_01494cc8077b40109584f0269c1ed032&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-21 21:34:24&lt;/sys_updated_on&gt;&lt;target_field&gt;theme&lt;/target_field&gt;&lt;target_table&gt;core_company&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>647636213</payload_hash>
+        <record_name>u_theme</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 21:34:24</sys_created_on>
+        <sys_id>05494cc8077b40109584f0269c1ed041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170ff04b71b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 21:34:24</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>4d494cc8937b4010a63fc1d62f859e40</update_guid>
+        <update_guid_history>4d494cc8937b4010a63fc1d62f859e40:647636213,c9494cc8007b401039c694fa16981232:539551883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 20:42:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>2bc9613400884ccd98f6e1e217db11b9</sys_id>
+        <sys_metadata>01494cc8077b40109584f0269c1ed032</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_theme</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_01494cc8077b40109584f0269c1ed032</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_01494cc8077b40109584f0269c1ed032">05494cc8077b40109584f0269c1ed041</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 20:42:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

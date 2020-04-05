@@ -3,58 +3,58 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>66d3a2b907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>df53d47c074490109584f0269c1ed003</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <text>Project Details</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>aad3a2b907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>1b53d47c074490109584f0269c1ed004</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <text>Project Location</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ed3a2b907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>db53d47c074490109584f0269c1ed004</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <text>Project Team</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>22d3a2b907f740109584f0269c1ed034</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>9f53d47c074490109584f0269c1ed004</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <text>Other Information</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>66d3a2b907f740109584f0269c1ed033</element>
+            <element>df53d47c074490109584f0269c1ed003</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>ead32ef907f740109584f0269c1ed02f</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a353d47c074490109584f0269c1ed010</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -62,13 +62,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ed32ef907f740109584f0269c1ed02f</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2b53d47c074490109584f0269c1ed010</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -76,13 +76,13 @@
             <element>project_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>eed32ef907f740109584f0269c1ed02f</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>ab53d47c074490109584f0269c1ed010</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -90,13 +90,13 @@
             <element>project_type</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>62d32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2f53d47c074490109584f0269c1ed010</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -104,13 +104,13 @@
             <element>delivery_method</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e2d32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>af53d47c074490109584f0269c1ed010</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -118,13 +118,13 @@
             <element>engineers_estimate</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>66d32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2353d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -132,13 +132,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e6d32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a353d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -146,13 +146,13 @@
             <element>project_status</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ad32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2753d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -160,13 +160,13 @@
             <element>original_bid_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>ead32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a753d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -174,13 +174,13 @@
             <element>revised_bid_date</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ed32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2b53d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -188,13 +188,13 @@
             <element>public_private</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>eed32ef907f740109584f0269c1ed030</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>ab53d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -202,27 +202,27 @@
             <element>.end_split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>62d32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2f53d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>aad3a2b907f740109584f0269c1ed033</element>
+            <element>1b53d47c074490109584f0269c1ed004</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e2d32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>af53d47c074490109584f0269c1ed011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -230,13 +230,13 @@
             <element>project_zip</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>66d32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2353d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -244,13 +244,13 @@
             <element>project_zip.city</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e6d32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a353d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -258,13 +258,13 @@
             <element>project_zip.state</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ad32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2753d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -272,13 +272,13 @@
             <element>project_zip.x_172976_bid_track_county</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>ead32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a753d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -286,13 +286,13 @@
             <element>project_zip.x_172976_bid_track_business_unit</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ed32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2b53d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -300,13 +300,13 @@
             <element>project_zip.x_172976_bid_track_region</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>eed32ef907f740109584f0269c1ed031</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>ab53d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -314,41 +314,41 @@
             <element>.split</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>62d32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2f53d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>6ed3a2b907f740109584f0269c1ed033</element>
+            <element>db53d47c074490109584f0269c1ed004</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e2d32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>af53d47c074490109584f0269c1ed012</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_manager_new</element>
+            <element>assigned_to</element>
             <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>66d32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2353d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -356,13 +356,13 @@
             <element>project_quotations</element>
             <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e6d32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a353d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -370,13 +370,13 @@
             <element>project_estimator</element>
             <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ad32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2753d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -384,27 +384,27 @@
             <element>.split</element>
             <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>ead32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a753d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>22d3a2b907f740109584f0269c1ed034</element>
+            <element>9f53d47c074490109584f0269c1ed004</element>
             <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>6ed32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2b53d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -412,13 +412,13 @@
             <element>bidtracer_id</element>
             <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>eed32ef907f740109584f0269c1ed032</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>ab53d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -426,13 +426,13 @@
             <element>sys_created_on</element>
             <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>62d32ef907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2f53d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -440,13 +440,13 @@
             <element>sys_created_by</element>
             <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>e2d32ef907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>af53d47c074490109584f0269c1ed013</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -454,15 +454,29 @@
             <element>.end_split</element>
             <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-27 19:19:10</sys_created_on>
-            <sys_id>66d32ef907f740109584f0269c1ed033</sys_id>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>2353d47c074490109584f0269c1ed014</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-27 19:19:10</sys_updated_on>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>add_plan_service</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-05 16:29:40</sys_created_on>
+            <sys_id>a353d47c074490109584f0269c1ed014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="Default view">8e096dfddbc33f00e55d7b1ebf961956</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-05 16:29:40</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
