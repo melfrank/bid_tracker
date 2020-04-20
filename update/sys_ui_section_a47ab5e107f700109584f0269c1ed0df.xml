@@ -3,745 +3,745 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>f63bd0ea07b300109584f0269c1ed0a8</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>1e623623078050109584f0269c1ed03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
-            <text>Material Origin Requirements</text>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
+            <text>Material Origin Requirement</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>3e3bd0ea07b300109584f0269c1ed0a8</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>d6623623078050109584f0269c1ed03c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Material Specs/Notes</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>fe3bd0ea07b300109584f0269c1ed0a8</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>9a623623078050109584f0269c1ed03c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Buried DIP</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>b23bd0ea07b300109584f0269c1ed0a9</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>5e623623078050109584f0269c1ed03c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Exposed DIP</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>763bd0ea07b300109584f0269c1ed0a9</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>12623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>HDPE</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>3a3bd0ea07b300109584f0269c1ed0a9</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>d2623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Pipe Supports</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>fa3bd0ea07b300109584f0269c1ed0a9</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>96623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Stainless Steel</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>be3bd0ea07b300109584f0269c1ed0a9</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>5a623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Steel</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>723bd0ea07b300109584f0269c1ed0aa</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>1e623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>PVC</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>363bd0ea07b300109584f0269c1ed0aa</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>de623623078050109584f0269c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Sluice/Slide Gates</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>f63bd0ea07b300109584f0269c1ed0aa</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>92623623078050109584f0269c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Valves</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>ba3bd0ea07b300109584f0269c1ed0aa</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>56623623078050109584f0269c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Other</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:42</sys_created_on>
-            <sys_id>7e3bd0ea07b300109584f0269c1ed0aa</sys_id>
+            <sys_created_on>2020-04-14 17:07:49</sys_created_on>
+            <sys_id>1a623623078050109584f0269c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:42</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:49</sys_updated_on>
             <text>Pre-Takeoff Notes</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>f63bd0ea07b300109584f0269c1ed0a8</element>
+            <element>1e623623078050109584f0269c1ed03b</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed00f</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>da62b623078050109584f0269c1ed006</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>material_origin_requirements</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed010</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>material_origin_requirements</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed010</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>material_origin_specs_comments</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed010</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
+            <element>d6623623078050109584f0269c1ed03c</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9a623623078050109584f0269c1ed03c</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed010</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>3e3bd0ea07b300109584f0269c1ed0a8</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed010</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fe3bd0ea07b300109584f0269c1ed0a8</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed010</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed010</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>buried_dip_size_ranges</element>
-            <position>8</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed010</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>buried_dip_est</element>
-            <position>9</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>buried_dip_pm</element>
-            <position>10</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed007</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>11</position>
+            <element>5e623623078050109584f0269c1ed03c</element>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>b23bd0ea07b300109584f0269c1ed0a9</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed011</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed011</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>exposed_dip_size_ranges</element>
-            <position>14</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>exposed_dip_est</element>
-            <position>15</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>exposed_dip_pm</element>
-            <position>16</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed011</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>17</position>
+            <element>12623623078050109584f0269c1ed03d</element>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed012</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>763bd0ea07b300109584f0269c1ed0a9</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed012</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed012</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hdpe_size_ranges</element>
-            <position>20</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed012</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hdpe_est</element>
-            <position>21</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed012</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hdpe_pm</element>
-            <position>22</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed012</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed008</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>23</position>
+            <element>d2623623078050109584f0269c1ed03d</element>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed012</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>3a3bd0ea07b300109584f0269c1ed0a9</element>
-            <position>24</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed012</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed013</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pipe_supports_size_ranges</element>
-            <position>26</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed013</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pipe_supports_est</element>
-            <position>27</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed013</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pipe_supports_pm</element>
-            <position>28</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed013</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>29</position>
+            <element>96623623078050109584f0269c1ed03d</element>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed013</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fa3bd0ea07b300109584f0269c1ed0a9</element>
-            <position>30</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed013</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>31</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed013</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>stainless_steel_size_ranges</element>
-            <position>32</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed013</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>stainless_steel_est</element>
-            <position>33</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>stainless_steel_pm</element>
-            <position>34</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed009</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>35</position>
+            <element>5a623623078050109584f0269c1ed03d</element>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>be3bd0ea07b300109584f0269c1ed0a9</element>
-            <position>36</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed014</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>37</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed014</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>steel_size_ranges</element>
-            <position>38</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>steel_est</element>
-            <position>39</position>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>steel_pm</element>
-            <position>40</position>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed014</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>41</position>
+            <element>1e623623078050109584f0269c1ed03d</element>
+            <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
-            <type>.end_split</type>
+            <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>723bd0ea07b300109584f0269c1ed0aa</element>
-            <position>42</position>
+            <element>pvc_size_ranges</element>
+            <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed00a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pvc_est</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed00a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pvc_pm</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed00a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>de623623078050109584f0269c1ed03d</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_size_ranges</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_est</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_pm</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>92623623078050109584f0269c1ed03e</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_size_ranges</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_est</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_pm</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>56623623078050109584f0269c1ed03e</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed00c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>packages_est_pm</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed00c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>1a623623078050109584f0269c1ed03e</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed00c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -749,55 +749,55 @@
             <element>.begin_split</element>
             <position>43</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed00c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pvc_size_ranges</element>
+            <element>dip_manufacturer</element>
             <position>44</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed00c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pvc_est</element>
+            <element>.split</element>
             <position>45</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed00c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pvc_pm</element>
+            <element>bid_items</element>
             <position>46</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed00c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -805,491 +805,183 @@
             <element>.end_split</element>
             <position>47</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed00c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>363bd0ea07b300109584f0269c1ed0aa</element>
+            <element>.begin_split</element>
             <position>48</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed015</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>49</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sluice_slide_gates_size_ranges</element>
-            <position>50</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sluice_slide_gates_est</element>
-            <position>51</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sluice_slide_gates_pm</element>
-            <position>52</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>53</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>f63bd0ea07b300109584f0269c1ed0aa</element>
-            <position>54</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>55</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>valves_size_ranges</element>
-            <position>56</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed016</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>valves_est</element>
-            <position>57</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>valves_pm</element>
-            <position>58</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>59</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ba3bd0ea07b300109584f0269c1ed0aa</element>
-            <position>60</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>61</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>packages_est_pm</element>
-            <position>62</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>63</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>7e3bd0ea07b300109584f0269c1ed0aa</element>
-            <position>64</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed017</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>65</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>dip_manufacturer</element>
-            <position>66</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>67</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>bid_items</element>
-            <position>68</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>69</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed018</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mfg_write_in</element>
-            <position>70</position>
+            <position>49</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed018</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>small_diameter_piping</element>
-            <position>71</position>
+            <position>50</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed018</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>chemical_piping</element>
-            <position>72</position>
+            <position>51</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed018</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>storm_drain_materials</element>
-            <position>73</position>
+            <position>52</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1a62b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>flow_meters</element>
-            <position>74</position>
+            <position>53</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c33b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9a62b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>75</position>
+            <position>54</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>473b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1e62b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>accs_for_fabricated_ss</element>
-            <position>76</position>
+            <position>55</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>c73b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9e62b623078050109584f0269c1ed00d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>accs_for_fabricated_cs</element>
-            <position>77</position>
+            <position>56</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4b3b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1262b623078050109584f0269c1ed00e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pressure_gauges</element>
-            <position>78</position>
+            <position>57</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cb3b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9262b623078050109584f0269c1ed00e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sump_pumps</element>
-            <position>79</position>
+            <position>58</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>4f3b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>1662b623078050109584f0269c1ed00e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>victaulic</element>
-            <position>80</position>
+            <position>59</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>cf3b506e07b300109584f0269c1ed019</sys_id>
+            <sys_created_on>2020-04-14 17:07:50</sys_created_on>
+            <sys_id>9662b623078050109584f0269c1ed00e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
+            <sys_updated_on>2020-04-14 17:07:50</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>81</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 17:17:43</sys_created_on>
-            <sys_id>433b506e07b300109584f0269c1ed01a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Pre-Takeoff Notes" display_value="Pre-Takeoff Notes" name="x_172976_bid_track_project" sys_domain="global" view="Default view">a47ab5e107f700109584f0269c1ed0df</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 17:17:43</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Pre-Takeoff Notes</caption>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">cc57b48b07c8d0109584f0269c1ed05c</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-12 18:53:03</sys_created_on>
+        <sys_id>4457b48b07c8d0109584f0269c1ed05d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cc57b48b07c8d0109584f0269c1ed05c</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_users_groups_4457b48b07c8d0109584f0269c1ed05d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-12 18:53:03</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_report_users_groups_4457b48b07c8d0109584f0269c1ed05d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">cc57b48b07c8d0109584f0269c1ed05c</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-12 18:53:03</sys_created_on><sys_id>4457b48b07c8d0109584f0269c1ed05d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cc57b48b07c8d0109584f0269c1ed05c</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_report_users_groups_4457b48b07c8d0109584f0269c1ed05d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-12 18:53:03</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1091497019</payload_hash>
+        <record_name>cc57b48b07c8d0109584f0269c1ed05c</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-12 18:53:03</sys_created_on>
+        <sys_id>8857b48b07c8d0109584f0269c1ed05e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1716fbce9980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-12 18:53:03</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>c057b48bc1c8d0106b877a4215e3a35e</update_guid>
+        <update_guid_history>c057b48bc1c8d0106b877a4215e3a35e:1091497019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-17 19:13:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>12a87aa7b2b545be9580ae3938b1b624</sys_id>
+        <sys_metadata>4457b48b07c8d0109584f0269c1ed05d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cc57b48b07c8d0109584f0269c1ed05c</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_4457b48b07c8d0109584f0269c1ed05d</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_4457b48b07c8d0109584f0269c1ed05d">8857b48b07c8d0109584f0269c1ed05e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-17 19:13:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

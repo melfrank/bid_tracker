@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="DELETE">
+        <description>All open Hard Bid projects</description>
+        <display>Project.HardBid.Open (Project)</display>
+        <filter table="x_172976_bid_track_project">project_statusNOT INbranch_quote,12,13,8,9<item display_value="branch_quote,12,13,8,9" endquery="false" field="project_status" goto="false" newquery="false" operator="NOT IN" or="false" value="branch_quote,12,13,8,9"/>
+        </filter>
+        <name>Project.HardBid.Open</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 20:54:11</sys_created_on>
+        <sys_id>5455232707c050109584f0269c1ed0e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project.HardBid.Open (Project)</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_source_5455232707c050109584f0269c1ed0e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 20:54:11</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+    </sys_report_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_report_source_5455232707c050109584f0269c1ed0e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source"><sys_report_source action="INSERT_OR_UPDATE"><description>All open Hard Bid projects</description><display>Project.HardBid.Open (Project)</display><filter table="x_172976_bid_track_project">project_statusNOT INbranch_quote,12,13,8,9<item display_value="branch_quote,12,13,8,9" endquery="false" field="project_status" goto="false" newquery="false" operator="NOT IN" or="false" value="branch_quote,12,13,8,9"/></filter><name>Project.HardBid.Open</name><sys_class_name>sys_report_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-14 20:54:11</sys_created_on><sys_id>5455232707c050109584f0269c1ed0e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project.HardBid.Open (Project)</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_report_source_5455232707c050109584f0269c1ed0e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-14 20:54:11</sys_updated_on><table>x_172976_bid_track_project</table></sys_report_source></record_update>]]></payload>
+        <payload_hash>-1164823384</payload_hash>
+        <record_name>Project.HardBid.Open (Project)</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 20:54:11</sys_created_on>
+        <sys_id>06362faf070450109584f0269c1ed0d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717a7887f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 20:54:11</sys_updated_on>
+        <type>Report Source</type>
+        <update_guid>4e362fafb30450108a15b853516772d4</update_guid>
+        <update_guid_history>4e362fafb30450108a15b853516772d4:-1164823384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 20:56:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_source">sys_report_source</sys_db_object>
+        <sys_id>36f4a023ea9e4a9c8461dd6f781d3c90</sys_id>
+        <sys_metadata>5455232707c050109584f0269c1ed0e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project.HardBid.Open (Project)</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_report_source_5455232707c050109584f0269c1ed0e4</sys_update_name>
+        <sys_update_version display_value="sys_report_source_5455232707c050109584f0269c1ed0e4">06362faf070450109584f0269c1ed0d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 20:56:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_172976_bid_track_project" version="2" view="RPT668d5d4507c010109584f0269c1ed0f1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_city.x_172976_bid_track_business_unit</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>791e5dc507c010109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>revised_bid_date</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>f91e5dc507c010109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>delivery_method</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>7d1e5dc507c010109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>fd1e5dc507c010109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_name</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>711e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>bidtracer_id</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>f11e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_city</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>751e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_city.state</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>f51e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_estimator</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>791e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_status</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>f91e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>7d1e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engineer</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>fd1e5dc507c010109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engineers_estimate</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>711e5dc507c010109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project_city.x_172976_bid_track_region</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_id>f11e5dc507c010109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_172976_bid_track_project</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>311e5dc507c010109584f0269c1ed035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172976_bid_track_project</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_list_x_172976_bid_track_project_RPT668d5d4507c010109584f0269c1ed0f1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt668d5d4507c010109584f0269c1ed0f1" name="RPT668d5d4507c010109584f0269c1ed0f1">ee8d5d4507c010109584f0269c1ed0f6</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_list_x_172976_bid_track_project_RPT668d5d4507c010109584f0269c1ed0f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_172976_bid_track_project" version="2" view="RPT668d5d4507c010109584f0269c1ed0f1"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_city.x_172976_bid_track_business_unit</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>791e5dc507c010109584f0269c1ed035</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>revised_bid_date</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>f91e5dc507c010109584f0269c1ed035</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>delivery_method</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>7d1e5dc507c010109584f0269c1ed035</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>fd1e5dc507c010109584f0269c1ed035</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_name</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>711e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>bidtracer_id</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>f11e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_city</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>751e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_city.state</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>f51e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_estimator</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>791e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_status</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>f91e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>7d1e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>engineer</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>fd1e5dc507c010109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>engineers_estimate</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>12</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>711e5dc507c010109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>project_city.x_172976_bid_track_region</element><list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="ee8d5d4507c010109584f0269c1ed0f6">311e5dc507c010109584f0269c1ed035</list_id><max_value>false</max_value><min_value>false</min_value><position>13</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_id>f11e5dc507c010109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_172976_bid_track_project</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 16:34:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>311e5dc507c010109584f0269c1ed035</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_172976_bid_track_project</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_list_x_172976_bid_track_project_RPT668d5d4507c010109584f0269c1ed0f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 16:34:37</sys_updated_on><sys_user/><view display_value="Rpt668d5d4507c010109584f0269c1ed0f1" name="RPT668d5d4507c010109584f0269c1ed0f1">ee8d5d4507c010109584f0269c1ed0f6</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-326357253</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 16:34:37</sys_created_on>
+        <sys_id>bd1e950907c010109584f0269c1ed042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171505803f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 16:34:37</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>b51e95097ac0101051127608f4ec1642</update_guid>
+        <update_guid_history>b51e95097ac0101051127608f4ec1642:-326357253,628d9dc55ac01010e7601f8794dd3719:1229538131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-17 19:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>29078de8424c4d4c8764ed4e26a85e11</sys_id>
+        <sys_metadata>311e5dc507c010109584f0269c1ed035</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Project">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_172976_bid_track_project_RPT668d5d4507c010109584f0269c1ed0f1</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_172976_bid_track_project_RPT668d5d4507c010109584f0269c1ed0f1">bd1e950907c010109584f0269c1ed042</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-17 19:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

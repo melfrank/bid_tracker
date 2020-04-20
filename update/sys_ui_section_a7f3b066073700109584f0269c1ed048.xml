@@ -1,60 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="a7f3b066073700109584f0269c1ed048" sys_domain="global" table="x_172976_bid_track_project" version="3" view="job_add_request">
+    <sys_ui_section caption="job add request form" section_id="a7f3b066073700109584f0269c1ed048" sys_domain="global" table="x_172976_bid_track_project" version="3" view="job_add_request">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9e14b826073700109584f0269c1ed0c2</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>a4dbbca1075c10109584f0269c1ed02b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <text>Project Details</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9214b826073700109584f0269c1ed0c3</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e8dbbca1075c10109584f0269c1ed02b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <text>Project Location</text>
-            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>5614b826073700109584f0269c1ed0c3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <text>Project Team</text>
-            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1a14b826073700109584f0269c1ed0c3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <text>Other Information</text>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <text>Other</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>9e14b826073700109584f0269c1ed0c2</element>
+            <element>a4dbbca1075c10109584f0269c1ed02b</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1a143466073700109584f0269c1ed021</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>64dbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -62,13 +40,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9a143466073700109584f0269c1ed021</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e4dbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -76,111 +54,111 @@
             <element>project_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1e143466073700109584f0269c1ed021</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>68dbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_type</element>
+            <element>assigned_to</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9e143466073700109584f0269c1ed021</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e8dbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>delivery_method</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>12143466073700109584f0269c1ed022</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>engineers_estimate</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>92143466073700109584f0269c1ed022</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>16143466073700109584f0269c1ed022</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_status</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>96143466073700109584f0269c1ed022</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>original_bid_date</element>
-            <position>8</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1a143466073700109584f0269c1ed022</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>6cdbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>public_private</element>
-            <position>9</position>
+            <element>.split</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9a143466073700109584f0269c1ed022</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>ecdbbca1075c10109584f0269c1ed032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_plan_source</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>60dbbca1075c10109584f0269c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_service_1.website</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e0dbbca1075c10109584f0269c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_service_1.x_172976_bid_track_login_name</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>64dbbca1075c10109584f0269c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_service_1.x_172976_bid_track_password</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e4dbbca1075c10109584f0269c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -188,242 +166,130 @@
             <element>.end_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1e143466073700109584f0269c1ed022</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>68dbbca1075c10109584f0269c1ed033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>9214b826073700109584f0269c1ed0c3</element>
+            <element>e8dbbca1075c10109584f0269c1ed02b</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9e143466073700109584f0269c1ed022</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e8dbbca1075c10109584f0269c1ed033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_zip</element>
+            <element>.begin_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>12143466073700109584f0269c1ed023</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>6cdbbca1075c10109584f0269c1ed033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_business_unit</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>ecdbbca1075c10109584f0269c1ed033</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_zip.city</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>92143466073700109584f0269c1ed023</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>60dbbca1075c10109584f0269c1ed034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project_zip.state</element>
-            <position>14</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>16143466073700109584f0269c1ed023</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_zip.x_172976_bid_track_county</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>96143466073700109584f0269c1ed023</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e0dbbca1075c10109584f0269c1ed034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_zip.x_172976_bid_track_business_unit</element>
+            <element>.split</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1a143466073700109584f0269c1ed023</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>64dbbca1075c10109584f0269c1ed034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_zip.x_172976_bid_track_region</element>
+            <element>engineers_estimate</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9a143466073700109584f0269c1ed023</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>e4dbbca1075c10109584f0269c1ed034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1e143466073700109584f0269c1ed023</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>5614b826073700109584f0269c1ed0c3</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9e143466073700109584f0269c1ed023</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>project_manager_new</element>
-            <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>12143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>21</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>92143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>1a14b826073700109584f0269c1ed0c3</element>
-            <position>22</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>16143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>bidtracer_id</element>
-            <position>23</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>96143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
-            <position>24</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1a143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>9a143466073700109584f0269c1ed024</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>26</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-29 19:06:21</sys_created_on>
-            <sys_id>1e143466073700109584f0269c1ed024</sys_id>
+            <sys_created_on>2020-04-20 13:37:33</sys_created_on>
+            <sys_id>68dbbca1075c10109584f0269c1ed034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:06:21</sys_updated_on>
+            <sys_updated_on>2020-04-20 13:37:33</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>job add request form</caption>
             <header>false</header>
             <name>x_172976_bid_track_project</name>
             <roles/>
@@ -433,15 +299,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a7f3b066073700109584f0269c1ed048</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_172976_bid_track_project</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>job add request form</sys_name>
             <sys_overrides/>
             <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
             <sys_policy/>
             <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
             <sys_update_name>sys_ui_section_a7f3b066073700109584f0269c1ed048</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-29 19:05:54</sys_updated_on>
+            <sys_updated_on>2020-04-07 16:28:31</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Job Add Request" name="job_add_request">e3f3b066073700109584f0269c1ed042</view>

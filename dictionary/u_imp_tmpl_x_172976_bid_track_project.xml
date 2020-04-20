@@ -76,6 +76,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Buried DIP Size Ranges" label="Buried DIP Size Ranges" max_length="300" name="u_buried_dip_size_ranges" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Buried DIP - EST" label="Buried DIP - EST" max_length="1000" name="u_buried_dip___est" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Buried DIP - PM" label="Buried DIP - PM" max_length="1000" name="u_buried_dip___pm" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Unit" max_length="40" name="u_business_unit" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Calendar end date span" label="Calendar end date span" max_length="40" name="u_calendar_end_date_span" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Calendar start date span" label="Calendar start date span" max_length="40" name="u_calendar_start_date_span" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Chemical Piping" label="Chemical Piping" max_length="1024" name="u_chemical_piping" type="string"/>
@@ -92,6 +93,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Contractor" label="Contractor" max_length="32" name="u_contractor" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Correlation display" label="Correlation display" max_length="100" name="u_correlation_display" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Correlation ID" label="Correlation ID" max_length="100" name="u_correlation_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Current Number of Addenda" max_length="40" name="u_current_number_of_addenda" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Delivery Method" label="Delivery Method" max_length="40" name="u_delivery_method" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Delivery plan" label="Delivery plan" max_length="32" name="u_delivery_plan" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Delivery task" label="Delivery task" max_length="32" name="u_delivery_task" type="string"/>
@@ -154,6 +156,9 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Opened by" label="Opened by" max_length="32" name="u_opened_by" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Order" label="Order" max_length="40" name="u_order" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Original Bid Date/Time" label="Original Bid Date/Time" max_length="40" name="u_original_bid_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Original Plan Service" max_length="40" name="u_original_plan_service" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Original Plan Source" max_length="40" name="u_original_plan_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Original Plan Service Project Number" max_length="40" name="u_original_pla_project_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner" label="Owner" max_length="32" name="u_owner" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner Project Number" label="Owner Project Number" max_length="40" name="u_owner_project_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Packages - EST/PM" label="Packages - EST/PM" max_length="1000" name="u_packages___est_pm" type="string"/>
@@ -206,10 +211,12 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project City" label="Project City" max_length="40" name="u_project_city" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project ID" label="Project ID" max_length="40" name="u_project_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Manager" label="Project Manager" max_length="32" name="u_project_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Manager_New_Old" max_length="40" name="u_project_manager_new_old" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Manager OLD" label="Project Manager OLD" max_length="32" name="u_project_manager_old" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Name" label="Project Name" max_length="40" name="u_project_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Number" label="Project Number" max_length="40" name="u_project_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project RFQ count" label="Project RFQ count" max_length="40" name="u_project_rfq_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project State" max_length="40" name="u_project_state" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Status" label="Project Status" max_length="40" name="u_project_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Type" label="Project Type" max_length="40" name="u_project_type" type="string"/>
         <element attributes="import_attribute_name=Project Zip" label="Project Zip" max_length="32" name="u_project_zip" type="integer"/>
@@ -244,6 +251,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Steel - PM" label="Steel - PM" max_length="300" name="u_steel___pm" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Storm Drain Materials" label="Storm Drain Materials" max_length="1000" name="u_storm_drain_materials" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Sump Pumps" label="Sump Pumps" max_length="1000" name="u_sump_pumps" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
         <element attributes="import_attribute_name=Total Pkgs" label="Total Pkgs" max_length="20" name="u_total_pkgs" type="decimal"/>
         <element attributes="import_attribute_name=Total Project Quote" label="Total Project Quote" max_length="20" name="u_total_project_quote" type="decimal"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Total Project Sale" label="Total Project Sale" max_length="20" name="u_total_project_sale" type="string"/>
