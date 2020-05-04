@@ -16,18 +16,18 @@
 <tr>
 <td style="color: #293e40; text-align: left; font-size: 16px; background-color: #ffffff; padding: 25px 0px 25px 30px;">
 <p>Please see the attached RFQ and all corresponding specs for the ${project_zip.city}, ${project_zip.state} &ndash; ${project_name} project on which we are currently working.&nbsp;</p>
-<p>Currently this project bids ${revised_bid_date}.</p>
+<p>Currently, this project bids ${revised_bid_date}.</p>
 <p>&nbsp;</p>
-<p><em>I would appreciate you submitting your quote to me by <span style="text-decoration: underline; font-size: 18pt;"><strong>TBD</strong></span></em></p>
-<p><strong>PLEASE RETURN TO ME BY:</strong>&nbsp;<span style="font-size: 14pt;"><strong><span style="text-decoration: underline;">Tomorrow</span></strong></span><strong><br /><br /></strong>If You Find Any Discrepancies With The Attached Materials List And Specifications&nbsp;<br />Please Quote Per Written Specifications And Drawings&nbsp;<br /><br />If Your Quote Does Not Fully Comply With The Project Specifications,<br />You Are Required To List All Exceptions Taken.<br /><br /><strong>ALL EXCEPTIONS NEED TO BE LISTED ON YOUR QUOTE OR ON THE VENDOR QUALIFICATION FORM.<br /><br />If No Exceptions are noted, Ferguson will assume your quote is in full compliance with the material specifications.</strong></p>
-<p><strong><br /></strong>Please let me know if you need more Information.<br /><br />Thank you in advance for your help, hope to hear from you soon.</p>
-<p>&nbsp;</p>
+<p><strong>PLEASE RETURN TO ME BY:</strong>&nbsp;<span style="font-size: 14pt;"><strong><span style="text-decoration: underline;">Tomorrow</span></strong></span><strong><br /><br /></strong></p>
+<p>If you find any discrepancies between the attached materials list and specifications, please quote per written specifications and drawings. If your quote does not fully comply with the project specifications, you are required to list all exceptions.</p>
+<p><br /><strong>ALL EXCEPTIONS NEED TO BE LISTED ON YOUR QUOTE OR THE VENDOR QUALIFICATIONS FORM. If no exceptions are noted, Ferguson will assume your quote is in full compliance with the material specifications.</strong></p>
+<p><strong><br /></strong>Please let me know if you need more information and thanks in advance for your time.&nbsp;</p>
 <p>With Best Regards,</p>
 <p><strong>${project_quotations}<br /></strong></p>
-<p><strong>${project_quotations.title}<br /></strong></p>
-<p><strong>Ferguson Waterworks | Plant Division</strong></p>
-<p>T: ${project_quotations.phone} &nbsp; F: 704-554-0874</p>
-<p>E: <a href="mailto:diane.jacob@ferguson.com">${project_quotations.email}<br /></a></p>
+<p>${project_quotations.title}</p>
+<p>Ferguson Waterworks | Plant Division</p>
+<p>Phone: ${project_quotations.phone} &nbsp; Fax: 704-554-0874</p>
+<p><a href="mailto:diane.jacob@ferguson.com">${project_quotations.email}<br /></a></p>
 <p>&nbsp;</p>
 <p><a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ferguson.com_&amp;d=DwMFAg&amp;c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r=b9WRLcgtX7wuhlpG4G3LyF4KRvX-jKgXnVAuH6BYdU4&amp;m=iXtrqFsxVS3U4Yy8ZtKUCtdttFSzdfJk4R8qR044HsM&amp;s=gUImqlJVEGs--vQC4EXkoPEoK5xUnIl01nHjJy6IUFE&amp;e=">www.Ferguson.com</a></p>
 </td>
@@ -53,14 +53,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-05 15:59:00</sys_created_on>
         <sys_id>ff912b86db4b7f00e55d7b1ebf961997</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>ferguson.rfq.send</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sysevent_email_template_ff912b86db4b7f00e55d7b1ebf961997</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-01 18:35:00</sys_updated_on>
+        <sys_updated_on>2020-04-20 17:55:31</sys_updated_on>
         <sys_version>2</sys_version>
     </sysevent_email_template>
 </record_update>

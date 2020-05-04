@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,calendar_elements=project_estimator;project_name" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="206" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name,use_document_viewer=true" extends="task" label="Project" max_length="40" name="x_172976_bid_track_project" sizeclass="217" text_index="true" type="collection">
         <element label="Accs. for Fabricated CS" max_length="1024" name="accs_for_fabricated_cs" type="string"/>
         <element label="Accs.  for Fabricated SS" max_length="1024" name="accs_for_fabricated_ss" type="string"/>
         <element label="Addendum 10 Date" max_length="40" name="addendum_10_date" type="glide_date"/>
@@ -62,7 +62,54 @@
         <element label="Addendum 9 Line Items" max_length="40" name="addendum_9_line_items" type="integer"/>
         <element label="Addendum 9 Minutes" max_length="40" name="addendum_9_minutes" type="integer"/>
         <element label="Addendum 9 Summary" max_length="2000" name="addendum_9_summary" type="string"/>
-        <element label="Add plan service" max_length="40" name="add_plan_service" type="boolean"/>
+        <element choice="1" label="Addendum Source 1" max_length="40" name="addendum_source" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 10" max_length="40" name="addendum_source_10" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 2" max_length="40" name="addendum_source_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 3" max_length="40" name="addendum_source_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 4" max_length="40" name="addendum_source_4" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 5" max_length="40" name="addendum_source_5" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 6" max_length="40" name="addendum_source_6" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 7" max_length="40" name="addendum_source_7" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 8" max_length="40" name="addendum_source_8" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Addendum Source 9" max_length="40" name="addendum_source_9" type="choice">
+            <choice/>
+        </element>
+        <element label="Add addendum 10" max_length="40" name="add_addendum_10" type="boolean"/>
+        <element label="Add addendum 11" max_length="40" name="add_addendum_11" type="boolean"/>
+        <element label="Add addendum 12" max_length="40" name="add_addendum_12" type="boolean"/>
+        <element label="Add addendum 13" max_length="40" name="add_addendum_13" type="boolean"/>
+        <element label="Add addendum 14" max_length="40" name="add_addendum_14" type="boolean"/>
+        <element label="Add addendum 15" max_length="40" name="add_addendum_15" type="boolean"/>
+        <element label="Add addendum 2" max_length="40" name="add_addendum_2" type="boolean"/>
+        <element label="Add addendum 3" max_length="40" name="add_addendum_3" type="boolean"/>
+        <element label="Add addendum 4" max_length="40" name="add_addendum_4" type="boolean"/>
+        <element label="Add addendum 5" max_length="40" name="add_addendum_5" type="boolean"/>
+        <element label="Add addendum 6" max_length="40" name="add_addendum_6" type="boolean"/>
+        <element label="Add addendum 7" max_length="40" name="add_addendum_7" type="boolean"/>
+        <element label="Add addendum 8" max_length="40" name="add_addendum_8" type="boolean"/>
+        <element label="Add addendum 9" max_length="40" name="add_addendum_9" type="boolean"/>
+        <element label="Add plan service 2" max_length="40" name="add_plan_service" type="boolean"/>
+        <element label="Add plan service 3" max_length="40" name="add_plan_service_3" type="boolean"/>
+        <element label="Add plan service 4" max_length="40" name="add_plan_service_4" type="boolean"/>
+        <element label="Add plan service 5" max_length="40" name="add_plan_service_5" type="boolean"/>
         <element label="Area Sales Manager" max_length="32" name="area_sales_manager" reference="sys_user" type="reference"/>
         <element label="Bidtracer ID" max_length="40" name="bidtracer_id" type="integer"/>
         <element choice="3" label="Bid Items" max_length="1024" name="bid_items" type="boolean">
@@ -115,16 +162,16 @@
         <element label="DIP Pkg" max_length="20" name="dip_pkg" type="currency"/>
         <element attributes="encode_utf8=false" label="Downloaded by" max_length="32" name="downloaded_by" reference="sys_user" type="reference"/>
         <element label="Email Template" max_length="32" name="email_template" reference="sysevent_email_template" reference_qual="nameSTARTSWITHferguson^EQ" reference_qual_condition="nameSTARTSWITHferguson^EQ" type="reference"/>
-        <element label="Engineer" max_length="32" name="engineer" reference="core_company" reference_qual="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" reference_qual_condition="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" type="reference"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=engineer;state,ref_ac_order_by=engineer,ref_ac_columns_search=true " label="Engineer" max_length="32" name="engineer" reference="core_company" reference_qual="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" reference_qual_condition="vendor_typeLIKE0d5c7020077bc0109584f0269c1ed098^EQ" type="reference"/>
         <element label="Engineers Estimate" max_length="20" name="engineers_estimate" type="currency" virtual="true"/>
-        <element default="60" label="Engineer Project Number" max_length="40" name="engineer_project_number" type="string"/>
-        <element label="Estimator 2" max_length="32" name="estimator_2" reference="sys_user" type="reference"/>
+        <element default="60" label="Engineers Project Number" max_length="40" name="engineer_project_number" type="string"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=estimator_2,ref_ac_columns_search=true " label="Estimator 2" max_length="32" name="estimator_2" reference="sys_user" reference_qual="department=62daa8a0075300109584f0269c1ed02e^EQ" reference_qual_condition="department=62daa8a0075300109584f0269c1ed02e^EQ" type="reference"/>
         <element label="Estimator 2 Completion Date" max_length="40" name="estimator_2_completion_date" type="glide_date"/>
         <element label="Estimator 2 Line Items" max_length="40" name="estimator_2_line_items" type="integer"/>
         <element label="Estimator 2 Percent Complete" max_length="2" name="estimator_2_percent_complete" type="integer"/>
         <element label="Estimator 2 Start Date" max_length="40" name="estimator_2_start_date" type="glide_date"/>
         <element label="Estimator 2 Takeoff Hours" max_length="3" name="estimator_2_takeoff_hours" type="integer"/>
-        <element label="Estimator 3" max_length="32" name="estimator_3" reference="sys_user" type="reference"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=estimator_3,ref_ac_columns_search=true " label="Estimator 3" max_length="32" name="estimator_3" reference="sys_user" reference_qual="department=62daa8a0075300109584f0269c1ed02e^EQ" reference_qual_condition="department=62daa8a0075300109584f0269c1ed02e^EQ" type="reference"/>
         <element label="Estimator 3 Completion Date" max_length="40" name="estimator_3_completion_date" type="glide_date"/>
         <element label="Estimator 3 Line Items" max_length="40" name="estimator_3_line_items" type="integer"/>
         <element label="Estimator 3 Percent Complete" max_length="2" name="estimator_3_percent_complete" type="integer"/>
@@ -140,6 +187,7 @@
         <element label="Exposed DIP Size Ranges" max_length="300" name="exposed_dip_size_ranges" type="string"/>
         <element label="FEI Percent of Total" max_length="2" name="fei_percent_of_total" type="integer"/>
         <element label="Final Post Bid Amt" max_length="20" name="final_post_bid_amt" type="currency"/>
+        <element label="Final Quote Sent" max_length="40" name="final_quote_sent" type="due_date" virtual="true"/>
         <element label="Flow Meters" max_length="1024" name="flow_meters" type="string"/>
         <element label="FRP Pkg" max_length="20" name="frp_pkg" type="currency"/>
         <element label="General Manager" max_length="32" name="general_manager" reference="sys_user" type="reference"/>
@@ -151,6 +199,7 @@
         <element label="Low Bidder Amt" max_length="20" name="low_bidder_amt" type="currency"/>
         <element label="Low Bidder Name" max_length="32" name="low_bidder_name" reference="core_company" type="reference"/>
         <element label="Low Bid Amt is an Estimate" max_length="40" name="low_bid_amt_is_an_estimate" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Markups" max_length="40" name="markups" type="string"/>
         <element choice="3" label="Material Origin Requirement" max_length="40" name="material_origin_requirements" type="string">
             <choice>
                 <element inactive_on_update="false" label="(AIS) Consolidated Approp. Act, 2014" sequence="0" value="ais"/>
@@ -168,8 +217,9 @@
             </choice>
         </element>
         <element label="Material Specification &amp; Notes" max_length="2000" name="material_origin_specs_comments" type="string"/>
-        <element label="Mfg Write In" max_length="32" name="mfg_write_in" reference="core_company" reference_qual="manufacturer=true^EQ" reference_qual_condition="manufacturer=true^EQ" type="reference"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=mfg_write_in;state,ref_ac_order_by=mfg_write_in,ref_ac_columns_search=true " label="Mfg Write In" max_length="32" name="mfg_write_in" reference="core_company" reference_qual="manufacturer=true^EQ" reference_qual_condition="manufacturer=true^EQ" type="reference"/>
         <element label="Misc Pkg" max_length="20" name="misc_pkg" type="currency"/>
+        <element label="Misc Quote Sent" max_length="40" name="misc_quote_sent" type="due_date" virtual="true"/>
         <element choice="3" default="true" label="JobBoard" max_length="40" name="on_jobboard" type="choice">
             <choice>
                 <element inactive_on_update="false" label="True" sequence="0" value="true"/>
@@ -211,7 +261,10 @@
         <element label="Plan Service 5 Project Number" max_length="40" name="plan_service_5_project_number" type="string"/>
         <element default="95924f82cf3e022" label="Plan Service Number" max_length="40" name="plan_service_number" type="string" use_dependent_field="true"/>
         <element default="SmartBidNet" label="Plan Service Used Name" max_length="40" name="plan_service_used_name" type="string" use_dependent_field="true"/>
-        <element label="Post Bid PM" max_length="32" name="post_bid_pm" reference="sys_user" type="reference"/>
+        <element label="Post Bid PM" max_length="32" name="post_bid_pm" reference="sys_user" reference_qual="department=dda516f5079010109584f0269c1ed04a^EQ" reference_qual_condition="department=dda516f5079010109584f0269c1ed04a^EQ" type="reference"/>
+        <element choice="1" label="PPS" max_length="60" name="pps" type="choice">
+            <choice/>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Preferred Plan Service" max_length="40" name="preferred_plan_service2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Preferred Plan Service" max_length="40" name="preferred_plan_service3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Preferred Plan Service #" max_length="40" name="preferred_plan_service_num2" type="string"/>
@@ -220,35 +273,36 @@
         <element attributes="edge_encryption_enabled=true" label="Website" max_length="1024" name="preferred_plan_service_website3" type="url"/>
         <element label="Pressure Gauges" max_length="1000" name="pressure_gauges" type="string"/>
         <element label="Pre-Takeoff Review Date" max_length="40" name="pre_takeoff_review_date" type="glide_date"/>
+        <element label="Pricing Complete" max_length="40" name="pricing_complete" read_only="true" type="due_date" virtual="true"/>
         <element label="Project City" max_length="40" name="project_city" reference="cmn_location" type="reference"/>
-        <element label="Estimator" max_length="32" name="project_estimator" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;43bc6962db03ff00e55d7b1ebf9619ec&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=project_estimator,ref_ac_columns_search=true " label="Estimator" max_length="32" name="project_estimator" reference="sys_user" reference_qual="department=62daa8a0075300109584f0269c1ed02e^EQ" reference_qual_condition="department=62daa8a0075300109584f0269c1ed02e^EQ" type="reference"/>
         <element label="Project ID" max_length="40" name="project_id" type="string"/>
         <element label="Project Manager OLD" max_length="32" name="project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;bae2213ddbd7bb40e55d7b1ebf9619d8&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element label="Project Manager_New_Old" max_length="32" name="project_manager_new" reference="sys_user" type="reference"/>
-        <element label="Project Name" max_length="40" name="project_name" type="string"/>
-        <element label="Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" reference_qual_condition="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" type="reference"/>
-        <element label="Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;03b0388adb93fb40e55d7b1ebf961908&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="email_client=true" label="Project Name" max_length="40" name="project_name" type="string"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=project_owner;state,ref_ac_order_by=project_owner,ref_ac_columns_search=true " label="Owner" max_length="32" name="project_owner" reference="core_company" reference_qual="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" reference_qual_condition="vendor_typeLIKEa35c7cec073bc0109584f0269c1ed036^EQ" type="reference"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=project_quotations,ref_ac_columns_search=true " label="Quotations" max_length="32" name="project_quotations" reference="sys_user" reference_qual="department=3c8aaca0075300109584f0269c1ed0b9^EQ" reference_qual_condition="department=3c8aaca0075300109584f0269c1ed0b9^EQ" type="reference"/>
         <element default="0" label="Project RFQs Received" max_length="40" name="project_rfqs_received" read_only="true" type="integer"/>
         <element default="0" label="Project RFQs Sent" max_length="40" name="project_rfqs_sent" read_only="true" type="integer"/>
         <element default="0" label="Project RFQ count" max_length="40" name="project_rfq_count" type="integer"/>
-        <element label="Project RFQ Vendors" max_length="4000" name="project_rfq_vendors" reference="core_company" reference_qual="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" reference_qual_condition="vendor_typeLIKEc12bb8dadb8f7f00e55d7b1ebf961918^EQ" type="glide_list"/>
-        <element label="Project State" max_length="2" name="project_state" type="string"/>
+        <element label="Project RFQ Vendors" max_length="4000" name="project_rfq_vendors" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="glide_list"/>
         <element choice="1" default="1" label="Project Status" max_length="40" name="project_status" type="integer">
             <choice>
-                <element inactive_on_update="false" label="Branch Quote" value="14"/>
-                <element inactive_on_update="false" label="Cancelled" value="12"/>
-                <element inactive_on_update="false" label="No Bid" value="13"/>
-                <element inactive_on_update="false" label="On Hold" value="11"/>
-                <element inactive_on_update="false" label="Tracking" sequence="0" value="1"/>
-                <element inactive_on_update="false" label="Plans Secured" sequence="1" value="2"/>
-                <element inactive_on_update="false" label="Take Off in Progress" sequence="2" value="3"/>
-                <element inactive_on_update="false" label="Pricing" sequence="3" value="4"/>
-                <element inactive_on_update="false" label="Sent to PM" sequence="4" value="5"/>
-                <element inactive_on_update="false" label="Complete Less Valves" sequence="5" value="6"/>
-                <element inactive_on_update="false" label="Complete Less Packages" sequence="6" value="7"/>
-                <element inactive_on_update="false" label="Complete" sequence="7" value="8"/>
-                <element inactive_on_update="false" label="Closeout" sequence="8" value="9"/>
-                <element inactive_on_update="false" label="Misc" sequence="9" value="10"/>
+                <element inactive_on_update="false" label="Branch Quote" value="140"/>
+                <element inactive_on_update="false" label="Cancelled" value="120"/>
+                <element inactive_on_update="false" label="No Bid" value="130"/>
+                <element inactive_on_update="false" label="On Hold" value="100"/>
+                <element inactive_on_update="false" label="Pending Review" value="25"/>
+                <element inactive_on_update="false" label="Tracking" sequence="0" value="10"/>
+                <element inactive_on_update="false" label="Plans Secured" sequence="1" value="20"/>
+                <element inactive_on_update="false" label="Take Off in Progress" sequence="2" value="30"/>
+                <element inactive_on_update="false" label="Pricing" sequence="3" value="40"/>
+                <element inactive_on_update="false" label="Sent to PM" sequence="4" value="50"/>
+                <element inactive_on_update="false" label="Complete Less Valves" sequence="5" value="60"/>
+                <element inactive_on_update="false" label="Complete Less Packages" sequence="6" value="70"/>
+                <element inactive_on_update="false" label="Complete" sequence="7" value="80"/>
+                <element inactive_on_update="false" label="Closeout" sequence="8" value="90"/>
+                <element inactive_on_update="false" label="Misc" sequence="9" value="150"/>
             </choice>
         </element>
         <element choice="1" label="Project Type" max_length="40" name="project_type" type="choice">
@@ -262,7 +316,7 @@
                 <element inactive_on_update="false" label="Other" sequence="6" value="Other"/>
             </choice>
         </element>
-        <element label="Project Zip" max_length="32" name="project_zip" reference="cmn_location" reference_qual="zipISNOTEMPTY^EQ" reference_qual_condition="zipISNOTEMPTY^EQ" type="reference"/>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=project_zip;city,ref_ac_order_by=project_zip,ref_ac_columns_search=true " label="Project Zip" max_length="32" name="project_zip" reference="cmn_location" reference_qual="zipISNOTEMPTY^EQ" reference_qual_condition="zipISNOTEMPTY^EQ" type="reference"/>
         <element choice="1" default="Public" label="Public/Private" max_length="7" name="public_private" type="string">
             <choice>
                 <element inactive_on_update="false" label="Public" sequence="10" value="Public"/>
@@ -273,13 +327,14 @@
         <element label="PVC - PM" max_length="300" name="pvc_pm" type="string"/>
         <element label="PVC Size Ranges" max_length="300" name="pvc_size_ranges" type="string"/>
         <element label="View/Create Quick Messages" max_length="32" name="quick_messages" reference="sys_email_canned_message" type="reference"/>
-        <element label="Quotations Specialist" max_length="32" name="quotations_specialist" reference="sys_user" type="reference"/>
         <element label="Quotations Start Date" max_length="40" name="quotations_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Quote Sent" max_length="40" name="quote_sent" type="glide_date"/>
         <element label="Requested and Entered" max_length="40" name="requested_and_entered" type="glide_date"/>
-        <element label="Review Participants" max_length="32" name="review_participants" reference="sys_user" type="reference"/>
+        <element label="Pre-Takeoff Review Participants" max_length="32" name="review_participants" reference="sys_user" type="glide_list"/>
         <element label="Revised Bid Date/Time" max_length="40" name="revised_bid_date" type="glide_date_time"/>
         <element label="Sales" max_length="32" name="sales" reference="sys_user" reference_qual="department=221db0edc611228401760aec06c9d929^EQ" reference_qual_condition="department=221db0edc611228401760aec06c9d929^EQ" type="reference"/>
         <element label="Sales Manager" max_length="32" name="sales_manager" reference="sys_user" type="reference"/>
+        <element label="Scope Sent" max_length="40" name="scope_sent" type="due_date" virtual="true"/>
         <element label="Send RFQs Now" max_length="40" name="send_rfqs_now" type="boolean"/>
         <element label="Sluice\Slide Gates - EST" max_length="4000" name="sluice_slide_gates_est" type="string"/>
         <element label="Sluice\Slide Gates - PM" max_length="4000" name="sluice_slide_gates_pm" type="string"/>
@@ -295,6 +350,7 @@
         <element label="Steel Size Ranges" max_length="300" name="steel_size_ranges" type="string"/>
         <element label="Storm Drain Materials" max_length="1000" name="storm_drain_materials" type="string"/>
         <element label="Sump Pumps" max_length="1000" name="sump_pumps" type="string"/>
+        <element label="Takeoff Completed" max_length="40" name="takeoff_completed" type="due_date" virtual="true"/>
         <element label="Total Pkgs" max_length="20" name="total_pkgs" type="currency"/>
         <element label="Total Project Quote" max_length="20" name="total_project_quote" type="currency"/>
         <element label="Total Project Sale" max_length="20" name="total_project_sale" type="currency"/>
@@ -303,6 +359,7 @@
         <element label="Valves - EST" max_length="1000" name="valves_est" type="string"/>
         <element label="Valve Pkg" max_length="20" name="valves_pkg" type="currency"/>
         <element label="Valves - PM" max_length="300" name="valves_pm" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Valves Sent" max_length="40" name="valves_sent" type="glide_date"/>
         <element label="Valve Size Ranges" max_length="300" name="valves_size_ranges" type="string"/>
         <element label="Vendor Exp DIP" max_length="40" name="vendor_exp_dip" type="glide_date"/>
         <element label="Vendor Exp FRP" max_length="40" name="vendor_exp_frp" type="glide_date"/>
@@ -312,14 +369,14 @@
         <element label="Vendor Exp Stainless Steel" max_length="40" name="vendor_exp_stainless_steel" type="glide_date"/>
         <element label="Vendor Exp Steel" max_length="40" name="vendor_exp_steel" type="glide_date"/>
         <element label="Vendor Exp Valve Pkg" max_length="40" name="vendor_exp_valve_pkg" type="glide_date"/>
-        <element label="Vendor Name DIP" max_length="40" name="vendor_name_dip" reference="core_company" type="reference"/>
-        <element label="Vendor Name FRP" max_length="40" name="vendor_name_frp" reference="core_company" type="reference"/>
-        <element label="Vendor Name HDPE" max_length="40" name="vendor_name_hdpe" reference="core_company" type="reference"/>
-        <element label="Vendor Name Misc" max_length="40" name="vendor_name_misc" reference="core_company" type="reference"/>
-        <element label="Vendor Name Pipe Supports" max_length="40" name="vendor_name_pipe_supports" reference="core_company" type="reference"/>
-        <element label="Vendor Name Stainless Steel" max_length="40" name="vendor_name_stainless_steel" reference="core_company" type="reference"/>
-        <element label="Vendor Name Steel" max_length="40" name="vendor_name_steel" reference="core_company" type="reference"/>
-        <element label="Vendor Name Valve Pkg" max_length="40" name="vendor_name_valve_pkg" reference="core_company" type="reference"/>
+        <element label="Vendor Name DIP" max_length="40" name="vendor_name_dip" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name FRP" max_length="40" name="vendor_name_frp" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name HDPE" max_length="40" name="vendor_name_hdpe" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name Misc" max_length="40" name="vendor_name_misc" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name Pipe Supports" max_length="40" name="vendor_name_pipe_supports" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name Stainless Steel" max_length="40" name="vendor_name_stainless_steel" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name Steel" max_length="40" name="vendor_name_steel" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element label="Vendor Name Valve Pkg" max_length="40" name="vendor_name_valve_pkg" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
         <element label="Victaulic" max_length="1000" name="victaulic" type="string"/>
     </element>
 </database>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Public-private field will be Public for everything except if Deliver Method is Design-Build</description>
+        <description>JobBoard field will be True for everything except if Delivery Method in Design-Build, Private</description>
         <field>delivery_method</field>
         <global>false</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>Public-private set value</name>
+        <name>JobBoard set value</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (isLoading || newValue === '') {
@@ -17,10 +17,18 @@
 
    //Type appropriate comment here, and begin script below
 	var caller = g_form.getValue('delivery_method'); 
-	if (newValue == "design-build") {
-		g_form.setValue("public_private", "Private");
-	} else {
-		g_form.setValue("public_private", "Public");
+	
+	
+/*	if (newValue == "design-build") {
+		g_form.setValue("on_jobboard", "False");		
+	}*/ 
+	
+	if (newValue == "Private") {
+		g_form.setValue("on_jobboard", "False");
+	} 
+	
+	else {
+		g_form.setValue("on_jobboard", "True");
 	}
    
 }]]></script>
@@ -30,15 +38,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9ce23d02dbd7fb40e55d7b1ebf9619db</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Public-private set value</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>JobBoard set value</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_script_client_9ce23d02dbd7fb40e55d7b1ebf9619db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-24 20:51:36</sys_updated_on>
+        <sys_updated_on>2020-04-21 17:58:59</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <type>onChange</type>
         <ui_type>0</ui_type>

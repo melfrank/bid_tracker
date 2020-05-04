@@ -2,16 +2,48 @@
     <sys_email_client_template action="INSERT_OR_UPDATE">
         <blind_copied/>
         <body/>
-        <body_html/>
-        <condition table="x_172976_bid_track_project">project_rfq_vendorsISNOTEMPTY^EQ<item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </condition>
+        <body_html><![CDATA[<p>&nbsp;</p>
+<table style="width: 100%; background-color: #ffffff;">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%; text-align: center; max-width: 800px; margin: auto;">
+<tbody>
+<tr>
+<td style="color: #ffffff; height: 60px; text-align: left; border-bottom: 1px solid #cbcbcb; background-color: #ffffff; padding: 10px 0px 10px 25px;"><img src="FERGUSON%20WATERWORKS%20LOGO.jpgx" alt="Image result for ferguson waterworks logo" width="412" height="104" align="baseline" /></td>
+</tr>
+<tr>
+<td style="color: #293e40; text-align: left; font-size: 16px; background-color: #ffffff; padding: 25px 0px 25px 30px;">
+<p><strong><span style="color: #ff6600;">Please see the attached RFQ and all corresponding specs for the ${project_zip.city}, ${project_zip.state} &ndash; ${project_name} project on which we are currently working.&nbsp;</span></strong></p>
+<p><strong><span style="color: #ff6600;">Currently, this project bids ${revised_bid_date}.</span></strong></p>
+<p>&nbsp;</p>
+<p><strong>PLEASE RETURN TO ME BY:</strong>&nbsp;<span style="font-size: 14pt;"><strong><span style="text-decoration: underline;">Tomorrow</span></strong></span><strong><br /><br /></strong></p>
+<p>If you find any discrepancies between the attached materials list and specifications, please quote per written specifications and drawings. If your quote does not fully comply with the project specifications, you are required to list all exceptions.</p>
+<p><br /><strong>ALL EXCEPTIONS NEED TO BE LISTED ON YOUR QUOTE OR THE VENDOR QUALIFICATIONS FORM. If no exceptions are noted, Ferguson will assume your quote is in full compliance with the material specifications.</strong></p>
+<p><strong><br /></strong>Please let me know if you need more information and thanks in advance for your time.&nbsp;</p>
+<p>With Best Regards,</p>
+<p><strong>${project_quotations}<br /></strong></p>
+<p>${project_quotations.title}</p>
+<p>Ferguson Waterworks | Plant Division</p>
+<p>Phone: ${project_quotations.phone} &nbsp; Fax: 704-554-0874</p>
+<p><a href="mailto:diane.jacob@ferguson.com">${project_quotations.email}</a></p>
+<p>&nbsp;</p>
+<p><a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ferguson.com_&amp;d=DwMFAg&amp;c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r=b9WRLcgtX7wuhlpG4G3LyF4KRvX-jKgXnVAuH6BYdU4&amp;m=iXtrqFsxVS3U4Yy8ZtKUCtdttFSzdfJk4R8qR044HsM&amp;s=gUImqlJVEGs--vQC4EXkoPEoK5xUnIl01nHjJy6IUFE&amp;e=">www.ferguson.com</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>]]></body_html>
+        <condition/>
         <content_type>text/html</content_type>
         <copied/>
-        <email_client_from_address>76fd1d4bdb9b7300e55d7b1ebf961979</email_client_from_address>
+        <email_client_from_address>4ad6f0ae071450109584f0269c1ed070,c4c67c6e071450109584f0269c1ed0a8</email_client_from_address>
         <from/>
-        <from_generation_type>select_from_list</from_generation_type>
-        <name>Bid Tracker</name>
+        <from_generation_type>smtp_email_account</from_generation_type>
+        <name>RFQ Email Client Template</name>
         <order>100</order>
         <recipients/>
         <reply_to/>
@@ -23,19 +55,19 @@
 		 */
 
 })(fromAddressQuery, targetRecord);]]></script_from>
-        <subject>Ferguson RFQ -${project_name} - ${project_city}, ${project_state}  BID DATE -${bid_date_time}</subject>
+        <subject>RFQ Request - ${project_name}</subject>
         <sys_class_name>sys_email_client_template</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-20 18:44:45</sys_created_on>
         <sys_id>cd4d590bdb9b7300e55d7b1ebf9619b5</sys_id>
-        <sys_mod_count>12</sys_mod_count>
-        <sys_name>Bid Tracker</sys_name>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>RFQ Email Client Template</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_email_client_template_cd4d590bdb9b7300e55d7b1ebf9619b5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-20 20:34:27</sys_updated_on>
+        <sys_updated_on>2020-05-04 15:52:29</sys_updated_on>
         <table>x_172976_bid_track_project</table>
     </sys_email_client_template>
 </record_update>

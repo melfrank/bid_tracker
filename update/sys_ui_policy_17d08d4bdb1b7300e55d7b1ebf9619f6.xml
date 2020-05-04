@@ -18,6 +18,7 @@
 
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
+	
 
 }]]></script_true>
         <set_values/>
@@ -28,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>17d08d4bdb1b7300e55d7b1ebf9619f6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Show - Hide Related Lists</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
@@ -36,7 +37,7 @@
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-23 14:00:41</sys_updated_on>
+        <sys_updated_on>2020-04-30 19:15:49</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <ui_type>0</ui_type>
         <view/>

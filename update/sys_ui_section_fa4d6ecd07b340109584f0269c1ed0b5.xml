@@ -3,80 +3,80 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>007082180758d0109584f0269c1ed0b9</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>9371160107a014109584f0269c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Sales Figures</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>087082180758d0109584f0269c1ed0b9</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>5771160107a014109584f0269c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Package Details</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>c87082180758d0109584f0269c1ed0b9</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>1b71160107a014109584f0269c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Vendor Details</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>8c7082180758d0109584f0269c1ed0b9</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>db71160107a014109584f0269c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Post-Bid Project Manager</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>407082180758d0109584f0269c1ed0ba</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>9f71160107a014109584f0269c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Sales People</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>047082180758d0109584f0269c1ed0ba</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>5371160107a014109584f0269c1ed09e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <text>Closeout Notes</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>007082180758d0109584f0269c1ed0b9</element>
+            <element>9371160107a014109584f0269c1ed09d</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed024</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -84,13 +84,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -98,13 +98,13 @@
             <element>total_project_quote</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -112,13 +112,13 @@
             <element>final_post_bid_amt</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -126,13 +126,13 @@
             <element>total_project_sale</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -140,13 +140,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -154,13 +154,13 @@
             <element>low_bid_amt_is_an_estimate</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -168,13 +168,13 @@
             <element>low_bidder_amt</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed025</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -182,13 +182,13 @@
             <element>low_bidder_name</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -196,13 +196,13 @@
             <element>fei_percent_of_total</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -210,27 +210,27 @@
             <element>.end_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>087082180758d0109584f0269c1ed0b9</element>
+            <element>5771160107a014109584f0269c1ed09d</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -238,13 +238,13 @@
             <element>.begin_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -252,13 +252,13 @@
             <element>steel_pkg</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -266,13 +266,13 @@
             <element>misc_pkg</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -280,13 +280,13 @@
             <element>hdpe_pkg</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed026</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -294,13 +294,13 @@
             <element>stainless_steel_pkg</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -308,13 +308,13 @@
             <element>.split</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -322,13 +322,13 @@
             <element>frp_pkg</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -336,13 +336,13 @@
             <element>pipe_support_pkg</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -350,13 +350,13 @@
             <element>valves_pkg</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -364,13 +364,13 @@
             <element>dip_pkg</element>
             <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -378,13 +378,13 @@
             <element>.split</element>
             <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -392,13 +392,13 @@
             <element>total_pkgs</element>
             <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed027</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -406,27 +406,27 @@
             <element>.end_split</element>
             <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>c87082180758d0109584f0269c1ed0b9</element>
+            <element>1b71160107a014109584f0269c1ed09d</element>
             <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -434,13 +434,13 @@
             <element>.begin_split</element>
             <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -448,13 +448,13 @@
             <element>vendor_name_valve_pkg</element>
             <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -462,13 +462,13 @@
             <element>vendor_name_stainless_steel</element>
             <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -476,13 +476,13 @@
             <element>vendor_name_steel</element>
             <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -490,13 +490,13 @@
             <element>vendor_name_dip</element>
             <position>30</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -504,13 +504,13 @@
             <element>vendor_name_frp</element>
             <position>31</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed028</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -518,13 +518,13 @@
             <element>vendor_name_hdpe</element>
             <position>32</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -532,13 +532,13 @@
             <element>vendor_name_misc</element>
             <position>33</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -546,13 +546,13 @@
             <element>vendor_name_pipe_supports</element>
             <position>34</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -560,13 +560,13 @@
             <element>.split</element>
             <position>35</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -574,13 +574,13 @@
             <element>vendor_exp_valve_pkg</element>
             <position>36</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -588,13 +588,13 @@
             <element>vendor_exp_stainless_steel</element>
             <position>37</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -602,13 +602,13 @@
             <element>vendor_exp_steel</element>
             <position>38</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -616,13 +616,13 @@
             <element>vendor_exp_dip</element>
             <position>39</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed029</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -630,13 +630,13 @@
             <element>vendor_exp_frp</element>
             <position>40</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -644,13 +644,13 @@
             <element>vendor_exp_hdpe</element>
             <position>41</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -658,13 +658,13 @@
             <element>vendor_exp_misc</element>
             <position>42</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -672,13 +672,13 @@
             <element>vendor_exp_pipe_supports</element>
             <position>43</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -686,27 +686,27 @@
             <element>.end_split</element>
             <position>44</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>8c7082180758d0109584f0269c1ed0b9</element>
+            <element>db71160107a014109584f0269c1ed09d</element>
             <position>45</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -714,13 +714,13 @@
             <element>.begin_split</element>
             <position>46</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -728,13 +728,13 @@
             <element>post_bid_pm</element>
             <position>47</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed02a</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -742,13 +742,13 @@
             <element>post_bid_pm.email</element>
             <position>48</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -756,13 +756,13 @@
             <element>.split</element>
             <position>49</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -770,13 +770,13 @@
             <element>post_bid_pm.phone</element>
             <position>50</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -784,13 +784,13 @@
             <element>post_bid_pm.mobile_phone</element>
             <position>51</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -798,27 +798,27 @@
             <element>.end_split</element>
             <position>52</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>407082180758d0109584f0269c1ed0ba</element>
+            <element>9f71160107a014109584f0269c1ed09d</element>
             <position>53</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -826,13 +826,13 @@
             <element>.begin_split</element>
             <position>54</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -840,13 +840,13 @@
             <element>sales</element>
             <position>55</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed02b</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -854,13 +854,13 @@
             <element>sales.mobile_phone</element>
             <position>56</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -868,13 +868,13 @@
             <element>sales.phone</element>
             <position>57</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -882,13 +882,13 @@
             <element>sales.email</element>
             <position>58</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -896,13 +896,13 @@
             <element>sales.x_172976_bid_track_branch_number</element>
             <position>59</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -910,13 +910,13 @@
             <element>.split</element>
             <position>60</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -924,13 +924,13 @@
             <element>sales.manager</element>
             <position>61</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -938,13 +938,13 @@
             <element>area_sales_manager</element>
             <position>62</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -952,13 +952,13 @@
             <element>area_sales_manager.email</element>
             <position>63</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed02c</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -966,13 +966,13 @@
             <element>general_manager</element>
             <position>64</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -980,13 +980,13 @@
             <element>general_manager.email</element>
             <position>65</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -994,27 +994,27 @@
             <element>.end_split</element>
             <position>66</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1470ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>eb71160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>047082180758d0109584f0269c1ed0ba</element>
+            <element>5371160107a014109584f0269c1ed09e</element>
             <position>67</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9470ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6f71160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -1022,13 +1022,13 @@
             <element>.begin_split</element>
             <position>68</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1870ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>ef71160107a014109584f0269c1ed0cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -1036,13 +1036,13 @@
             <element>closed_at</element>
             <position>69</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9870ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6371160107a014109584f0269c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1050,13 +1050,13 @@
             <element>.split</element>
             <position>70</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1c70ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e371160107a014109584f0269c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -1064,13 +1064,13 @@
             <element>closed_by</element>
             <position>71</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9c70ca100798d0109584f0269c1ed02d</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6771160107a014109584f0269c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -1078,13 +1078,13 @@
             <element>.end_split</element>
             <position>72</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>1070ca100798d0109584f0269c1ed02e</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>e771160107a014109584f0269c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -1092,13 +1092,13 @@
             <element>close_notes</element>
             <position>73</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-16 21:24:57</sys_created_on>
-            <sys_id>9070ca100798d0109584f0269c1ed02e</sys_id>
+            <sys_created_on>2020-05-01 16:50:35</sys_created_on>
+            <sys_id>6b71160107a014109584f0269c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Closeout" display_value="Closeout" name="x_172976_bid_track_project" sys_domain="global" view="Default view">fa4d6ecd07b340109584f0269c1ed0b5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-16 21:24:57</sys_updated_on>
+            <sys_updated_on>2020-05-01 16:50:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

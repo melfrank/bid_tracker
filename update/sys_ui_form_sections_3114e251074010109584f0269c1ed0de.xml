@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="3114e251074010109584f0269c1ed0de" sys_domain="global" table="x_172976_bid_track_project" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-20 16:18:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>438069e507dc10109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_bid_track_project" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">3114e251074010109584f0269c1ed0de</sys_ui_form>
+            <sys_ui_section caption="job add request form" display_value="job add request form" name="x_172976_bid_track_project" sys_domain="global" view="e3f3b066073700109584f0269c1ed042">a7f3b066073700109584f0269c1ed048</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-20 16:18:01</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_172976_bid_track_project</name>
             <roles/>

@@ -2,7 +2,7 @@
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>false</action_insert>
         <action_update>true</action_update>
-        <active>true</active>
+        <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="RFQ" name="RFQ">a0ab6bcedb4b7f00e55d7b1ebf961965</category>
@@ -62,7 +62,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>86f7110adb57fb40e55d7b1ebf96199d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>RFQ Bid email with attachments</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
@@ -70,7 +70,7 @@
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sysevent_email_action_86f7110adb57fb40e55d7b1ebf96199d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-20 16:53:25</sys_updated_on>
+        <sys_updated_on>2020-04-29 14:31:53</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="ferguson.rfq.send.withattachment">0ed6dd86db57fb40e55d7b1ebf961937</template>
         <type>email</type>
