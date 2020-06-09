@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="core_company" label="Plant Companies" max_length="40" name="x_172976_bid_track_plant_companies" type="collection">
+        <element label="Contact Name" max_length="40" name="contact_name" type="string"/>
+        <element label="County" max_length="40" name="county" type="string"/>
+        <element label="Email" max_length="1024" name="email" type="url"/>
+        <element label="Login Name" max_length="40" name="login_name" type="string"/>
+        <element label="Password" max_length="40" name="password" type="password"/>
+        <element label="PPS" max_length="40" name="pps" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="100" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Owner" sequence="0" value="owner"/>
+                <element inactive_on_update="false" label="Engineer" sequence="10" value="engineer"/>
+                <element inactive_on_update="false" label="Contractor" sequence="20" value="contractor"/>
+                <element inactive_on_update="false" label="Constructor" sequence="30" value="constructor"/>
+                <element inactive_on_update="false" label="Plan Service" sequence="40" value="plan_service"/>
+                <element inactive_on_update="false" label="Vendor" sequence="50" value="vendor"/>
+                <element inactive_on_update="false" label="Manufacturer" sequence="60" value="manufacturer"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>false</active>
+        <conditions table="x_172976_bid_track_project">project_rfq_vendorsISNOTEMPTY^EQ<item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Show - Hide Related Lists</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 16:37:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17d08d4bdb1b7300e55d7b1ebf9619f6</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Show - Hide Related Lists</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 19:15:49</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;conditions table="x_172976_bid_track_project"&gt;project_rfq_vendorsISNOTEMPTY^EQ&lt;item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+	
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Show - Hide Related Lists&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-08-20 16:37:10&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;17d08d4bdb1b7300e55d7b1ebf9619f6&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;Show - Hide Related Lists&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-30 19:15:49&lt;/sys_updated_on&gt;&lt;table&gt;x_172976_bid_track_project&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-977217771</payload_hash>
+        <record_name>Show - Hide Related Lists</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 19:15:49</sys_created_on>
+        <sys_id>012965b40720d0109584f0269c1ed090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171cc8438940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 19:15:49</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>492965b41320d01075d61da36470b38f</update_guid>
+        <update_guid_history>492965b41320d01075d61da36470b38f:-977217771,8135b7c056e41010af31e0eb61aa6403:-153882560,9de3f3402ee41010681f27375ebb00eb:-977217771,79b0370c06a410107a5384f1b26e6999:-1890464191,dd4beb0834a410101e369fcf10d7bde4:-528193962,9531a60427a01010863610233a73022a:-1890464191,465fa6362ad890101b5811f254550a4d:-528193962,8e3fa6360fd890103e425dfd7d50c919:-1890464191,6e947ce4b13bc01049a1e66818d9ea6d:-528193962,15bd29ab79a300106b49ef4917c179c7:0,7289252758a30010c83631fb3b453029:-1098949955,07def05f32e3001007ea9940628545aa:0,73a6e05fe8630010fe422b323e39f4d5:303625415,a9b76f4a06974010abd7c0948c7c616a:-528193962,48a41ce81d0100102eae2e392a4f50e6:0,2d445c687c01001074dbb6cb1977e5ab:-1387311191,6c750f8cc0010010ebbe80790f369469:2015952517</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 13:36:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>4ff35f11c97f4ac499b295d1e62e5124</sys_id>
+        <sys_metadata>17d08d4bdb1b7300e55d7b1ebf9619f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show - Hide Related Lists</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_17d08d4bdb1b7300e55d7b1ebf9619f6">012965b40720d0109584f0269c1ed090</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 13:36:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

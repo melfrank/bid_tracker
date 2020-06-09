@@ -53,7 +53,7 @@
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Delete (Project Task)">1f538389db8f7b00e55d7b1ebf961991</write_back_action_item>
+        <write_back_action_item display_value="">1f538389db8f7b00e55d7b1ebf961991</write_back_action_item>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=13538389db8f7b00e55d7b1ebf961992"/>
 </record_update>

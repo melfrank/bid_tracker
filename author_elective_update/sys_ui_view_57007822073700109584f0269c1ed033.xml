@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>new_project_OLD</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-29 18:48:40</sys_created_on>
+        <sys_id>57007822073700109584f0269c1ed033</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Project_OLD</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_view_57007822073700109584f0269c1ed033</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-29 19:04:45</sys_updated_on>
+        <title>New Project_OLD</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_view_57007822073700109584f0269c1ed033</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>new_project_OLD</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-29 18:48:40</sys_created_on><sys_id>57007822073700109584f0269c1ed033</sys_id><sys_mod_count>1</sys_mod_count><sys_name>New Project_OLD</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_view_57007822073700109584f0269c1ed033</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-29 19:04:45</sys_updated_on><title>New Project_OLD</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-317234981</payload_hash>
+        <record_name>New Project_OLD</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-29 19:04:45</sys_created_on>
+        <sys_id>3ab37c26073700109584f0269c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17127ae96600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-29 19:04:45</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>72b37c260f370010998d6a474073ce1f</update_guid>
+        <update_guid_history>72b37c260f370010998d6a474073ce1f:-317234981,df00782288370010c95d75ede5bcf234:-763623021</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:43:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>5f19b41e54444476a47d3fe7ab120971</sys_id>
+        <sys_metadata>57007822073700109584f0269c1ed033</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Project_OLD</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_view_57007822073700109584f0269c1ed033</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_57007822073700109584f0269c1ed033">3ab37c26073700109584f0269c1ed01f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:43:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

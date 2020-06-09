@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
+    <pa_cubes action="INSERT_OR_UPDATE">
+        <benchmarking>false</benchmarking>
+        <conditions table="x_172976_bid_track_project">final_quote_sentONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()^total_project_quoteISNOTEMPTY<item endquery="false" field="final_quote_sent" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
+            <item endquery="false" field="total_project_quote" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        </conditions>
+        <description>Final quote amounts for all projects within a month</description>
+        <facts_table>x_172976_bid_track_project</facts_table>
+        <facts_table_pk/>
+        <facts_table_pktable/>
+        <facts_table_pkview/>
+        <frequency>40</frequency>
+        <name>Plant.Quote.Monthly</name>
+        <report_source display_value="Project.All (Plant Projects)">5abf2d500758d0109584f0269c1ed04c</report_source>
+        <report_source_updated_at>2020-05-23 22:49:07</report_source_updated_at>
+        <sys_class_name>pa_cubes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-23 18:50:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>901f3740078918109584f0269c1ed002</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Plant.Quote.Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>pa_cubes_901f3740078918109584f0269c1ed002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-23 19:20:42</sys_updated_on>
+    </pa_cubes>
+    <sys_translated_text action="delete_multiple" query="documentkey=901f3740078918109584f0269c1ed002"/>
+</record_update>

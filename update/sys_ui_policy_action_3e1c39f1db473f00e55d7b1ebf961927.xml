@@ -8,16 +8,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-04 13:27:15</sys_created_on>
         <sys_id>3e1c39f1db473f00e55d7b1ebf961927</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>project_owner.state</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_ui_policy_action_3e1c39f1db473f00e55d7b1ebf961927</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-04 13:27:15</sys_updated_on>
+        <sys_updated_on>2020-05-07 21:17:19</sys_updated_on>
         <table>x_172976_bid_track_project</table>
-        <ui_policy display_value="Show Project Owner fields when Project owner  is not empty">4fcbb935db473f00e55d7b1ebf96194e</ui_policy>
-        <visible>true</visible>
+        <ui_policy display_value="Show/Hide owner details when owner empty">4fcbb935db473f00e55d7b1ebf96194e</ui_policy>
+        <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>

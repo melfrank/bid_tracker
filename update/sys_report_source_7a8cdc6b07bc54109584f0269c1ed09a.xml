@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description>All open or active hard-bid and design-build projects, </description>
+        <display>Project.Open (Plant Projects)</display>
+        <filter table="x_172976_bid_track_project">project_statusNOT IN130,100,120,140,150^ORstateNOT IN90,100,150,200<item display_value="130,100,120,140,150" endquery="false" field="project_status" goto="false" newquery="false" operator="NOT IN" or="false" value="130,100,120,140,150"/>
+            <item display_value="90,100,150,200" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="true" value="90,100,150,200"/>
+        </filter>
+        <name>Project.Open</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 13:06:15</sys_created_on>
+        <sys_id>7a8cdc6b07bc54109584f0269c1ed09a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Project.Open (Project)</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_source_7a8cdc6b07bc54109584f0269c1ed09a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 13:10:08</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+    </sys_report_source>
+</record_update>

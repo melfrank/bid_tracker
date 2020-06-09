@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>contractor.website</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 17:20:37</sys_created_on>
+        <sys_id>53510c7adb573300e55d7b1ebf9619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contractor.website</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_53510c7adb573300e55d7b1ebf9619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 17:20:37</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <ui_policy display_value="Show Contractor  fields when Contractor  is not empty">1b80447adb573300e55d7b1ebf9619c9</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_policy_action_53510c7adb573300e55d7b1ebf9619b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>contractor.website</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 17:20:37</sys_created_on>
+        <sys_id>53510c7adb573300e55d7b1ebf9619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contractor.website</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_53510c7adb573300e55d7b1ebf9619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 17:20:37</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <ui_policy display_value="Show Contractor  fields when Contractor  is not empty">1b80447adb573300e55d7b1ebf9619c9</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>]]></payload>
+        <payload_hash>-1356959295</payload_hash>
+        <record_name>contractor.website</record_name>
+        <reverted_from/>
+        <source>9755838c070100109584f0269c1ed0f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 18:23:54</sys_created_on>
+        <sys_id>b4750f8c070100109584f0269c1ed093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e41f571410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 18:23:54</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>74750f8ceb01001085ce66134ba81893</update_guid>
+        <update_guid_history>74750f8ceb01001085ce66134ba81893:-1356959295</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 13:25:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>1b98970ae1384b8f889fbcb721bb8a81</sys_id>
+        <sys_metadata>53510c7adb573300e55d7b1ebf9619b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contractor.website</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_53510c7adb573300e55d7b1ebf9619b4</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_53510c7adb573300e55d7b1ebf9619b4">b4750f8c070100109584f0269c1ed093</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 13:25:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

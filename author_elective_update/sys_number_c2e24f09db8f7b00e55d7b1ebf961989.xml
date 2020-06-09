@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_172976_bid_track_project_task">x_172976_bid_track_project_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:41:09</sys_created_on>
+        <sys_id>c2e24f09db8f7b00e55d7b1ebf961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRT</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_number_c2e24f09db8f7b00e55d7b1ebf961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:41:09</sys_updated_on>
+    </sys_number>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_number_c2e24f09db8f7b00e55d7b1ebf961989</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_172976_bid_track_project_task">x_172976_bid_track_project_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:41:09</sys_created_on>
+        <sys_id>c2e24f09db8f7b00e55d7b1ebf961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRT</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_number_c2e24f09db8f7b00e55d7b1ebf961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:41:09</sys_updated_on>
+    </sys_number>
+</record_update>]]></payload>
+        <payload_hash>-1196636804</payload_hash>
+        <record_name>PRT</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:04</sys_created_on>
+        <sys_id>66ad65ab07a300109584f0269c1ed014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f8964e320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:04</sys_updated_on>
+        <type>Number</type>
+        <update_guid>a2ad65abafa300108d3e68b9cd21b914</update_guid>
+        <update_guid_history>a2ad65abafa300108d3e68b9cd21b914:0,b189a127bca30010e9568ee15e38fad5:-2083905584,c4debc1f01e30010a9927d52a30c4ef0:0,171d7c57d5e30010be2294aa4cb79337:390481723,4a9458e836010010eb34dc64a83537ab:0,f4441c68b80100102532ad860dccc9c7:-32809608,62654b8c9e0100100954cb89505ec516:-1196636804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 15:36:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>34f89ad88119411e8dcd16389baccb21</sys_id>
+        <sys_metadata>c2e24f09db8f7b00e55d7b1ebf961989</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRT</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="">06e24f09db8f7b00e55d7b1ebf96191f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_number_c2e24f09db8f7b00e55d7b1ebf961989</sys_update_name>
+        <sys_update_version display_value="sys_number_c2e24f09db8f7b00e55d7b1ebf961989">66ad65ab07a300109584f0269c1ed014</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 15:36:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

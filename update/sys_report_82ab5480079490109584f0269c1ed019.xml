@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
-        <additional_groupby/>
+        <additional_groupby>project_status</additional_groupby>
         <aggregate>COUNT</aggregate>
         <allow_data_label_overlap>false</allow_data_label_overlap>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
@@ -43,7 +43,7 @@
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
         <field>revised_bid_date</field>
-        <field_list>revised_bid_date,project_status,project_name,project_zip.state,assigned_to,project_quotations,project_estimator,bidtracer_id,current_number_of_addenda,plan_service_1,plan_service_1_project_number,plan_service_1.website,plan_service_1.x_172976_bid_track_login_name,plan_service_1.x_172976_bid_track_password,plan_service_2,plan_service_2_project_number,plan_service_2.website,plan_service_2.x_172976_bid_track_login_name,plan_service_2.x_172976_bid_track_password,plan_service_3,plan_service_3_project_number,plan_service_3.website,plan_service_3.x_172976_bid_track_login_name,plan_service_3.x_172976_bid_track_password,plan_service_4,plan_service_4_project_number,plan_service_4.website,plan_service_4.x_172976_bid_track_login_name,plan_service_4.x_172976_bid_track_password,plan_service_5,plan_service_5_project_number,plan_service_5.website,plan_service_5.x_172976_bid_track_login_name,plan_service_5.x_172976_bid_track_password</field_list>
+        <field_list>revised_bid_date,project_status,project_name,project_zip.state,project_manager,project_quotations,project_estimator,bidtracer_id,current_number_of_addenda,plan_service_1,plan_service_1_project_number,plan_service_1.website,plan_service_1.x_172976_bid_track_login_name,plan_service_1.x_172976_bid_track_password,plan_service_2,plan_service_2_project_number,plan_service_2.website,plan_service_2.x_172976_bid_track_login_name,plan_service_2.x_172976_bid_track_password,plan_service_3,plan_service_3_project_number,plan_service_3.website,plan_service_3.x_172976_bid_track_login_name,plan_service_3.x_172976_bid_track_password,plan_service_4,plan_service_4_project_number,plan_service_4.website,plan_service_4.x_172976_bid_track_login_name,plan_service_4.x_172976_bid_track_password,plan_service_5,plan_service_5_project_number,plan_service_5.website,plan_service_5.x_172976_bid_track_login_name,plan_service_5.x_172976_bid_track_password</field_list>
         <filter table="x_172976_bid_track_project">revised_bid_dateRELATIVEGE@dayofweek@ahead@3^revised_bid_dateRELATIVELE@dayofweek@ahead@7^revised_bid_dateDATEPARTMonday@javascript:gs.datePart('dayofweek','monday','EE')^ORrevised_bid_dateDATEPARTTuesday@javascript:gs.datePart('dayofweek','tuesday','EE')^ORrevised_bid_dateDATEPARTWednesday@javascript:gs.datePart('dayofweek','wednesday','EE')^ORrevised_bid_dateDATEPARTThursday@javascript:gs.datePart('dayofweek','thursday','EE')^ORrevised_bid_dateDATEPARTFriday@javascript:gs.datePart('dayofweek','friday','EE')^project_statusNOT IN14,12,13,11,1^delivery_methodNOT INdesign-build,Post Bid,Private,Customer List,No Quote^EQ<item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="RELATIVE" or="false" value="GE@dayofweek@ahead@3"/>
             <item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="RELATIVE" or="false" value="LE@dayofweek@ahead@7"/>
             <item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="DATEPART" or="false" value="Monday@javascript:gs.datePart('dayofweek','monday','EE')"/>
@@ -83,7 +83,7 @@
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
-        <report_source display_value="Project.HardBid.All (Project)">1a5aeb23074450109584f0269c1ed037</report_source>
+        <report_source display_value="Project.HardBid.All (Plant Projects)">1a5aeb23074450109584f0269c1ed037</report_source>
         <roles/>
         <row/>
         <sc_groupby_item_id/>
@@ -112,14 +112,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-15 19:26:08</sys_created_on>
         <sys_id>82ab5480079490109584f0269c1ed019</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>3 Day Call List</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_report_82ab5480079490109584f0269c1ed019</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-16 00:00:48</sys_updated_on>
+        <sys_updated_on>2020-05-27 18:42:44</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <title>3 Day Call List</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

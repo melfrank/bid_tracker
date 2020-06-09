@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description>Set Quotations Specialist based on Project Manager</description>
-        <field>accs_for_fabricated_ss</field>
-        <global>true</global>
+        <field>project_quotations</field>
+        <global>false</global>
         <isolate_script>true</isolate_script>
         <messages/>
         <name>Set Quotations Specialist</name>
         <order/>
-        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+        <script><![CDATA[function onSubmit(control, oldValue, newValue, isLoading, isTemplate) {
 	
-	var pm = g_form.getValue(project_manager);
+	if (isLoading || newValue == '')
+
+{
+      return;
+}
 	
-		if ( newValue == 'Brandon Rayfield') {
-			g_form.setValue('project_quotations', 'William Chiseck');
+var pm = g_form.getValue('project_manager');
+	
+		if (newValue == 'Brandon Rayfield') {
+			g_form.setValue('quotations', 'William Chiseck');
 			
 		}
 		
-		if ( newValue == 'Eric Barnes') {
-			g_form.setValue('project_quotations', 'Greg Steele');
+		if (newValue == 'Eric Barnes') {
+			g_form.setValue('quotations', 'Greg Steele');
 			
 		}
 		
 		
-		if ( newValue == 'Greg Goodman') {
-			g_form.setValue('project_quotations', 'Franky Helms');
+		if (newValue == 'Greg Goodman') {
+			g_form.setValue('quotations', 'Franky Helms');
 			
 		}
 		
-		if ( newValue == 'Tracy Schwab') {
-			g_form.setValue('project_quotations', 'Andrew Rose');
+		if (newValue == 'Tracy Schwab') {
+			g_form.setValue('quotations', 'Andrew Rose');
 			
 		}
 		
-		if ( newValue == 'David Williams') {
-			g_form.setValue('project_quotations', 'Amie Rivera ');
+		if (newValue == 'David Williams') {
+			g_form.setValue('quotations', 'Amie Rivera ');
 			
 		}
 		
-		if ( newValue == 'Leon Brannan') {
-			g_form.setValue('project_quotations', 'Michelle Malmquist');
+		if (newValue == 'Leon Brannan') {
+			g_form.setValue('quotations', 'Michelle Malmquist');
 			
 		}
 		
-		if ( newValue == 'Gordon Cable') {
-			g_form.setValue('project_quotations', 'James Nelson');
+		if (newValue == 'Gordon Cable') {
+			g_form.setValue('quotations', 'James Nelson');
 			
 		}
 		
@@ -57,7 +63,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5410b73d07d410109584f0269c1ed098</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Set Quotations Specialist</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
@@ -65,9 +71,9 @@
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_script_client_5410b73d07d410109584f0269c1ed098</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-21 21:28:43</sys_updated_on>
+        <sys_updated_on>2020-05-28 16:55:23</sys_updated_on>
         <table>x_172976_bid_track_project</table>
-        <type>onChange</type>
+        <type>onSubmit</type>
         <ui_type>0</ui_type>
         <view/>
     </sys_script_client>

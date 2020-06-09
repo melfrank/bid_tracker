@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Pre-Takeoff Review" section_id="5934e661077410109584f0269c1ed0e5" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Material Origin Requirement</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>9e346a61077410109584f0269c1ed020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Material Specs/Notes</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Buried DIP</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>16346a61077410109584f0269c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Exposed DIP</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>HDPE</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>9a346a61077410109584f0269c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Pipe Supports</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Stainless Steel</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>12346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Steel</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>PVC</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>96346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Sluice/Slide Gates</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Valves</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>1e346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Other</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <text>Pre-Takeoff Notes</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pre_takeoff_review_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review_participants</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>da346a61077410109584f0269c1ed020</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material_origin_requirements</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material_origin_specs_comments</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9e346a61077410109584f0269c1ed020</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>52346a61077410109584f0269c1ed021</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>buried_dip_size_ranges</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>buried_dip_est</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>buried_dip_pm</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>16346a61077410109584f0269c1ed021</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed024</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exposed_dip_size_ranges</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exposed_dip_est</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exposed_dip_pm</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d6346a61077410109584f0269c1ed021</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hdpe_size_ranges</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hdpe_est</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hdpe_pm</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9a346a61077410109584f0269c1ed021</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pipe_supports_size_ranges</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pipe_supports_est</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pipe_supports_pm</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>5e346a61077410109584f0269c1ed021</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stainless_steel_size_ranges</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stainless_steel_est</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stainless_steel_pm</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12346a61077410109584f0269c1ed022</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>steel_size_ranges</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>steel_est</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>steel_pm</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d2346a61077410109584f0269c1ed022</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pvc_size_ranges</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pvc_est</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pvc_pm</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>96346a61077410109584f0269c1ed022</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_size_ranges</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_est</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sluice_slide_gates_pm</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>5a346a61077410109584f0269c1ed022</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_size_ranges</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_est</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valves_pm</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>1e346a61077410109584f0269c1ed022</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed028</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>packages_est_pm</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>de346a61077410109584f0269c1ed022</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dip_manufacturer</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bid_items</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mfg_write_in</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed042</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>small_diameter_piping</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chemical_piping</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>storm_drain_materials</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>56346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flow_meters</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d6346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5a346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accs_for_fabricated_ss</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>da346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accs_for_fabricated_cs</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>5e346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pressure_gauges</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>de346a61077410109584f0269c1ed043</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sump_pumps</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>52346a61077410109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>victaulic</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:05</sys_created_on>
+            <sys_id>d2346a61077410109584f0269c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Pre-Takeoff Review</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:45:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5934e661077410109584f0269c1ed0e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pre-Takeoff Review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_5934e661077410109584f0269c1ed0e5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:45:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New Plant Project" name="New_Plant_Project">5534e661077410109584f0269c1ed0df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_section_5934e661077410109584f0269c1ed0e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Pre-Takeoff Review" section_id="5934e661077410109584f0269c1ed0e5" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project"><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed020</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Material Origin Requirement</text><type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>9e346a61077410109584f0269c1ed020</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Material Specs/Notes</text><type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed021</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Buried DIP</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>16346a61077410109584f0269c1ed021</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Exposed DIP</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed021</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>HDPE</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>9a346a61077410109584f0269c1ed021</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Pipe Supports</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed021</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Stainless Steel</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>12346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Steel</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>PVC</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>96346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Sluice/Slide Gates</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Valves</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>1e346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Other</text><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><text>Pre-Takeoff Notes</text><type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type></sys_ui_annotation><sys_ui_element action="INSERT_OR_UPDATE"><element>pre_takeoff_review_date</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed023</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed023</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>review_participants</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed023</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed023</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>da346a61077410109584f0269c1ed020</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed023</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>material_origin_requirements</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>material_origin_specs_comments</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>9e346a61077410109584f0269c1ed020</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>52346a61077410109584f0269c1ed021</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>buried_dip_size_ranges</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>buried_dip_est</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>buried_dip_pm</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>16346a61077410109584f0269c1ed021</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>exposed_dip_size_ranges</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>exposed_dip_est</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>exposed_dip_pm</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>d6346a61077410109584f0269c1ed021</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>hdpe_size_ranges</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>hdpe_est</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>hdpe_pm</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>9a346a61077410109584f0269c1ed021</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed025</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pipe_supports_size_ranges</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pipe_supports_est</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pipe_supports_pm</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>5e346a61077410109584f0269c1ed021</element><position>24</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>stainless_steel_size_ranges</element><position>25</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>stainless_steel_est</element><position>26</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>stainless_steel_pm</element><position>27</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>12346a61077410109584f0269c1ed022</element><position>28</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed026</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>steel_size_ranges</element><position>29</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>steel_est</element><position>30</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>steel_pm</element><position>31</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>d2346a61077410109584f0269c1ed022</element><position>32</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pvc_size_ranges</element><position>33</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pvc_est</element><position>34</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pvc_pm</element><position>35</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>96346a61077410109584f0269c1ed022</element><position>36</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sluice_slide_gates_size_ranges</element><position>37</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sluice_slide_gates_est</element><position>38</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sluice_slide_gates_pm</element><position>39</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>5a346a61077410109584f0269c1ed022</element><position>40</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>valves_size_ranges</element><position>41</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>valves_est</element><position>42</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>valves_pm</element><position>43</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>1e346a61077410109584f0269c1ed022</element><position>44</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>packages_est_pm</element><position>45</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed041</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>de346a61077410109584f0269c1ed022</element><position>46</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>47</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>dip_manufacturer</element><position>48</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>49</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>bid_items</element><position>50</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>51</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>52</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mfg_write_in</element><position>53</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed042</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>small_diameter_piping</element><position>54</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>chemical_piping</element><position>55</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>storm_drain_materials</element><position>56</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>56346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>flow_meters</element><position>57</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d6346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>58</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5a346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>accs_for_fabricated_ss</element><position>59</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>da346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>accs_for_fabricated_cs</element><position>60</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>5e346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pressure_gauges</element><position>61</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>de346a61077410109584f0269c1ed043</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sump_pumps</element><position>62</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>52346a61077410109584f0269c1ed044</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>victaulic</element><position>63</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:05</sys_created_on><sys_id>d2346a61077410109584f0269c1ed044</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Pre-Takeoff Review" display_value="Pre-Takeoff Review" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">5934e661077410109584f0269c1ed0e5</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Pre-Takeoff Review</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:45:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5934e661077410109584f0269c1ed0e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pre-Takeoff Review</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_5934e661077410109584f0269c1ed0e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:45:02</sys_updated_on><sys_user/><title>false</title><view display_value="New Plant Project" name="New_Plant_Project">5534e661077410109584f0269c1ed0df</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1915153405</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:45:06</sys_created_on>
+        <sys_id>1a346a61077410109584f0269c1ed049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17219708cc60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:45:06</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>92346a61af741010b7113fa2b623dd49</update_guid>
+        <update_guid_history>92346a61af741010b7113fa2b623dd49:-1915153405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:51:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d086cd7f9014f1c83e8975445f0fa10</sys_id>
+        <sys_metadata>5934e661077410109584f0269c1ed0e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pre-Takeoff Review</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5934e661077410109584f0269c1ed0e5</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5934e661077410109584f0269c1ed0e5">1a346a61077410109584f0269c1ed049</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:51:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

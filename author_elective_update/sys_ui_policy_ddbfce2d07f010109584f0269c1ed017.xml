@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>false</active>
+        <conditions table="x_172976_bid_track_project">project_statusIN10,20,25,30^EQ<item display_value="10,20,25,30" endquery="false" field="project_status" goto="false" newquery="false" operator="IN" or="false" value="10,20,25,30"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide RFQ Related List &gt; Project Status = Pricing</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 16:15:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddbfce2d07f010109584f0269c1ed017</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Hide RFQ Related List &gt; Project Status = Pricing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_ddbfce2d07f010109584f0269c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:32:09</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_policy_ddbfce2d07f010109584f0269c1ed017</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;conditions table="x_172976_bid_track_project"&gt;project_statusIN10,20,25,30^EQ&lt;item display_value="10,20,25,30" endquery="false" field="project_status" goto="false" newquery="false" operator="IN" or="false" value="10,20,25,30"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Hide RFQ Related List &amp;gt; Project Status = Pricing&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-15 16:15:56&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ddbfce2d07f010109584f0269c1ed017&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide RFQ Related List &amp;gt; Project Status = Pricing&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_ddbfce2d07f010109584f0269c1ed017&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-18 12:32:09&lt;/sys_updated_on&gt;&lt;table&gt;x_172976_bid_track_project&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-109683052</payload_hash>
+        <record_name>Hide RFQ Related List &gt; Project Status = Pricing</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 12:32:09</sys_created_on>
+        <sys_id>e759fc22073490109584f0269c1ed070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17227c51fce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:32:09</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>ef59fc224b349010b67598903145a16f</update_guid>
+        <update_guid_history>ef59fc224b349010b67598903145a16f:-109683052,3cd053359d3010101f312200bc277c73:971526886,914fae69eb741010a7506d2d3d9356e8:350000145,1cdf4a2d38f01010170e089182e01cd9:-54767471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 12:37:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>3581c3931caf48388aead0d8b77eee89</sys_id>
+        <sys_metadata>ddbfce2d07f010109584f0269c1ed017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide RFQ Related List &gt; Project Status = Pricing</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_ddbfce2d07f010109584f0269c1ed017</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_ddbfce2d07f010109584f0269c1ed017">e759fc22073490109584f0269c1ed070</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:37:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

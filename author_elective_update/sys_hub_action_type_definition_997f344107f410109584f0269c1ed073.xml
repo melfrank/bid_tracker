@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>package_private</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation>Use to add a new project to the Plant Pre-Bid Team</annotation>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Adds a new project for pre-bid team</description>
+        <ih_action>false</ih_action>
+        <internal_name>new_project</internal_name>
+        <label_cache>[{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record}}","label":"step➛Create Record step➛Project Record","type":"step","ref":"x_172976_bid_track_project"},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}","label":"step➛Create Record step➛Project Record➛Project Name","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}","label":"step➛Create Record step➛Project Record➛Original Bid Date/Time","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}","label":"step➛Create Record step➛Project Record➛Original Plan Service","type":"step","ref":"core_company"},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}","label":"step➛Create Record step➛Project Record➛Owner Project Number","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}","label":"step➛Create Record step➛Project Record➛Engineers Estimate","type":"step","ref":""}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>New Project</name>
+        <outputs/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:07:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>997f344107f410109584f0269c1ed073</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>New Project</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_997f344107f410109584f0269c1ed073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 20:35:12</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=997f344107f410109584f0269c1ed073"/>
+    <sys_variable_value action="DELETE" query="document_key=997f344107f410109584f0269c1ed073"/>
+    <sys_element_mapping action="DELETE" query="id=997f344107f410109584f0269c1ed073"/>
+    <sys_element_mapping action="DELETE">
+        <field>_</field>
+        <id>997f344107f410109584f0269c1ed073</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 22:02:35</sys_created_on>
+        <sys_id>e2fb894d07f410109584f0269c1ed00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:35</sys_updated_on>
+        <table>var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073</table>
+        <value>{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record}}</value>
+    </sys_element_mapping>
+    <sys_hub_step_instance action="DELETE" query="action=997f344107f410109584f0269c1ed073^sys_idNOT INaca2014507f410109584f0269c1ed020"/>
+    <sys_hub_step_instance action="DELETE">
+        <action display_value="New Project">997f344107f410109584f0269c1ed073</action>
+        <cid>06a984f4-917c-4431-aac1-867b8dc6d6a2</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Create Record step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Create Record">9cbaa0f267003200553fafb49585ef69</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>aca2014507f410109584f0269c1ed020</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:34</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="DELETE" query="document_key=aca2014507f410109584f0269c1ed020"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_hub_step_instance</document>
+        <document_key>aca2014507f410109584f0269c1ed020</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>a0a2014507f410109584f0269c1ed040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+        <value>x_172976_bid_track_project</value>
+        <variable display_value="">f0fb68f267003200553fafb49585efa0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=aca2014507f410109584f0269c1ed020"/>
+    <sys_element_mapping action="DELETE">
+        <field>create_record_field_values</field>
+        <id>aca2014507f410109584f0269c1ed020</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>20a2014507f410109584f0269c1ed040</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:34</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69</table>
+        <value>project_name={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}^assigned_to=fd-scripted^original_bid_date={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}^plan_service_1={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}^plan_service_1_project_number={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}^engineers_estimate={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="DELETE">
+        <field>create_record_table_name</field>
+        <id>aca2014507f410109584f0269c1ed020</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>e4a2014507f410109584f0269c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="DELETE" query="instance=aca2014507f410109584f0269c1ed020^sys_idNOT INaca2014507f410109584f0269c1ed03d"/>
+    <sys_hub_input_scripts action="DELETE">
+        <active>true</active>
+        <input_name>create_record_field_values</input_name>
+        <instance>aca2014507f410109584f0269c1ed020</instance>
+        <referenced_table>sys_hub_step_instance</referenced_table>
+        <script>{"assigned_to":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar currentUser \u003d gs.getUser(); \ngs.info(currentUser.getDisplayName());","savedValue":""}}</script>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>aca2014507f410109584f0269c1ed03d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_hub_action_output action="DELETE" query="model=997f344107f410109584f0269c1ed073^sys_idNOT INa2fbc54d07f410109584f0269c1ed0a2"/>
+    <sys_hub_action_output action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>_</element>
+        <element_prototype display_value="Record" element="record" name="var__m_sys_flow_step_definition_output_9cbaa0f267003200553fafb49585ef69">966cd57267003200553fafb49585efa0</element_prototype>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="Reference">reference</internal_type>
+        <label>Project</label>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <model display_value="New Project">997f344107f410109584f0269c1ed073</model>
+        <model_id>997f344107f410109584f0269c1ed073</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_172976_bid_track_project">x_172976_bid_track_project</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 22:02:35</sys_created_on>
+        <sys_id>a2fbc54d07f410109584f0269c1ed0a2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 20:35:11</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_step_instance action="DELETE" query="action=997f344107f410109584f0269c1ed073^sys_idNOT INaca2014507f410109584f0269c1ed020"/>
+    <sys_hub_step_instance action="DELETE">
+        <action display_value="New Project">997f344107f410109584f0269c1ed073</action>
+        <cid>06a984f4-917c-4431-aac1-867b8dc6d6a2</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Create Record step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Create Record">9cbaa0f267003200553fafb49585ef69</step_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>aca2014507f410109584f0269c1ed020</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:34</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="DELETE" query="document_key=aca2014507f410109584f0269c1ed020"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_hub_step_instance</document>
+        <document_key>aca2014507f410109584f0269c1ed020</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>a0a2014507f410109584f0269c1ed040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+        <value>x_172976_bid_track_project</value>
+        <variable display_value="">f0fb68f267003200553fafb49585efa0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=aca2014507f410109584f0269c1ed020"/>
+    <sys_element_mapping action="DELETE">
+        <field>create_record_field_values</field>
+        <id>aca2014507f410109584f0269c1ed020</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>20a2014507f410109584f0269c1ed040</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:34</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69</table>
+        <value>project_name={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}^assigned_to=fd-scripted^original_bid_date={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}^plan_service_1={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}^plan_service_1_project_number={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}^engineers_estimate={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="DELETE">
+        <field>create_record_table_name</field>
+        <id>aca2014507f410109584f0269c1ed020</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>e4a2014507f410109584f0269c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="DELETE" query="instance=aca2014507f410109584f0269c1ed020^sys_idNOT INaca2014507f410109584f0269c1ed03d"/>
+    <sys_hub_input_scripts action="DELETE">
+        <active>true</active>
+        <input_name>create_record_field_values</input_name>
+        <instance>aca2014507f410109584f0269c1ed020</instance>
+        <referenced_table>sys_hub_step_instance</referenced_table>
+        <script>{"assigned_to":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar currentUser \u003d gs.getUser(); \ngs.info(currentUser.getDisplayName());","savedValue":""}}</script>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 21:21:45</sys_created_on>
+        <sys_id>aca2014507f410109584f0269c1ed03d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 21:21:45</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073^sys_idNOT INeafb894d07f410109584f0269c1ed008"/>
+    <sys_documentation action="DELETE">
+        <element>_</element>
+        <help/>
+        <hint/>
+        <label>Project</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 22:02:35</sys_created_on>
+        <sys_id>eafb894d07f410109584f0269c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073___en</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 22:02:35</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_hub_action_type_definition_997f344107f410109584f0269c1ed073</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_action_type_definition"&gt;&lt;sys_hub_action_type_definition action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;acls/&gt;&lt;action_template/&gt;&lt;active&gt;true&lt;/active&gt;&lt;annotation&gt;Use to add a new project to the Plant Pre-Bid Team&lt;/annotation&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;Adds a new project for pre-bid team&lt;/description&gt;&lt;ih_action&gt;false&lt;/ih_action&gt;&lt;internal_name&gt;new_project&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record}}","label":"step➛Create Record step➛Project Record","type":"step","ref":"x_172976_bid_track_project"},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}","label":"step➛Create Record step➛Project Record➛Project Name","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}","label":"step➛Create Record step➛Project Record➛Original Bid Date/Time","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}","label":"step➛Create Record step➛Project Record➛Original Plan Service","type":"step","ref":"core_company"},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}","label":"step➛Create Record step➛Project Record➛Owner Project Number","type":"step","ref":""},{"name":"{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}","label":"step➛Create Record step➛Project Record➛Engineers Estimate","type":"step","ref":""}]&lt;/label_cache&gt;&lt;latest_snapshot/&gt;&lt;master_snapshot/&gt;&lt;name&gt;New Project&lt;/name&gt;&lt;outputs/&gt;&lt;outputs/&gt;&lt;state&gt;draft&lt;/state&gt;&lt;sys_class_name&gt;sys_hub_action_type_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:07:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;997f344107f410109584f0269c1ed073&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;New Project&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_action_type_definition_997f344107f410109584f0269c1ed073&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-28 20:35:12&lt;/sys_updated_on&gt;&lt;system_level&gt;false&lt;/system_level&gt;&lt;type/&gt;&lt;/sys_hub_action_type_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=997f344107f410109584f0269c1ed073"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=997f344107f410109584f0269c1ed073"/&gt;&lt;sys_element_mapping action="delete_multiple" query="id=997f344107f410109584f0269c1ed073"/&gt;&lt;sys_element_mapping action="INSERT_OR_UPDATE"&gt;&lt;field&gt;_&lt;/field&gt;&lt;id&gt;997f344107f410109584f0269c1ed073&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 22:02:35&lt;/sys_created_on&gt;&lt;sys_id&gt;e2fb894d07f410109584f0269c1ed00f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:35&lt;/sys_updated_on&gt;&lt;table&gt;var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073&lt;/table&gt;&lt;value&gt;{{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record}}&lt;/value&gt;&lt;/sys_element_mapping&gt;&lt;sys_hub_step_instance action="delete_multiple" query="action=997f344107f410109584f0269c1ed073^sys_idNOT INaca2014507f410109584f0269c1ed020"/&gt;&lt;sys_hub_step_instance action="INSERT_OR_UPDATE"&gt;&lt;action display_value="New Project"&gt;997f344107f410109584f0269c1ed073&lt;/action&gt;&lt;cid&gt;06a984f4-917c-4431-aac1-867b8dc6d6a2&lt;/cid&gt;&lt;extended_inputs/&gt;&lt;extended_outputs/&gt;&lt;icon/&gt;&lt;inputs/&gt;&lt;inputs/&gt;&lt;label&gt;Create Record step&lt;/label&gt;&lt;order&gt;1&lt;/order&gt;&lt;outputs/&gt;&lt;section/&gt;&lt;step_type display_value="Create Record"&gt;9cbaa0f267003200553fafb49585ef69&lt;/step_type&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;aca2014507f410109584f0269c1ed020&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:34&lt;/sys_updated_on&gt;&lt;/sys_hub_step_instance&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=aca2014507f410109584f0269c1ed020"/&gt;&lt;sys_variable_value action="INSERT_OR_UPDATE"&gt;&lt;document&gt;sys_hub_step_instance&lt;/document&gt;&lt;document_key&gt;aca2014507f410109584f0269c1ed020&lt;/document_key&gt;&lt;order&gt;100&lt;/order&gt;&lt;sys_class_name&gt;sys_variable_value&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;a0a2014507f410109584f0269c1ed040&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;value&gt;x_172976_bid_track_project&lt;/value&gt;&lt;variable display_value=""&gt;f0fb68f267003200553fafb49585efa0&lt;/variable&gt;&lt;/sys_variable_value&gt;&lt;sys_element_mapping action="delete_multiple" query="id=aca2014507f410109584f0269c1ed020"/&gt;&lt;sys_element_mapping action="INSERT_OR_UPDATE"&gt;&lt;field&gt;create_record_field_values&lt;/field&gt;&lt;id&gt;aca2014507f410109584f0269c1ed020&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;20a2014507f410109584f0269c1ed040&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:34&lt;/sys_updated_on&gt;&lt;table&gt;var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69&lt;/table&gt;&lt;value&gt;project_name={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}^assigned_to=fd-scripted^original_bid_date={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}^plan_service_1={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}^plan_service_1_project_number={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}^engineers_estimate={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}&lt;/value&gt;&lt;/sys_element_mapping&gt;&lt;sys_element_mapping action="INSERT_OR_UPDATE"&gt;&lt;field&gt;create_record_table_name&lt;/field&gt;&lt;id&gt;aca2014507f410109584f0269c1ed020&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;e4a2014507f410109584f0269c1ed03f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;table&gt;var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69&lt;/table&gt;&lt;value/&gt;&lt;/sys_element_mapping&gt;&lt;sys_hub_input_scripts action="delete_multiple" query="instance=aca2014507f410109584f0269c1ed020^sys_idNOT INaca2014507f410109584f0269c1ed03d"/&gt;&lt;sys_hub_input_scripts action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;input_name&gt;create_record_field_values&lt;/input_name&gt;&lt;instance&gt;aca2014507f410109584f0269c1ed020&lt;/instance&gt;&lt;referenced_table&gt;sys_hub_step_instance&lt;/referenced_table&gt;&lt;script&gt;{"assigned_to":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar currentUser \u003d gs.getUser(); \ngs.info(currentUser.getDisplayName());","savedValue":""}}&lt;/script&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;aca2014507f410109584f0269c1ed03d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;/sys_hub_input_scripts&gt;&lt;sys_hub_action_output action="delete_multiple" query="model=997f344107f410109584f0269c1ed073^sys_idNOT INa2fbc54d07f410109584f0269c1ed0a2"/&gt;&lt;sys_hub_action_output action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;_&lt;/element&gt;&lt;element_prototype display_value="Record" element="record" name="var__m_sys_flow_step_definition_output_9cbaa0f267003200553fafb49585ef69"&gt;966cd57267003200553fafb49585efa0&lt;/element_prototype&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_link/&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;label&gt;Project&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;model display_value="New Project"&gt;997f344107f410109584f0269c1ed073&lt;/model&gt;&lt;model_id&gt;997f344107f410109584f0269c1ed073&lt;/model_id&gt;&lt;model_table&gt;sys_hub_action_type_definition&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;1&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="x_172976_bid_track_project"&gt;x_172976_bid_track_project&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_action_output&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 22:02:35&lt;/sys_created_on&gt;&lt;sys_id&gt;a2fbc54d07f410109584f0269c1ed0a2&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-28 20:35:11&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_action_output&gt;&lt;sys_hub_step_instance action="delete_multiple" query="action=997f344107f410109584f0269c1ed073^sys_idNOT INaca2014507f410109584f0269c1ed020"/&gt;&lt;sys_hub_step_instance action="INSERT_OR_UPDATE"&gt;&lt;action display_value="New Project"&gt;997f344107f410109584f0269c1ed073&lt;/action&gt;&lt;cid&gt;06a984f4-917c-4431-aac1-867b8dc6d6a2&lt;/cid&gt;&lt;extended_inputs/&gt;&lt;extended_outputs/&gt;&lt;icon/&gt;&lt;inputs/&gt;&lt;inputs/&gt;&lt;label&gt;Create Record step&lt;/label&gt;&lt;order&gt;1&lt;/order&gt;&lt;outputs/&gt;&lt;section/&gt;&lt;step_type display_value="Create Record"&gt;9cbaa0f267003200553fafb49585ef69&lt;/step_type&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;aca2014507f410109584f0269c1ed020&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:34&lt;/sys_updated_on&gt;&lt;/sys_hub_step_instance&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=aca2014507f410109584f0269c1ed020"/&gt;&lt;sys_variable_value action="INSERT_OR_UPDATE"&gt;&lt;document&gt;sys_hub_step_instance&lt;/document&gt;&lt;document_key&gt;aca2014507f410109584f0269c1ed020&lt;/document_key&gt;&lt;order&gt;100&lt;/order&gt;&lt;sys_class_name&gt;sys_variable_value&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;a0a2014507f410109584f0269c1ed040&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;value&gt;x_172976_bid_track_project&lt;/value&gt;&lt;variable display_value=""&gt;f0fb68f267003200553fafb49585efa0&lt;/variable&gt;&lt;/sys_variable_value&gt;&lt;sys_element_mapping action="delete_multiple" query="id=aca2014507f410109584f0269c1ed020"/&gt;&lt;sys_element_mapping action="INSERT_OR_UPDATE"&gt;&lt;field&gt;create_record_field_values&lt;/field&gt;&lt;id&gt;aca2014507f410109584f0269c1ed020&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;20a2014507f410109584f0269c1ed040&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:34&lt;/sys_updated_on&gt;&lt;table&gt;var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69&lt;/table&gt;&lt;value&gt;project_name={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.project_name}}^assigned_to=fd-scripted^original_bid_date={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.original_bid_date}}^plan_service_1={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.plan_service_1}}^plan_service_1_project_number={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.owner_project_number}}^engineers_estimate={{step[06a984f4-917c-4431-aac1-867b8dc6d6a2].record.engineers_estimate}}&lt;/value&gt;&lt;/sys_element_mapping&gt;&lt;sys_element_mapping action="INSERT_OR_UPDATE"&gt;&lt;field&gt;create_record_table_name&lt;/field&gt;&lt;id&gt;aca2014507f410109584f0269c1ed020&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;e4a2014507f410109584f0269c1ed03f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;table&gt;var__m_sys_flow_step_definition_input_9cbaa0f267003200553fafb49585ef69&lt;/table&gt;&lt;value/&gt;&lt;/sys_element_mapping&gt;&lt;sys_hub_input_scripts action="delete_multiple" query="instance=aca2014507f410109584f0269c1ed020^sys_idNOT INaca2014507f410109584f0269c1ed03d"/&gt;&lt;sys_hub_input_scripts action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;input_name&gt;create_record_field_values&lt;/input_name&gt;&lt;instance&gt;aca2014507f410109584f0269c1ed020&lt;/instance&gt;&lt;referenced_table&gt;sys_hub_step_instance&lt;/referenced_table&gt;&lt;script&gt;{"assigned_to":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar currentUser \u003d gs.getUser(); \ngs.info(currentUser.getDisplayName());","savedValue":""}}&lt;/script&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 21:21:45&lt;/sys_created_on&gt;&lt;sys_id&gt;aca2014507f410109584f0269c1ed03d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 21:21:45&lt;/sys_updated_on&gt;&lt;/sys_hub_input_scripts&gt;&lt;sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073^sys_idNOT INeafb894d07f410109584f0269c1ed008"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;_&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Project&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-13 22:02:35&lt;/sys_created_on&gt;&lt;sys_id&gt;eafb894d07f410109584f0269c1ed008&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Project&lt;/sys_name&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_documentation_var__m_sys_hub_action_output_997f344107f410109584f0269c1ed073___en&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-13 22:02:35&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>183146620</payload_hash>
+        <record_name>New Project</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 20:35:12</sys_created_on>
+        <sys_id>cdd7c27907c510109584f0269c1ed058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725cfef5e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 20:35:12</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>09d7c27984c510103d95f1cce7503d58</update_guid>
+        <update_guid_history>09d7c27984c510103d95f1cce7503d58:183146620,f2fb894ddff410109d8a2d5666e5c02c:-1422444213,b0a2014538f41010724e40c70b28a051:-1000716276,297f34417cf41010e640d7ea6a005477:601647864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-28 20:35:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>06f7cb926c3940e6aa25b999ac552a44</sys_id>
+        <sys_metadata>997f344107f410109584f0269c1ed073</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_997f344107f410109584f0269c1ed073</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_997f344107f410109584f0269c1ed073">cdd7c27907c510109584f0269c1ed058</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-28 20:35:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

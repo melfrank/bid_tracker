@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Engineer/Owner" section_id="629a152607b490109584f0269c1ed0d9" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>35342a61077410109584f0269c1ed0a7</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a29a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>269a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.x_172976_bid_track_contact_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a69a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.city</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2a9a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>aa9a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.phone</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2e9a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.x_172976_bid_track_email</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>ae9a152607b490109584f0269c1ed0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineer.website</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>229a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a29a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>f5342a61077410109584f0269c1ed0a7</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>269a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a69a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.x_172976_bid_track_contact_name</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2a9a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.city</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>aa9a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.state</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2e9a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.phone</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>ae9a152607b490109584f0269c1ed0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.x_172976_bid_track_email</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>229a152607b490109584f0269c1ed0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_owner.website</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a29a152607b490109584f0269c1ed0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Engineer/Owner</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>629a152607b490109584f0269c1ed0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Engineer/Owner</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_629a152607b490109584f0269c1ed0d9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="">5534e661077410109584f0269c1ed0df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_section_629a152607b490109584f0269c1ed0d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Engineer/Owner" section_id="629a152607b490109584f0269c1ed0d9" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project"><sys_ui_element action="INSERT_OR_UPDATE"><element>35342a61077410109584f0269c1ed0a7</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a29a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>269a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.x_172976_bid_track_contact_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a69a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.city</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2a9a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.state</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>aa9a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.phone</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2e9a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.x_172976_bid_track_email</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>ae9a152607b490109584f0269c1ed0db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>engineer.website</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>229a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a29a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>f5342a61077410109584f0269c1ed0a7</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>269a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a69a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.x_172976_bid_track_contact_name</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2a9a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.city</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>aa9a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.state</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2e9a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.phone</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>ae9a152607b490109584f0269c1ed0dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.x_172976_bid_track_email</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>229a152607b490109584f0269c1ed0dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_owner.website</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a29a152607b490109584f0269c1ed0dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Engineer/Owner" display_value="Engineer/Owner" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">629a152607b490109584f0269c1ed0d9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Engineer/Owner</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>629a152607b490109584f0269c1ed0d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Engineer/Owner</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_629a152607b490109584f0269c1ed0d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><title>false</title><view display_value="">5534e661077410109584f0269c1ed0df</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>746456262</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>a59d6d6b07a300109584f0269c1ed0e3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:37</sys_created_on>
+        <sys_id>518a5a6207b890109584f0269c1ed01b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722949bce90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>118a5a62d0b8901061a60343c75ac91b</update_guid>
+        <update_guid_history>118a5a62d0b8901061a60343c75ac91b:746456262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3f6dd01055d840489e75fd85a38d9264</sys_id>
+        <sys_metadata>629a152607b490109584f0269c1ed0d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Engineer/Owner</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_629a152607b490109584f0269c1ed0d9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_629a152607b490109584f0269c1ed0d9">518a5a6207b890109584f0269c1ed01b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

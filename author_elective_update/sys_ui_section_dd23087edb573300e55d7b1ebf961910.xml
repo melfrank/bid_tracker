@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Plans &amp; Specs" section_id="dd23087edb573300e55d7b1ebf961910" sys_domain="global" table="x_172976_bid_track_project" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>0e71d20107a014109584f0269c1ed02e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <text/>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plans_secured_scanned</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4a71d20107a014109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_addendum</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ca71d20107a014109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4e71d20107a014109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>downloaded_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ce71d20107a014109584f0269c1ed036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4271d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>c271d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_service_used_name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4671d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>link_to_website</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>c671d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4a71d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_service_number</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ca71d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4e71d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>0e71d20107a014109584f0269c1ed02e</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ce71d20107a014109584f0269c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4271d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service2</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>c271d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service_website2</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4671d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service3</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>c671d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service_website3</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4a71d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ca71d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service_num2</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>4e71d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_plan_service_num3</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+            <sys_id>ce71d20107a014109584f0269c1ed038</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Plans &amp; Specs</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-19 17:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd23087edb573300e55d7b1ebf961910</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Plans &amp; Specs</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_dd23087edb573300e55d7b1ebf961910</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 12:06:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_section_dd23087edb573300e55d7b1ebf961910</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Plans &amp; Specs" section_id="dd23087edb573300e55d7b1ebf961910" sys_domain="global" table="x_172976_bid_track_project" version="3" view=""><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>0e71d20107a014109584f0269c1ed02e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><text/><type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type></sys_ui_annotation><sys_ui_element action="INSERT_OR_UPDATE"><element>plans_secured_scanned</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4a71d20107a014109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>original_addendum</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ca71d20107a014109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4e71d20107a014109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>downloaded_by</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ce71d20107a014109584f0269c1ed036</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4271d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>c271d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>plan_service_used_name</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4671d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>link_to_website</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>c671d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4a71d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>plan_service_number</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ca71d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4e71d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>0e71d20107a014109584f0269c1ed02e</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ce71d20107a014109584f0269c1ed037</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4271d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service2</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>c271d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service_website2</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4671d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service3</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>c671d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service_website3</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4a71d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ca71d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service_num2</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>4e71d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_plan_service_num3</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:50:30</sys_created_on><sys_id>ce71d20107a014109584f0269c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Plans &amp; Specs" display_value="Plans &amp; Specs" name="x_172976_bid_track_project" sys_domain="global" view="Default view">dd23087edb573300e55d7b1ebf961910</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:50:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Plans &amp; Specs</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-19 17:28:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dd23087edb573300e55d7b1ebf961910</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Plans &amp; Specs</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_dd23087edb573300e55d7b1ebf961910</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-25 12:06:48</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-989632420</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 16:50:30</sys_created_on>
+        <sys_id>8a71d20107a014109584f0269c1ed03b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d12589790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:50:30</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8271d20147a01410c3ea580a1d1f313b</update_guid>
+        <update_guid_history>8271d20147a01410c3ea580a1d1f313b:-989632420,24111acd43601410aa363a6bfefeb5bd:1237485335,7c37af06749010106a36b9c5892b42ff:-2110758037,c080ab8ed5501010620f0b911e577998:818235309,97bec70ebb101010935d14820f87f91a:-1652666665,db6657118604101037b82dad3d76bd99:-1998506767,cbbb670925b7401044d80c56612093dc:-754671746,d5e55b05fb7740104c22b973b9b981cb:-550450618,1b790b49a6374010767d610342f114cc:-1769105895,6a3683851a374010fe646a1c658abdaf:1818448089,21bd260139f340107b34441827359b9c:-1252945000,25ad2bb41d3b00106f98dbb28b12b5de:-401030097,7dbd69ab04a300103af4fc9f65840b5a:0,1789252764a30010eff77fe38a68a9c9:700927945,ffde745f0ae3001072639e3a687c3806:0,1198430e8e1740109b2e8526c5c3af06:700927945,42e7c3cae71740103467f0f9d85792d5:90932350,ef468b4aef174010b930b28e6c84ce7e:1770338157,a848297d311300107d704ee719dbb4c3:-841995796,9fe2e13d14130010d87b2afb6c4d3377:894057720,9291adb9131300102009044aebc1a291:1941974035,cf4129b943130010395f778bf31f6353:-782126132,650d51b5f71300108c529987b175aa47:-379330113,b1dc957579130010134e475ced37f593:710747640,8a6ab0edf09740105f218ef94feab65f:1119252230,d55a70edc297401098e4f78c84b2f113:1329794735,65b974adda9740109c6ee76c0dcbe07c:1387255857,18e8306d79974010e7885d0e467e4fcd:1329794735,d278bc2da597401065a483447de62dc3:-185375423,0058f82d959740102a416702335e932a:624056926,0328382d089740100b1fdc5c62dff12b:557626489,fc08342db597401092a7ad7c6a00aed6:-826329627,8b641b70f2d70010e79105280cb4080d:1329794735,f8289d2bda4300102577df06c383f48c:1853421647,6508992b42430010b6dff697214197fe:-841995796,413611e7e14300102613424dc4c83c76:984267299,30a049e3fb0300103f716981f240f8e0:1457156573,d13d162e6e43001043634f1fa04f09c3:710747640,7db99e2a4e430010d48f0627ed94ff32:2048531568,dc895a2a39430010f77851b9f8e1a580:1335829990,9d29922aa8430010cb80dd7a710a1eb2:-287707770,e3e0e549883200105ef6a6fd2de0c79d:687519729,84660db83632001087a9cf616f570c52:-165436174,6035eb4bc5a2001051411ca9807e13e1:434997492,5c33e7c711a20010183c905fc7f1c26a:-1967964343,5d5f76768a260010e6ca4b868e228b48:1141726630,751ffe3666260010429bea937634f5c1:132259698,96ac3eb22b260010cdad45df8eb75115:-249932797,5c894d6a566200108e3eb3801af7bab2:698436510,78b60d42b7d20010862947cea2f8aa77:-564001483,9ea3cd8e2692001018c5b55116b5bc27:167556131,17c18cb1be120010b7b60cb009fc5f5d:-1330750756,ac94070d6d5a4010fa3c7c663f254652:1008483415,75b6ea412f1a4010134f02fba031f5eb:-1451974088,2243149c14e5801064e77c8a1e23b2c7:-1598480894,d923909cf6e58010fb032da3c1aac64b:413168937,3441941c50e580105428cfc10bb6951a:-1926195626,5031141ca0e58010bad86e7db2a4dfa4:1492980387,6f0c934c002580100b6f00598c0ebfb8:1301274231,a0c752ffbc91401061f25ae7c4e112e9:660243763,3c7c0277e591401084bdb6f4f70ddc79:-580504338,c65a7c311b0500100a2b50e1a8c1c77b:1695621295,5de9b43162050010d9096388a41d2107:-1192133682,39b9b031520500104c8b695c3b64a98f:579857559,4119b4fdacc10010e771b9e5f1ef34fa:-1250533885,07a2787916c10010c79e033490257844:-561823694,f408a8fd59810010a8f9083233ef58b9:1228529007,6a66e0bd2981001047df2a422ff8ea94:-369380211,63393f65eb010010df7d5a4037a5543d:1689172432,7f3874ec538100100936feefc8efc6d7:-152166793,4ed7fcaccf810010a189396593db61d5:528658062,c7c630acb0810010017bf89f2766cb54:-2043424984,98a45ce86b010010c38d4d4f77beab82:0,31449c68c901001070a94652ecba8d47:700927945,c9754f8c6001001076528b9adcef232a:468685852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 16:34:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0769aa870af3486d803e5a3ac9744ae9</sys_id>
+        <sys_metadata>dd23087edb573300e55d7b1ebf961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Plans &amp; Specs</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_dd23087edb573300e55d7b1ebf961910</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_dd23087edb573300e55d7b1ebf961910">8a71d20107a014109584f0269c1ed03b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 16:34:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

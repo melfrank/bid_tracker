@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
         <item_stream display_value="Project Task Item Stream">17538389db8f7b00e55d7b1ebf961990</item_stream>
-        <master_item display_value="Project Task master_item">1f538389db8f7b00e55d7b1ebf961990</master_item>
+        <master_item/>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-02 10:43:08</sys_created_on>

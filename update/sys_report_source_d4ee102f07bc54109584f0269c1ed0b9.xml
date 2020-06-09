@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description>All completed jobs - status = Closeout</description>
+        <display>Project.Closedout (Plant Projects)</display>
+        <filter table="x_172976_bid_track_project">project_status=90^ORstate=90<item display_value="Closeout" endquery="false" field="project_status" goto="false" newquery="false" operator="=" or="false" value="90"/>
+            <item display_value="90" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="90"/>
+        </filter>
+        <name>Project.Closedout</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 13:12:05</sys_created_on>
+        <sys_id>d4ee102f07bc54109584f0269c1ed0b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project.Closedout (Project)</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_source_d4ee102f07bc54109584f0269c1ed0b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 13:12:05</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+    </sys_report_source>
+</record_update>

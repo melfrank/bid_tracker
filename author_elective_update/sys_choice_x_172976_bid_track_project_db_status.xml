@@ -5,18 +5,132 @@
             <element>db_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>(DB 30%)</label>
+            <label>DB 00%</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
             <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:34:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>094d285f073054109584f0269c1ed0f9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 19:35:03</sys_updated_on>
+            <value>db_00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 05%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:25:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6882cdb07fc14109584f0269c1ed0ca</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 19:42:00</sys_updated_on>
+            <value>db_05</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 10%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a76d285f073054109584f0269c1ed0fa</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 19:41:49</sys_updated_on>
+            <value>db_10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 15%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:41:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89ae285f073054109584f0269c1ed0bd</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:21:53</sys_updated_on>
+            <value>db_15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 20%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:41:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dbe68db073054109584f0269c1ed0aa</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:21:56</sys_updated_on>
+            <value>db_20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 25%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>25</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6ce685f073054109584f0269c1ed0fd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:01</sys_updated_on>
+            <value>db_25</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 30%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>30</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 14:31:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>64fdbb21db93bb40e55d7b1ebf9619f3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 14:31:45</sys_updated_on>
+            <sys_updated_on>2020-05-20 19:42:07</sys_updated_on>
             <value>db_30</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -24,18 +138,113 @@
             <element>db_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>(DB 60%)</label>
+            <label>DB 35%</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>1</sequence>
+            <sequence>35</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:43:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>341fe0df073054109584f0269c1ed0a9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:11</sys_updated_on>
+            <value>db_35</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 40%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:43:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e32f685f073054109584f0269c1ed00b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:16</sys_updated_on>
+            <value>db_40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 45%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>45</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:43:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af3f28df073054109584f0269c1ed03b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:20</sys_updated_on>
+            <value>db_45</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 50%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 19:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>334fe4df073054109584f0269c1ed0bd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:24</sys_updated_on>
+            <value>db_50</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 55%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>55</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:12:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>775fa0df073054109584f0269c1ed067</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:14:27</sys_updated_on>
+            <value>db_55</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 60%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>60</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 14:31:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>acfdfb21db93bb40e55d7b1ebf961901</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 14:31:45</sys_updated_on>
+            <sys_updated_on>2020-05-20 19:42:12</sys_updated_on>
             <value>db_60</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -43,18 +252,113 @@
             <element>db_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>(DB 90%)</label>
+            <label>DB 65%</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>2</sequence>
+            <sequence>65</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:13:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f5f057077054109584f0269c1ed005</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:14:32</sys_updated_on>
+            <value>db_65</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 70%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:13:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5067057077054109584f0269c1ed05c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:14:37</sys_updated_on>
+            <value>db_70</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 75%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>75</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:13:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0167057077054109584f0269c1ed001</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:31</sys_updated_on>
+            <value>db_75</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 80%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>80</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:13:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5326f057077054109584f0269c1ed006</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:35</sys_updated_on>
+            <value>db_80</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 85%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>85</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:14:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8446bc57077054109584f0269c1ed0ef</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:22:40</sys_updated_on>
+            <value>db_85</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 90%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>90</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 14:31:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>68fdfb21db93bb40e55d7b1ebf961903</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-19 15:21:16</sys_updated_on>
+            <sys_updated_on>2020-05-20 19:42:29</sys_updated_on>
             <value>db_90</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,18 +366,37 @@
             <element>db_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>(DB 100%)</label>
+            <label>DB 95%</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>3</sequence>
+            <sequence>95</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-20 20:22:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4346f457077054109584f0269c1ed0f7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-20 20:23:03</sys_updated_on>
+            <value>DB_95</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>db_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DB 100%</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>100</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 14:31:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>24fdfb21db93bb40e55d7b1ebf961905</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-19 15:21:16</sys_updated_on>
+            <sys_updated_on>2020-05-20 19:42:25</sys_updated_on>
             <value>db_100</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

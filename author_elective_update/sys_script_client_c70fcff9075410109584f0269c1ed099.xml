@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Validates email fields entry format</description>
+        <field>accs_for_fabricated_ss</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Email Format Validation</name>
+        <order/>
+        <script><![CDATA[/*function onChange(control, oldValue, newValue, isLoading) {
+	if (isLoading || newValue == '') return;
+
+function validateEmail ( email ) {
+	var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	return re.test( email.toLowerCase() );
+}
+	
+/*if ( !window ) { // Only run in Service Portal
+g_form.hideFieldMsg( 'wsa_email', 'true' ); // Hide any existing field messages
+
+var email = newValue.trim();
+var isValidEmail = validateEmail(email);
+
+if (!isValidEmail) {
+	g_form.setValue('u_email', '');
+	g_form.showErrorBox('u_email', "Please enter a valid email address. You entered: " + email);
+}	
+	
+/*if ( !(validateEmail( newValue )) ) {
+	g_form.showFieldMsg( 'wsa_email', 'Invalid email address: ' + newValue, 'error', false );
+	alert('Please provide a valid email address');
+	g_form.setValue( 'wsa_email', '' ); // Clear out the invalid value
+		//}
+}
+*/
+
+
+function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   g_form.hideErrorBox('email');
+   return validateEmail('email');
+}
+
+function validateEmail(field) { 
+		var email = g_form.getValue(field);
+		var isValidEmail = validateEmail(email);
+	
+		if (!email || email.trim().length <= 0)
+			return true;
+		var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	/*	if (!re.test(email)) {
+			g_form.showErrorBox(field, getMessage('Invalid Email'));
+			return false;
+		}
+		return true;*/
+	if (!isValidEmail) {
+		g_form.setValue('u_email', '');
+		g_form.showErrorBox('u_email', "Please enter a valid email address. You entered: " + email);
+		}	
+		
+	}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 19:07:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c70fcff9075410109584f0269c1ed099</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Email Format Validation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_script_client_c70fcff9075410109584f0269c1ed099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 20:15:15</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_script_client_c70fcff9075410109584f0269c1ed099</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Validates email fields entry format&lt;/description&gt;&lt;field&gt;accs_for_fabricated_ss&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Email Format Validation&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[/*function onChange(control, oldValue, newValue, isLoading) {
+	if (isLoading || newValue == '') return;
+
+function validateEmail ( email ) {
+	var re = /^(([^&lt;&gt;()\[\]\\.,;:\s@"]+(\.[^&lt;&gt;()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	return re.test( email.toLowerCase() );
+}
+	
+/*if ( !window ) { // Only run in Service Portal
+g_form.hideFieldMsg( 'wsa_email', 'true' ); // Hide any existing field messages
+
+var email = newValue.trim();
+var isValidEmail = validateEmail(email);
+
+if (!isValidEmail) {
+	g_form.setValue('u_email', '');
+	g_form.showErrorBox('u_email', "Please enter a valid email address. You entered: " + email);
+}	
+	
+/*if ( !(validateEmail( newValue )) ) {
+	g_form.showFieldMsg( 'wsa_email', 'Invalid email address: ' + newValue, 'error', false );
+	alert('Please provide a valid email address');
+	g_form.setValue( 'wsa_email', '' ); // Clear out the invalid value
+		//}
+}
+*/
+
+
+function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   g_form.hideErrorBox('email');
+   return validateEmail('email');
+}
+
+function validateEmail(field) { 
+		var email = g_form.getValue(field);
+		var isValidEmail = validateEmail(email);
+	
+		if (!email || email.trim().length &lt;= 0)
+			return true;
+		var re = /^(([^&lt;&gt;()[\]\\.,;:\s@\"]+(\.[^&lt;&gt;()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	/*	if (!re.test(email)) {
+			g_form.showErrorBox(field, getMessage('Invalid Email'));
+			return false;
+		}
+		return true;*/
+	if (!isValidEmail) {
+		g_form.setValue('u_email', '');
+		g_form.showErrorBox('u_email', "Please enter a valid email address. You entered: " + email);
+		}	
+		
+	}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-21 19:07:25&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c70fcff9075410109584f0269c1ed099&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Email Format Validation&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Bid Tracker" source="x_172976_bid_track"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bid Tracker"&gt;cd314385db4f7b00e55d7b1ebf96196b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_c70fcff9075410109584f0269c1ed099&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-21 20:15:15&lt;/sys_updated_on&gt;&lt;table&gt;x_172976_bid_track_project&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1048111574</payload_hash>
+        <record_name>Email Format Validation</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 20:15:15</sys_created_on>
+        <sys_id>0c706b7d079410109584f0269c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1719e6167a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 20:15:15</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>44706b7d28941010cc15b22a94f78a27</update_guid>
+        <update_guid_history>44706b7d28941010cc15b22a94f78a27:-1048111574,d92517b1ed94101054fda09b37adc4b9:-1819249705,bbc31771ec9410107629841ec43cfb52:214036103,e5825731dd9410108e1fe37f53762c59:1613282311,a2e09fbd54541010f4c3cf4f5cb7bfb3:2128651983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-26 14:53:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>398e35281fa5409097df3952bcb89a40</sys_id>
+        <sys_metadata>c70fcff9075410109584f0269c1ed099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Email Format Validation</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_script_client_c70fcff9075410109584f0269c1ed099</sys_update_name>
+        <sys_update_version display_value="sys_script_client_c70fcff9075410109584f0269c1ed099">0c706b7d079410109584f0269c1ed027</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-26 14:53:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

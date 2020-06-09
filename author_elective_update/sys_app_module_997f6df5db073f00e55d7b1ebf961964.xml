@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Ferguson Waterworks Plant Div">bf1f29f5db073f00e55d7b1ebf961900</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Add / Update Projects</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Project Administration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_172976_bid_track_project</name>
+        <order>0</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_172976_bid_track.admin,x_172976_bid_track.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 12:33:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>997f6df5db073f00e55d7b1ebf961964</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>All Projects</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_app_module_997f6df5db073f00e55d7b1ebf961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 20:47:53</sys_updated_on>
+        <timeline_page/>
+        <title>All Projects</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_app_module_997f6df5db073f00e55d7b1ebf961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Ferguson Waterworks Plant Div">bf1f29f5db073f00e55d7b1ebf961900</application><assessment/><device_type/><filter/><hint>Add / Update Projects</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Project Administration</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_172976_bid_track_project</name><order>0</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_172976_bid_track.admin,x_172976_bid_track.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-04 12:33:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>997f6df5db073f00e55d7b1ebf961964</sys_id><sys_mod_count>10</sys_mod_count><sys_name>All Projects</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_app_module_997f6df5db073f00e55d7b1ebf961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-30 20:47:53</sys_updated_on><timeline_page/><title>All Projects</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-766927172</payload_hash>
+        <record_name>All Projects</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-30 20:47:53</sys_created_on>
+        <sys_id>96ed94a607c950109584f0269c1ed084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17267574a8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 20:47:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>deed94a66bc95010894600d06e035c83</update_guid>
+        <update_guid_history>deed94a66bc95010894600d06e035c83:-766927172,e02d96724678d010b60e08dd52e2e21e:817722896,39fcda320d78d0107f908a230f18ef1a:89665709,6765d67a5038d010b67fada1c28ce0fe:147007412,98d0afe246a89010a2939f2c963743ba:-345239690,1bad5f6299a8901003d9b0bf3cbccc0e:602574134,690b1722d9a89010712661d084dd784f:-704270678,02ade1ab71a300107510ab70735f7df9:0,e689e127dca300106cacc98ad13e88d5:381314316,a7cebc1f4ce3001028718526cea3cc51:0,3fed309b18e30010ffce12b1857fb45b:1527519839,66b924534da3001004fabfaab2dacbe1:-1978031057,07a6a05f07630010736be79065bbe59a:774926203,699458e8080100109ced6e158e8ae214:0,11445c689e01001008843ec12dd619a4:1406627869,9a650b8c02010010f70cf94815a0ffa4:-292022236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Projects">205e5ca607c950109584f0269c1ed05e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-30 20:49:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>015a5dad3a1b4ad4853a3371d83d61b9</sys_id>
+        <sys_metadata>997f6df5db073f00e55d7b1ebf961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Projects</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_app_module_997f6df5db073f00e55d7b1ebf961964</sys_update_name>
+        <sys_update_version display_value="sys_app_module_997f6df5db073f00e55d7b1ebf961964">96ed94a607c950109584f0269c1ed084</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 20:49:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

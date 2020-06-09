@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="plan_service_1" table="x_172976_bid_track_project" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>plan_service_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Engineer</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-29 20:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0598b4607c510109584f0269c1ed0c2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-29 20:00:07</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>plan_service_1</element>
+            <name>x_172976_bid_track_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-29 20:00:04</sys_created_on>
+            <sys_id>4c69c70607c510109584f0269c1ed0eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>plan_service_1</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_choice_x_172976_bid_track_project_plan_service_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-29 20:00:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_choice_x_172976_bid_track_project_plan_service_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="plan_service_1" table="x_172976_bid_track_project" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>plan_service_1</element><hint/><inactive>false</inactive><label>Engineer</label><language>en</language><name>x_172976_bid_track_project</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-29 20:00:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f0598b4607c510109584f0269c1ed0c2</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-29 20:00:07</sys_updated_on><value/></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>plan_service_1</element><name>x_172976_bid_track_project</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-29 20:00:04</sys_created_on><sys_id>4c69c70607c510109584f0269c1ed0eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>plan_service_1</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_choice_x_172976_bid_track_project_plan_service_1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-29 20:00:04</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>916865976</payload_hash>
+        <record_name>Plant Projects.Original Plan Service</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 20:05:25</sys_created_on>
+        <sys_id>e69a4bc607c510109584f0269c1ed0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172620a0eaa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 20:05:25</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>ee9a4bc657c510105e15dbeff70e1ce5</update_guid>
+        <update_guid_history>ee9a4bc657c510105e15dbeff70e1ce5:916865976,169a4bc632c510101e71b2a830828ce2:156497934,5a9a4bc692c51010043202ecedb95cde:-1877302499,9e9a4bc66fc510101923d8d79060c8da:2040744835,929a4bc6b0c51010604e6ad6f36eddd7:-2121104855,1e894786d8c51010e345897c90bd1989:179312530,a589c786b6c51010263b0de90366efd9:-167678104,2489c78610c510109b5fee0c1cd861a7:-1240422484,1779478643c51010a83df45b053d3512:159509871,9e79438606c51010dbf14d2ce3ca4edd:419540061,30798786bac51010542f216f5c18a898:-680046105,7f69438666c510106e4c48f91fefd0a7:-81569851,1b698f46a2c51010ecf70e6810a1f6e7:788844262,8269478676c51010c81d7211bca532a9:-810304657,65694f4642c5101026de5cdf017bb8ad:-524661617,f069438617c510103252ff5b38b7c2d8:916865976,006947864ac51010fdaad07885910a08:-1676100707</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 20:05:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>4c69c70607c510109584f0269c1ed0eb</sys_id>
+        <sys_metadata>4c69c70607c510109584f0269c1ed0eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>plan_service_1</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_choice_x_172976_bid_track_project_plan_service_1</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_172976_bid_track_project_plan_service_1">e69a4bc607c510109584f0269c1ed0e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 20:05:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project Details" section_id="98c2eaed073410109584f0269c1ed08f" sys_domain="global" table="Copy of x_172976_bid_track_project" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>3bc6137c073010109584f0269c1ed097</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>58c2eaed073410109584f0269c1ed090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>10c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_status</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>90c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_bid_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>14c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revise_bid_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>94c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revised_bid_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>18c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineers_estimate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>98c2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>1cc2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>9cc2eaed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_type</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>10c2eaed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_method</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>90c2eaed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_jobboard</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>14c2eaed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bidtracer_id</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>94c2eaed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>18c2eaed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>58c26eed073410109584f0269c1ed090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>7fc6137c073010109584f0269c1ed097</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>d8c26eed073410109584f0269c1ed090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>5cc26eed073410109584f0269c1ed090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.city</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>dcc26eed073410109584f0269c1ed090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.state</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>50c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_county</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>d0c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_business_unit</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>54c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_region</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>d4c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>58c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>d8c26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>5cc26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>33c6137c073010109584f0269c1ed098</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>dcc26eed073410109584f0269c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_id>50c26eed073410109584f0269c1ed092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Details" display_value="Project Details" name="Copy of x_172976_bid_track_project" sys_domain="global" view="Default view">98c2eaed073410109584f0269c1ed08f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project Details</caption>
+            <header>false</header>
+            <name>Copy of x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-15 17:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98c2eaed073410109584f0269c1ed08f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_98c2eaed073410109584f0269c1ed08f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-15 17:38:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

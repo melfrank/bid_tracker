@@ -2,7 +2,7 @@
     <sys_report_source action="INSERT_OR_UPDATE">
         <description>Delivery Method not in (Design-Build, Private, Post Bid)&#13;
 JobBoard = True</description>
-        <display>Project.HardBid.JobBoard.NoDBPrivatePostBid (Project)</display>
+        <display>Project.HardBid.JobBoard.NoDBPrivatePostBid (Plant Projects)</display>
         <filter table="x_172976_bid_track_project">delivery_methodNOT INdesign-build,Post Bid,Private^jobboard=True<item display_value="design-build,Post Bid,Private" endquery="false" field="delivery_method" goto="false" newquery="false" operator="NOT IN" or="false" value="design-build,Post Bid,Private"/>
         </filter>
         <name>Project.HardBid.JobBoard.NoDBPrivatePostBid</name>

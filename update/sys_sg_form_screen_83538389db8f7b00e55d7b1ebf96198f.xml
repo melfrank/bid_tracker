@@ -7,7 +7,7 @@
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
         <icon display_value="icon-Calendar">0f530b85db4f7b00e55d7b1ebf9619e3</icon>
-        <item_view display_value="Project Task Detail Screen Item View">0b538389db8f7b00e55d7b1ebf96198e</item_view>
+        <item_view/>
         <name>Project Task Form Screen</name>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>

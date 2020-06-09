@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="DELETE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description> Project Task</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Calendar">0f530b85db4f7b00e55d7b1ebf9619e3</icon>
+        <name>Activity Stream</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:43:08</sys_created_on>
+        <sys_id>1f538389db8f7b00e55d7b1ebf96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_1f538389db8f7b00e55d7b1ebf96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:43:08</sys_updated_on>
+        <table>x_172976_bid_track_project_task</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="DELETE" query="documentkey=1f538389db8f7b00e55d7b1ebf96198f"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_sg_activity_stream_screen_1f538389db8f7b00e55d7b1ebf96198f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description> Project Task</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Calendar">0f530b85db4f7b00e55d7b1ebf9619e3</icon>
+        <name>Activity Stream</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:43:08</sys_created_on>
+        <sys_id>1f538389db8f7b00e55d7b1ebf96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_1f538389db8f7b00e55d7b1ebf96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:43:08</sys_updated_on>
+        <table>x_172976_bid_track_project_task</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f538389db8f7b00e55d7b1ebf96198f"/>
+</record_update>]]></payload>
+        <payload_hash>890664286</payload_hash>
+        <record_name>Activity Stream</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:09</sys_created_on>
+        <sys_id>abada5ab07a300109584f0269c1ed061</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f8965e710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:09</sys_updated_on>
+        <type>Activity Stream Screen</type>
+        <update_guid>e7ada5ab6da300106482392c6ad3b061</update_guid>
+        <update_guid_history>e7ada5ab6da300106482392c6ad3b061:0,b989e12726a300105b0a668455709908:-1116954564,8dde305f80e300106e8f8ab41140494b:0,171d7c575ae3001062e8eaa89c143451:1600195972,729498e82901001064302adc764c26f5:0,01441c68a20100102f1927e7bef275ee:939559611,1f658b8c200100104250cf7d866b805f:890664286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 15:36:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_activity_stream_screen">sys_sg_activity_stream_screen</sys_db_object>
+        <sys_id>1e51fe88bd3e4cc0986fa62c6ed32400</sys_id>
+        <sys_metadata>1f538389db8f7b00e55d7b1ebf96198f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_sg_activity_stream_screen_1f538389db8f7b00e55d7b1ebf96198f</sys_update_name>
+        <sys_update_version display_value="sys_sg_activity_stream_screen_1f538389db8f7b00e55d7b1ebf96198f">abada5ab07a300109584f0269c1ed061</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 15:36:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

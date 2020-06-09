@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#7FFF00</color>
+        <color_id display_value="Chartreuse">65b30222a9fe3dba00bfe6cad3c512c2</color_id>
+        <operator>&lt;=</operator>
+        <order>-1</order>
+        <report_id display_value="All Active Hard Bid Projects">48424a4d070110109584f0269c1ed0e3</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-26 12:15:23</sys_created_on>
+        <sys_id>0c42068d070110109584f0269c1ed0a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&lt;=</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_0c42068d070110109584f0269c1ed0a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:15:23</sys_updated_on>
+        <value1>20</value1>
+        <value2/>
+    </sys_report_mpivot_rule>
+</record_update>

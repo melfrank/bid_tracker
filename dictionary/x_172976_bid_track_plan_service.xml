@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Plan Service" max_length="40" name="x_172976_bid_track_plan_service" type="collection">
+    <element label="Plant Plan Services" max_length="40" name="x_172976_bid_track_plan_service" type="collection">
         <element label="Plan Service" max_length="40" name="plan_service" type="string"/>
         <element label="Plan Service Password" max_length="40" name="plan_service_password" type="password"/>
         <element label="Plan Service User Name" max_length="40" name="plan_service_user_name" type="string"/>
         <element label="Plan Service Website" max_length="1024" name="plan_service_website" type="url"/>
+        <element default="False" label="Preferred Plan Service" max_length="40" name="preferred_plan_service" type="boolean"/>
+        <element label="Project Name" max_length="32" name="project_name" reference="x_172976_bid_track_project" reference_qual="project_nameISNOTEMPTY^EQ" reference_qual_condition="project_nameISNOTEMPTY^EQ" type="reference"/>
+        <index name="index">
+            <element name="project_name"/>
+        </index>
     </element>
 </database>

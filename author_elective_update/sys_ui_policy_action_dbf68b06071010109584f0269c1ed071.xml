@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>plan_service_2.website</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-22 13:03:02</sys_created_on>
+        <sys_id>dbf68b06071010109584f0269c1ed071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>plan_service_2.website</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_dbf68b06071010109584f0269c1ed071</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-22 13:03:02</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <ui_policy display_value="Show - Hide Preferred Plan Service">e80da0b6db1b3300e55d7b1ebf9619c2</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_policy_action_dbf68b06071010109584f0269c1ed071</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>plan_service_2.website</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-22 13:03:02</sys_created_on><sys_id>dbf68b06071010109584f0269c1ed071</sys_id><sys_mod_count>0</sys_mod_count><sys_name>plan_service_2.website</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_policy_action_dbf68b06071010109584f0269c1ed071</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-22 13:03:02</sys_updated_on><table>x_172976_bid_track_project</table><ui_policy display_value="Show - Hide Preferred Plan Service">e80da0b6db1b3300e55d7b1ebf9619c2</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-812687683</payload_hash>
+        <record_name>plan_service_2.website</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-22 13:03:02</sys_created_on>
+        <sys_id>d6174706071010109584f0269c1ed028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a1fc0e300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-22 13:03:02</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>121747061e10101000a21079f4b4c728</update_guid>
+        <update_guid_history>121747061e10101000a21079f4b4c728:-812687683</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 20:33:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>5bca18eedf644de4ad4ee6bedb507790</sys_id>
+        <sys_metadata>dbf68b06071010109584f0269c1ed071</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>plan_service_2.website</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_dbf68b06071010109584f0269c1ed071</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_dbf68b06071010109584f0269c1ed071">d6174706071010109584f0269c1ed028</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 20:33:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

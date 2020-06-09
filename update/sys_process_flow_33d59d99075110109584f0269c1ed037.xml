@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_172976_bid_track_project">state=-5^EQ<item display_value="New" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description><![CDATA[<p>Project has been added</p>]]></description>
+        <label>New</label>
+        <name>Project - New</name>
+        <order>100</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 13:56:55</sys_created_on>
+        <sys_id>33d59d99075110109584f0269c1ed037</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Project - New</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_process_flow_33d59d99075110109584f0269c1ed037</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 15:02:07</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+    </sys_process_flow>
+</record_update>

@@ -3,272 +3,272 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>revised_bid_date</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:33</sys_created_on>
-            <sys_id>495d2a68071410109584f0269c1ed01c</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>5ec0eca1078950109584f0269c1ed0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:33</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_name</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:33</sys_created_on>
-            <sys_id>c95d2a68071410109584f0269c1ed01c</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>dec0eca1078950109584f0269c1ed0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:33</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <element>project_manager</element>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:33</sys_created_on>
-            <sys_id>4d5d2a68071410109584f0269c1ed01c</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>52c0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:33</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_estimator</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:33</sys_created_on>
-            <sys_id>cd5d2a68071410109584f0269c1ed01c</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>d2c0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:33</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sales</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>415d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>56c0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>low_bidder_name</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c15d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>d6c0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>low_bidder_amt</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>455d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>5ac0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>dip_pkg</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c55d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>dac0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>valves_pkg</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>495d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>5ec0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>total_pkgs</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c95d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>dec0eca1078950109584f0269c1ed0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>total_project_quote</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>4d5d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>52c0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_zip.city</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>cd5d2a68071410109584f0269c1ed01d</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>d2c0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_zip.state</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>12</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>415d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>56c0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_zip.x_172976_bid_track_business_unit</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>13</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c15d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>d6c0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>project_zip.x_172976_bid_track_region</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>14</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>455d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>5ac0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>on_jobboard</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>15</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c55d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>dac0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>delivery_method</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>16</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>495d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>5ec0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>bidtracer_id</element>
-            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">815d2a68071410109584f0269c1ed01c</list_id>
+            <list_id display_value="x_172976_bid_track_project" element="NULL" name="x_172976_bid_track_project" parent="NULL" relationship="NULL" sys_domain="global" view="db9a4c470748d0109584f0269c1ed090">92c0eca1078950109584f0269c1ed0d7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>17</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:34</sys_created_on>
-            <sys_id>c95d2a68071410109584f0269c1ed01e</sys_id>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
+            <sys_id>dec0eca1078950109584f0269c1ed0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:34</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -282,10 +282,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-17 19:19:33</sys_created_on>
+            <sys_created_on>2020-05-27 18:26:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>815d2a68071410109584f0269c1ed01c</sys_id>
+            <sys_id>92c0eca1078950109584f0269c1ed0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_172976_bid_track_project</sys_name>
             <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
@@ -293,7 +293,7 @@
             <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
             <sys_update_name>sys_ui_list_x_172976_bid_track_project_RPT1f9a88cb0784d0109584f0269c1ed097</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-17 19:19:33</sys_updated_on>
+            <sys_updated_on>2020-05-27 18:26:31</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt1f9a88cb0784d0109584f0269c1ed097" name="RPT1f9a88cb0784d0109584f0269c1ed097">db9a4c470748d0109584f0269c1ed090</view>
             <view_name/>

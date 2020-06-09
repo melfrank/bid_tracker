@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Activity Stream">1f538389db8f7b00e55d7b1ebf96198f</embedded_screen>
+        <embedded_screen/>
         <form display_value="Project Task Form Screen">83538389db8f7b00e55d7b1ebf96198f</form>
         <order>20</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>

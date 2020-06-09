@@ -16,7 +16,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_172976_bid_track</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>all users</short_description>
         <source>x_172976_bid_track</source>
         <store_correlation_id/>
         <store_url/>
@@ -25,12 +25,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-02 10:33:42</sys_created_on>
         <sys_id>cd314385db4f7b00e55d7b1ebf96196b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-02 10:33:44</sys_updated_on>
+        <sys_updated_on>2020-05-26 18:48:14</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="x_172976_bid_track.user" name="x_172976_bid_track.user">b961cb45db4f7b00e55d7b1ebf9619e0</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>

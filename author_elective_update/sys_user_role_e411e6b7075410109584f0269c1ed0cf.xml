@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>role for those who send and recieve rfqs</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_172976_bid_track.RFQ Users</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>RFQ Users</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 20:46:55</sys_created_on>
+        <sys_id>e411e6b7075410109584f0269c1ed0cf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_172976_bid_track.RFQ Users</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_user_role_e411e6b7075410109584f0269c1ed0cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:52:34</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_user_role_e411e6b7075410109584f0269c1ed0cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>role for those who send and recieve rfqs</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_172976_bid_track.RFQ Users</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>RFQ Users</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 20:46:55</sys_created_on><sys_id>e411e6b7075410109584f0269c1ed0cf</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_172976_bid_track.RFQ Users</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_user_role_e411e6b7075410109584f0269c1ed0cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-04 17:52:34</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>824508534</payload_hash>
+        <record_name>x_172976_bid_track.RFQ Users</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-04 17:52:34</sys_created_on>
+        <sys_id>ac7c31c607a410109584f0269c1ed0b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e0d1718c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:52:34</sys_updated_on>
+        <type>Role</type>
+        <update_guid>e47c31c68ea410104334b8959bcca9b7</update_guid>
+        <update_guid_history>e47c31c68ea410104334b8959bcca9b7:824508534,61c26633d09410102d2284fbd74a2abc:-897248338,e23162ff6e5410107123f575a4f5566e:824508534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_172976_bid_track.RFQ Users">469c94ee07ac50109584f0269c1ed080</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 00:10:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>01e08d9cd87b4eac8085cff6cd456e90</sys_id>
+        <sys_metadata>e411e6b7075410109584f0269c1ed0cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track.RFQ Users</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_user_role_e411e6b7075410109584f0269c1ed0cf</sys_update_name>
+        <sys_update_version display_value="sys_user_role_e411e6b7075410109584f0269c1ed0cf">ac7c31c607a410109584f0269c1ed0b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 00:10:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

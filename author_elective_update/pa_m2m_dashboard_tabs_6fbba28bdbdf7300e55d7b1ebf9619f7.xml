@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Pre-Bid Process Tracker">cdbba28bdbdf7300e55d7b1ebf961948</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 00:23:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fbba28bdbdf7300e55d7b1ebf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdbba28bdbdf7300e55d7b1ebf961948</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 00:23:30</sys_updated_on>
+        <tab display_value="New Tab">e7bba28bdbdf7300e55d7b1ebf9619f5</tab>
+    </pa_m2m_dashboard_tabs>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Pre-Bid Process Tracker">cdbba28bdbdf7300e55d7b1ebf961948</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 00:23:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fbba28bdbdf7300e55d7b1ebf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdbba28bdbdf7300e55d7b1ebf961948</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 00:23:30</sys_updated_on>
+        <tab display_value="New Tab">e7bba28bdbdf7300e55d7b1ebf9619f5</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>]]></payload>
+        <payload_hash>773181522</payload_hash>
+        <record_name>cdbba28bdbdf7300e55d7b1ebf961948</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:02</sys_created_on>
+        <sys_id>0aade1ab07a300109584f0269c1ed0d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f896454b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:02</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>46ade1ab6fa30010d08bf17fd5c863d1</update_guid>
+        <update_guid_history>46ade1ab6fa30010d08bf17fd5c863d1:0,e7b9e1676ca300106863a620c05dee25:1595427375,5bcebc1fd6e30010d51323d88a36a042:0,fced3c5b54e3001071b0ea06ed71a03f:-167823883,699458e8d201001055a4ca54ad6c1603:0,0354d4a880010010e8450311a8da8000:756733878,1e650b8cd101001025b5616bd404fc96:773181522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5756c681074110109584f0269c1ed0a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-26 12:33:22</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>054190bf0b364ffa888e9f0cfa8b6f04</sys_id>
+        <sys_metadata>6fbba28bdbdf7300e55d7b1ebf9619f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdbba28bdbdf7300e55d7b1ebf961948</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_6fbba28bdbdf7300e55d7b1ebf9619f7">0aade1ab07a300109584f0269c1ed0d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:33:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

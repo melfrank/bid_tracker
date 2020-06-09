@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Bid Tracker Project Task">03538389db8f7b00e55d7b1ebf96198e</data_item>
+        <data_item/>
         <interleaved_field/>
         <name>Project Task Item Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

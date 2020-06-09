@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_range">
+    <sys_report_range action="INSERT_OR_UPDATE">
+        <color/>
+        <color_name/>
+        <display>background-color:</display>
+        <element>engineers_estimate</element>
+        <label>&gt; 3M</label>
+        <name>x_172976_bid_track_project</name>
+        <order>100</order>
+        <sys_class_name>sys_report_range</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 21:04:07</sys_created_on>
+        <sys_id>fee98eef073494109584f0269c1ed066</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_report_range_fee98eef073494109584f0269c1ed066</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 21:27:21</sys_updated_on>
+        <upper_value_duration/>
+        <upper_value_int>2147483647</upper_value_int>
+        <value_list/>
+    </sys_report_range>
+    <sys_translated_text action="delete_multiple" query="documentkey=fee98eef073494109584f0269c1ed066"/>
+</record_update>

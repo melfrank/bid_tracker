@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Ferguson Waterworks Plant Div">bf1f29f5db073f00e55d7b1ebf961900</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_172976_bid_track_project">project_statusNOT IN90,130,100,120,140,150^EQ<item display_value="90,130,100,120,140,150" endquery="false" field="project_status" goto="false" newquery="false" operator="NOT IN" or="false" value="90,130,100,120,140,150"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>All active/open plant projects</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open Projects</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_172976_bid_track_project</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_172976_bid_track.admin,x_172976_bid_track.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 21:02:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f7a94c6073410109584f0269c1ed000</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Open/Active Projects</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_app_module_0f7a94c6073410109584f0269c1ed000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 12:08:01</sys_updated_on>
+        <timeline_page/>
+        <title>Open/Active Projects</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

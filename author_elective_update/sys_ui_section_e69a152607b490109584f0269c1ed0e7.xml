@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Estimating" section_id="e69a152607b490109584f0269c1ed0e7" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>82342a61077410109584f0269c1ed0d0</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a69a552607b490109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2a9a552607b490109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_estimator</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>aa9a552607b490109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_start_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2e9a552607b490109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_completion_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>ae9a552607b490109584f0269c1ed002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_takeoff_hours</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>229a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a29a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>main_estimator_target_completion_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>269a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_percent_complete</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a69a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_line_items</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2a9a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>add_estimator_2</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>aa9a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2e9a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>ae9a552607b490109584f0269c1ed003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>46342a61077410109584f0269c1ed0d0</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>229a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a29a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>269a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_start_date</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a69a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_completion_date</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2a9a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_takeoff_hours</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>aa9a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2e9a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_target_date</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>ae9a552607b490109584f0269c1ed004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_percent_complete</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>229a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_2_line_items</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a29a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>add_estimator_3</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>269a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a69a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>0a342a61077410109584f0269c1ed0d0</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2a9a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>aa9a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2e9a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_start_date</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>ae9a552607b490109584f0269c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_target_date</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>229a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_takeoff_hours</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a29a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>269a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_completion_date</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>a69a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_percent_complete</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>2a9a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimator_3_line_items</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_id>aa9a552607b490109584f0269c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Estimating</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e69a152607b490109584f0269c1ed0e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Estimating</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_e69a152607b490109584f0269c1ed0e7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="">5534e661077410109584f0269c1ed0df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_section_e69a152607b490109584f0269c1ed0e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Estimating" section_id="e69a152607b490109584f0269c1ed0e7" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project"><sys_ui_element action="INSERT_OR_UPDATE"><element>82342a61077410109584f0269c1ed0d0</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a69a552607b490109584f0269c1ed002</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2a9a552607b490109584f0269c1ed002</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project_estimator</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>aa9a552607b490109584f0269c1ed002</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_start_date</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2e9a552607b490109584f0269c1ed002</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_completion_date</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>ae9a552607b490109584f0269c1ed002</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_takeoff_hours</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>229a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a29a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>main_estimator_target_completion_date</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>269a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_percent_complete</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a69a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_line_items</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2a9a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>add_estimator_2</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>aa9a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2e9a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>ae9a552607b490109584f0269c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>46342a61077410109584f0269c1ed0d0</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>229a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a29a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>269a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_start_date</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a69a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_completion_date</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2a9a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_takeoff_hours</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>aa9a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2e9a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_target_date</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>ae9a552607b490109584f0269c1ed004</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_percent_complete</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>229a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_2_line_items</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a29a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>add_estimator_3</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>269a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>24</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a69a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>0a342a61077410109584f0269c1ed0d0</element><position>25</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2a9a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>26</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>aa9a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3</element><position>27</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2e9a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_start_date</element><position>28</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>ae9a552607b490109584f0269c1ed005</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_target_date</element><position>29</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>229a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_takeoff_hours</element><position>30</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a29a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>31</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>269a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_completion_date</element><position>32</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>a69a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_percent_complete</element><position>33</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>2a9a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>estimator_3_line_items</element><position>34</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_id>aa9a552607b490109584f0269c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Estimating" display_value="Estimating" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">e69a152607b490109584f0269c1ed0e7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Estimating</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e69a152607b490109584f0269c1ed0e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Estimating</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_e69a152607b490109584f0269c1ed0e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:22</sys_updated_on><sys_user/><title>false</title><view display_value="">5534e661077410109584f0269c1ed0df</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-49981090</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>a59d6d6b07a300109584f0269c1ed0e3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:39</sys_created_on>
+        <sys_id>2d8a5a6207b890109584f0269c1ed082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722949c1890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:39</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e98a5a62ecb890106dab37abfbb1c782</update_guid>
+        <update_guid_history>e98a5a62ecb890106dab37abfbb1c782:-49981090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0bd89f05496643e89956cdd1f62422e4</sys_id>
+        <sys_metadata>e69a152607b490109584f0269c1ed0e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Estimating</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e69a152607b490109584f0269c1ed0e7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e69a152607b490109584f0269c1ed0e7">2d8a5a6207b890109584f0269c1ed082</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

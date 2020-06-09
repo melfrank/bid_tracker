@@ -7,7 +7,7 @@
         <affected_field_on_event/>
         <category display_value="RFQ" name="RFQ">a0ab6bcedb4b7f00e55d7b1ebf961965</category>
         <collection>x_172976_bid_track_project</collection>
-        <condition table="x_172976_bid_track_project">state=1^project_rfq_vendorsISNOTEMPTY^project_rfq_count&gt;=1^email_template=ff912b86db4b7f00e55d7b1ebf961997^EQ<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        <condition table="x_172976_bid_track_project">state=1^project_rfq_vendorsISNOTEMPTY^project_rfq_count&gt;=1^email_template=ff912b86db4b7f00e55d7b1ebf961997^EQ<item display_value="1" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
             <item endquery="false" field="project_rfq_vendors" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="false" field="project_rfq_count" goto="false" newquery="false" operator="&gt;=" or="false" value="1"/>
             <item display_table="sysevent_email_template" display_value="ferguson.rfq.send" endquery="false" field="email_template" goto="false" newquery="false" operator="=" or="false" value="ff912b86db4b7f00e55d7b1ebf961997"/>

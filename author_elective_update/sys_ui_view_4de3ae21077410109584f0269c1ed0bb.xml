@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>job_add_request</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:43:38</sys_created_on>
+        <sys_id>4de3ae21077410109584f0269c1ed0bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job_add_request</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_view_4de3ae21077410109584f0269c1ed0bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:43:38</sys_updated_on>
+        <title>Job_add_request</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_view_4de3ae21077410109584f0269c1ed0bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>job_add_request</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 17:43:38</sys_created_on><sys_id>4de3ae21077410109584f0269c1ed0bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Job_add_request</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_view_4de3ae21077410109584f0269c1ed0bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 17:43:38</sys_updated_on><title>Job_add_request</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1440689272</payload_hash>
+        <record_name>Job_add_request</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:43:38</sys_created_on>
+        <sys_id>01e3ae21077410109584f0269c1ed0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172196f38b40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:43:38</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>49e3ae21197410107dd3a44e4ecb39bd</update_guid>
+        <update_guid_history>49e3ae21197410107dd3a44e4ecb39bd:-1440689272</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 17:45:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>0509e6e1bf2848b0807f5fcdae9f5100</sys_id>
+        <sys_metadata>4de3ae21077410109584f0269c1ed0bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job_add_request</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_view_4de3ae21077410109584f0269c1ed0bb</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_4de3ae21077410109584f0269c1ed0bb">01e3ae21077410109584f0269c1ed0be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:45:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

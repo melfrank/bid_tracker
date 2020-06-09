@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="business_calendar">
+    <business_calendar action="INSERT_OR_UPDATE">
+        <calendar_name>Estimating Schedule</calendar_name>
+        <description>Calendar used to assign takeoffs to estimators</description>
+        <is_legacy_schedule>false</is_legacy_schedule>
+        <label>Estimating Schedule</label>
+        <parent/>
+        <plural_label>Estimating Schedules</plural_label>
+        <sys_class_name>business_calendar</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 13:48:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8001e843076cd0109584f0269c1ed0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Estimating Schedule</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>business_calendar_8001e843076cd0109584f0269c1ed0eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 13:48:20</sys_updated_on>
+        <time_zone/>
+    </business_calendar>
+</record_update>

@@ -574,8 +574,7 @@
         <reference_floats>false</reference_floats>
         <reference_key/>
         <reference_qual>x_172976_bid_track_login_nameISNOTEMPTY</reference_qual>
-        <reference_qual_condition table="core_company">x_172976_bid_track_login_nameISNOTEMPTY<item endquery="false" field="x_172976_bid_track_login_name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
-        </reference_qual_condition>
+        <reference_qual_condition table="core_company">x_172976_bid_track_login_nameISNOTEMPTY</reference_qual_condition>
         <reference_type/>
         <sizeclass/>
         <spell_check>false</spell_check>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>false</active>
-        <conditions table="x_172976_bid_track_project">project_statusIN1,2^EQ<item display_value="1,2" endquery="false" field="project_status" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+        <conditions table="x_172976_bid_track_project">project_statusIN10,20,25^EQ<item display_value="10,20,25" endquery="false" field="project_status" goto="false" newquery="false" operator="IN" or="false" value="10,20,25"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>
@@ -15,30 +15,35 @@
         <reverse_if_false>true</reverse_if_false>
         <run_scripts>true</run_scripts>
         <script_false><![CDATA[function onCondition() {
-    var sections = g_form.getSections(); // get sections (array)
-    sections[8].style.display = 'block';
+// var sections = g_form.getSections(); // get sections (array)
+   //sections[6].style.display = 'block';
+	
+	g_form.setSectionDisplay('rfq_tracking', true);
+	
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
-var sections = g_form.getSections(); // get sections (array)
-    sections[8].style.display = 'none';
+//var sections = g_form.getSections(); // get sections (array)
+  //sections[6].style.display = 'none';	
+	
+	g_form.setSectionDisplay('rfq_tracking', false);
 }]]></script_true>
         <set_values/>
-        <short_description>Show - Hide RFQ Tracker tab</short_description>
+        <short_description>Show/Hide RFQ tracker section</short_description>
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-06 14:27:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>be9b10e2dbcbbf00e55d7b1ebf9619c9</sys_id>
-        <sys_mod_count>21</sys_mod_count>
-        <sys_name>Show - Hide RFQ Tracker tab</sys_name>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>Show/Hide RFQ tracker section</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_ui_policy_be9b10e2dbcbbf00e55d7b1ebf9619c9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-30 19:15:20</sys_updated_on>
+        <sys_updated_on>2020-05-20 14:31:10</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <ui_type>0</ui_type>
         <view/>

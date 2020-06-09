@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Project</label>
+        <label>Plant Projects</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_172976_bid_track_project</name>
         <number_ref display_value="PRO">a5728709db8f7b00e55d7b1ebf961996</number_ref>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-02 10:39:12</sys_created_on>
         <sys_id>2d724709db8f7b00e55d7b1ebf96199d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Project</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Plant Projects</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_db_object_2d724709db8f7b00e55d7b1ebf96199d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-04 12:02:21</sys_updated_on>
+        <sys_updated_on>2020-05-29 17:39:33</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>project_estimator</element>
+        <name>x_172976_bid_track_project</name>
+        <style>background-color:red;&#13;
+color:black;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 22:11:08</sys_created_on>
+        <sys_id>67c61f9fdb53f300e55d7b1ebf961968</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_style_67c61f9fdb53f300e55d7b1ebf961968</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 22:18:59</sys_updated_on>
+        <value>Bob  Walters</value>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=67c61f9fdb53f300e55d7b1ebf961968"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_style_67c61f9fdb53f300e55d7b1ebf961968</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>project_estimator</element>
+        <name>x_172976_bid_track_project</name>
+        <style>background-color:red;&#13;
+color:black;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>shahzad.hussain</sys_created_by>
+        <sys_created_on>2019-08-21 22:11:08</sys_created_on>
+        <sys_id>67c61f9fdb53f300e55d7b1ebf961968</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_style_67c61f9fdb53f300e55d7b1ebf961968</sys_update_name>
+        <sys_updated_by>shahzad.hussain</sys_updated_by>
+        <sys_updated_on>2019-08-21 22:18:59</sys_updated_on>
+        <value>Bob  Walters</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=67c61f9fdb53f300e55d7b1ebf961968"/>
+</record_update>]]></payload>
+        <payload_hash>-946582483</payload_hash>
+        <record_name>x_172976_bid_track_project</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:18</sys_created_on>
+        <sys_id>f1bd69ab07a300109584f0269c1ed05e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f89682eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:18</sys_updated_on>
+        <type>Style</type>
+        <update_guid>31bd69ab69a3001085158480f4a0db5e</update_guid>
+        <update_guid_history>31bd69ab69a3001085158480f4a0db5e:0,db892527e0a300101ad609d4d7832ecc:-1157093558,b3de745f65e30010051c6e5bcc2f990a:0,6eb6e45fde6300106afc28cff1066161:920209625,d8a45ce8380100102a740ad6c7afae85:0,79449c689d01001027e14fecd288034a:-1041122302,c9754f8c720100105546089d67f59b2d:-946582483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-29 12:11:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>09efef1b4b0346328583a2f0c7fdb0d1</sys_id>
+        <sys_metadata>67c61f9fdb53f300e55d7b1ebf961968</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_style_67c61f9fdb53f300e55d7b1ebf961968</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_67c61f9fdb53f300e55d7b1ebf961968">f1bd69ab07a300109584f0269c1ed05e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-29 12:11:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

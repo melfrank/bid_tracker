@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="DELETE">
+        <active>true</active>
+        <category display_value="Project Tasks">b833c349db8f7b00e55d7b1ebf961998</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by</columns>
+        <condition table="x_172976_bid_track_project_task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:42:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc33c349db8f7b00e55d7b1ebf961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_aw_list_bc33c349db8f7b00e55d7b1ebf961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:42:26</sys_updated_on>
+        <table>x_172976_bid_track_project_task</table>
+        <title>Open</title>
+        <workspace display_value="Bid Tracker">84334bc1db8f7b00e55d7b1ebf9619dc</workspace>
+    </sys_aw_list>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_aw_list_bc33c349db8f7b00e55d7b1ebf961999</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Project Tasks">b833c349db8f7b00e55d7b1ebf961998</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by</columns>
+        <condition table="x_172976_bid_track_project_task">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:42:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc33c349db8f7b00e55d7b1ebf961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_aw_list_bc33c349db8f7b00e55d7b1ebf961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:42:26</sys_updated_on>
+        <table>x_172976_bid_track_project_task</table>
+        <title>Open</title>
+        <workspace display_value="Bid Tracker">84334bc1db8f7b00e55d7b1ebf9619dc</workspace>
+    </sys_aw_list>
+</record_update>]]></payload>
+        <payload_hash>783647583</payload_hash>
+        <record_name>Open</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:03</sys_created_on>
+        <sys_id>4ead25ab07a300109584f0269c1ed01d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f896470e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:03</sys_updated_on>
+        <type>Workspace List</type>
+        <update_guid>8aad25abe7a30010a183a45f126c4d1d</update_guid>
+        <update_guid_history>8aad25abe7a30010a183a45f126c4d1d:0,b189a1277ea300109fdd2f2fac8952f5:1397973986,a3cebc1fdee3001098d3861104bf9b5d:0,171d7c5758e30010853591cb0fc8d04a:20525087,319458e8470100102042ec07ca8a6f21:0,bc441c6846010010588276e7855581e6:-1038313976,d6650b8ce201001053cc3710aaef47af:783647583</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 15:36:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_list">sys_aw_list</sys_db_object>
+        <sys_id>69908b8a4c1848508573b180fa969a71</sys_id>
+        <sys_metadata>bc33c349db8f7b00e55d7b1ebf961999</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_aw_list_bc33c349db8f7b00e55d7b1ebf961999</sys_update_name>
+        <sys_update_version display_value="sys_aw_list_bc33c349db8f7b00e55d7b1ebf961999">4ead25ab07a300109584f0269c1ed01d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 15:36:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

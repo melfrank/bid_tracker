@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 16:14:41</sys_created_on>
+        <sys_id>0c8fca2d07f010109584f0269c1ed057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_0c8fca2d07f010109584f0269c1ed057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 16:14:41</sys_updated_on>
+        <ui_policy display_value="Hide/Show RFQ tracker related list">d71f062d07f010109584f0269c1ed0eb</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_policy_rl_action_0c8fca2d07f010109584f0269c1ed057</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</list><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 16:14:41</sys_created_on><sys_id>0c8fca2d07f010109584f0269c1ed057</sys_id><sys_mod_count>0</sys_mod_count><sys_name>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_policy_rl_action_0c8fca2d07f010109584f0269c1ed057</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 16:14:41</sys_updated_on><ui_policy display_value="Hide/Show RFQ tracker related list">d71f062d07f010109584f0269c1ed0eb</ui_policy><visible>false</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>1346798994</payload_hash>
+        <record_name>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 16:14:41</sys_created_on>
+        <sys_id>7d8fca2d07f010109584f0269c1ed0af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172191dc58a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 16:14:41</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>b58fca2d35f01010a30b54c90155eaaf</update_guid>
+        <update_guid_history>b58fca2d35f01010a30b54c90155eaaf:1346798994</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 12:36:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>1430f8b039a545608a8d828748b7c400</sys_id>
+        <sys_metadata>0c8fca2d07f010109584f0269c1ed057</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REL:e6e20d2adb4fbf00e55d7b1ebf96199c</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_0c8fca2d07f010109584f0269c1ed057</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_0c8fca2d07f010109584f0269c1ed057">7d8fca2d07f010109584f0269c1ed0af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:36:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

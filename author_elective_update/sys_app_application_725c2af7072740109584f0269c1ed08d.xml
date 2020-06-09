@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Owner</name>
+        <order>100</order>
+        <roles>x_172976_bid_track.owner_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 14:48:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>725c2af7072740109584f0269c1ed08d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Owner</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_app_application_725c2af7072740109584f0269c1ed08d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 14:48:27</sys_updated_on>
+        <title>Owner</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_app_application_725c2af7072740109584f0269c1ed08d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Owner</name><order>100</order><roles>x_172976_bid_track.owner_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-21 14:48:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>725c2af7072740109584f0269c1ed08d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Owner</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_app_application_725c2af7072740109584f0269c1ed08d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-21 14:48:27</sys_updated_on><title>Owner</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1420030154</payload_hash>
+        <record_name>Owner</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 14:48:27</sys_created_on>
+        <sys_id>fe5c2af7072740109584f0269c1ed08e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170fd91109d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 14:48:27</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3a5c2af7782740100184619629e4858e</update_guid>
+        <update_guid_history>3a5c2af7782740100184619629e4858e:-1420030154</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Owner">87e1e7a607a890109584f0269c1ed0d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 14:32:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>01bc529c9e784d928010cd36f82a8984</sys_id>
+        <sys_metadata>725c2af7072740109584f0269c1ed08d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Owner</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_app_application_725c2af7072740109584f0269c1ed08d</sys_update_name>
+        <sys_update_version display_value="sys_app_application_725c2af7072740109584f0269c1ed08d">fe5c2af7072740109584f0269c1ed08e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 14:32:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>pre-bid project managers</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_172976_bid_track.0990_project_manager</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>0990_project_manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 14:29:34</sys_created_on>
+        <sys_id>6124e7b8077010109584f0269c1ed0f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_172976_bid_track.0990_project_manager</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_user_role_6124e7b8077010109584f0269c1ed0f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 14:31:58</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_user_role_6124e7b8077010109584f0269c1ed0f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>pre-bid project managers</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_172976_bid_track.0990_project_manager</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>0990_project_manager</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-13 14:29:34</sys_created_on><sys_id>6124e7b8077010109584f0269c1ed0f4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_172976_bid_track.0990_project_manager</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_user_role_6124e7b8077010109584f0269c1ed0f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-13 14:31:58</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1393657885</payload_hash>
+        <record_name>x_172976_bid_track.0990_project_manager</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 14:31:58</sys_created_on>
+        <sys_id>f9d42bf8077010109584f0269c1ed0c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1720e7305200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 14:31:58</sys_updated_on>
+        <type>Role</type>
+        <update_guid>f1d42bf89f701010a02993a1277794c5</update_guid>
+        <update_guid_history>f1d42bf89f701010a02993a1277794c5:1393657885,7244e3b802701010a39a43ef5bc86ce9:-1924199188</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_172976_bid_track.0990_project_manager">5ca863fc077010109584f0269c1ed04a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 14:48:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>2427edefd049479292c9f978e88f03e4</sys_id>
+        <sys_metadata>6124e7b8077010109584f0269c1ed0f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track.0990_project_manager</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_user_role_6124e7b8077010109584f0269c1ed0f4</sys_update_name>
+        <sys_update_version display_value="sys_user_role_6124e7b8077010109584f0269c1ed0f4">f9d42bf8077010109584f0269c1ed0c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 14:48:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

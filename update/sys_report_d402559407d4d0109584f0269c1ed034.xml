@@ -43,7 +43,7 @@
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
-        <field_list>project_name,revised_bid_date,delivery_method,project_status,assigned_to,project_estimator,plan_service_1,plan_service_1_project_number,bidtracer_id,sys_created_on,project_zip.x_172976_bid_track_business_unit,project_zip.x_172976_bid_track_region,project_zip.city,project_zip.state,engineer,engineers_estimate</field_list>
+        <field_list>project_name,revised_bid_date,delivery_method,project_status,project_manager,project_estimator,plan_service_1,plan_service_1_project_number,bidtracer_id,sys_created_on,project_zip.x_172976_bid_track_business_unit,project_zip.x_172976_bid_track_region,project_zip.city,project_zip.state,engineer,engineers_estimate</field_list>
         <filter table="x_172976_bid_track_project">revised_bid_dateRELATIVELT@month@ahead@4^revised_bid_date&gt;=javascript:gs.beginningOfToday()^project_zip.x_172976_bid_track_business_unitINNorthern Cal WW,Southern Cal WW^EQ<item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="RELATIVE" or="false" value="LT@month@ahead@4"/>
             <item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.beginningOfToday()"/>
             <item endquery="false" field="project_zip.x_172976_bid_track_business_unit" goto="false" newquery="false" operator="IN" or="false" value="Northern Cal WW,Southern Cal WW"/>
@@ -77,7 +77,7 @@
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
-        <report_source display_value="Project.HardBid.JobBoard.NoDBPrivatePostBid (Project)">9f44afbf078090109584f0269c1ed017</report_source>
+        <report_source display_value="Project.HardBid.JobBoard.NoDBPrivatePostBid (Plant Projects)">9f44afbf078090109584f0269c1ed017</report_source>
         <roles/>
         <row/>
         <sc_groupby_item_id/>
@@ -106,14 +106,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-16 18:02:03</sys_created_on>
         <sys_id>d402559407d4d0109584f0269c1ed034</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Job Board - NorCal &amp; SoCal</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_report_d402559407d4d0109584f0269c1ed034</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-17 19:02:08</sys_updated_on>
+        <sys_updated_on>2020-05-27 18:30:50</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <title>Job Board - NorCal &amp; SoCal</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

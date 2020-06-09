@@ -27,15 +27,15 @@
             <label>Design-Build</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>1</sequence>
+            <sequence>10</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-04 13:50:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5a4182b9db473f00e55d7b1ebf961991</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:40:01</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:17:54</sys_updated_on>
             <value>design-build</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -46,15 +46,15 @@
             <label>Post Bid</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>2</sequence>
+            <sequence>20</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>249d08bddb93bb40e55d7b1ebf9619c5</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:41:44</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:17:59</sys_updated_on>
             <value>Post Bid</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -65,15 +65,15 @@
             <label>Private</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>3</sequence>
+            <sequence>30</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>209d08bddb93bb40e55d7b1ebf9619c7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:40:01</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:02</sys_updated_on>
             <value>Private</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -84,15 +84,15 @@
             <label>Customer List</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>4</sequence>
+            <sequence>40</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2c9d08bddb93bb40e55d7b1ebf9619c8</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:42:03</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:08</sys_updated_on>
             <value>Customer List</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -103,15 +103,15 @@
             <label>Take Off Only</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>5</sequence>
+            <sequence>50</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ac9d44fddb93bb40e55d7b1ebf9619b6</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:42:32</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:11</sys_updated_on>
             <value>Take Off Only</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -122,15 +122,15 @@
             <label>No Quote</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>6</sequence>
+            <sequence>60</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a89d44fddb93bb40e55d7b1ebf9619b8</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:42:52</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:15</sys_updated_on>
             <value>No Quote</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -141,15 +141,15 @@
             <label>Invitation</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>7</sequence>
+            <sequence>70</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a49d44fddb93bb40e55d7b1ebf9619ba</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:40:01</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:20</sys_updated_on>
             <value>Invitation</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -160,15 +160,15 @@
             <label>Rebid</label>
             <language>en</language>
             <name>x_172976_bid_track_project</name>
-            <sequence>8</sequence>
+            <sequence>80</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-16 15:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a09d44fddb93bb40e55d7b1ebf9619bc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-16 15:40:01</sys_updated_on>
+            <sys_updated_on>2020-05-05 14:18:23</sys_updated_on>
             <value>Rebid</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

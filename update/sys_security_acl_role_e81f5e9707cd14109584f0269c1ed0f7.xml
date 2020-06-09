@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 14:07:39</sys_created_on>
+        <sys_id>e81f5e9707cd14109584f0269c1ed0f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_plant_projects_child.x_172976_bid_track.user</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_security_acl display_value="x_172976_bid_track_plant_projects_child">6c1f5e9707cd14109584f0269c1ed0f4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e81f5e9707cd14109584f0269c1ed0f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 14:07:39</sys_updated_on>
+        <sys_user_role display_value="x_172976_bid_track.user" name="x_172976_bid_track.user">b961cb45db4f7b00e55d7b1ebf9619e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

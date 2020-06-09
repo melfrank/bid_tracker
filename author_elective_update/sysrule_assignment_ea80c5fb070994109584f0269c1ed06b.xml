@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="DELETE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group/>
+        <match_conditions>ALL</match_conditions>
+        <name>Assign to creator</name>
+        <order>100</order>
+        <script>current.opened_by;</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 20:33:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea80c5fb070994109584f0269c1ed06b</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Assign to creator</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sysrule_assignment_ea80c5fb070994109584f0269c1ed06b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:53:38</sys_updated_on>
+        <table>x_172976_bid_track_project</table>
+        <user/>
+    </sysrule_assignment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sysrule_assignment_ea80c5fb070994109584f0269c1ed06b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment"><sysrule_assignment action="INSERT_OR_UPDATE"><active>true</active><condition/><description/><group/><match_conditions>ALL</match_conditions><name>Assign to creator</name><order>100</order><script>current.opened_by;</script><sys_class_name>sysrule_assignment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-03 20:33:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea80c5fb070994109584f0269c1ed06b</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Assign to creator</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sysrule_assignment_ea80c5fb070994109584f0269c1ed06b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-03 22:53:38</sys_updated_on><table>x_172976_bid_track_project</table><user/></sysrule_assignment></record_update>]]></payload>
+        <payload_hash>1704117554</payload_hash>
+        <record_name>Assign to creator</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:53:38</sys_created_on>
+        <sys_id>9b01a53f078994109584f0269c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727c63db2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:53:38</sys_updated_on>
+        <type>Assignment Rule</type>
+        <update_guid>d301a53feb899410048abb241410c91f</update_guid>
+        <update_guid_history>d301a53feb899410048abb241410c91f:1704117554,f38025fb7e8994109b9ea10b8811faea:-625602531,d0464db3fb4994101003fd5f7df5ada3:1704117554,01954d7394499410236ce1869586983b:-625602531,8315c1736a499410c3e6779e7a1ad0e4:1704117554,dce00dbba70994106e827342fa783aba:-625602531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 00:14:13</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_assignment">sysrule_assignment</sys_db_object>
+        <sys_id>1002ba63720f4e14812c5d423296da90</sys_id>
+        <sys_metadata>ea80c5fb070994109584f0269c1ed06b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign to creator</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sysrule_assignment_ea80c5fb070994109584f0269c1ed06b</sys_update_name>
+        <sys_update_version display_value="sysrule_assignment_ea80c5fb070994109584f0269c1ed06b">9b01a53f078994109584f0269c1ed01f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 00:14:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

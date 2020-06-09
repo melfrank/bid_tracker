@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Design-Build" section_id="ea9a152607b490109584f0269c1ed0d4" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>design_build_types</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2e9a152607b490109584f0269c1ed0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>ae9a152607b490109584f0269c1ed0d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>db_status</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>229a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a29a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>f1342a61077410109584f0269c1ed09f</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>269a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a69a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2a9a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor.website</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>aa9a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor.phone</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>2e9a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>ae9a152607b490109584f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor.city</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>229a152607b490109584f0269c1ed0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor.state</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>a29a152607b490109584f0269c1ed0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>constructor.zip</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_id>269a152607b490109584f0269c1ed0d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Design-Build</caption>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 14:57:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea9a152607b490109584f0269c1ed0d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Design-Build</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_ea9a152607b490109584f0269c1ed0d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 14:57:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="">5534e661077410109584f0269c1ed0df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_ui_section_ea9a152607b490109584f0269c1ed0d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Design-Build" section_id="ea9a152607b490109584f0269c1ed0d4" sys_domain="global" table="x_172976_bid_track_project" version="3" view="New_Plant_Project"><sys_ui_element action="INSERT_OR_UPDATE"><element>design_build_types</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2e9a152607b490109584f0269c1ed0d6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>ae9a152607b490109584f0269c1ed0d6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>db_status</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>229a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a29a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>f1342a61077410109584f0269c1ed09f</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>269a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a69a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2a9a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor.website</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>aa9a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor.phone</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>2e9a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>ae9a152607b490109584f0269c1ed0d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor.city</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>229a152607b490109584f0269c1ed0d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor.state</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>a29a152607b490109584f0269c1ed0d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>constructor.zip</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_id>269a152607b490109584f0269c1ed0d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Design-Build" display_value="Design-Build" name="x_172976_bid_track_project" sys_domain="global" view="5534e661077410109584f0269c1ed0df">ea9a152607b490109584f0269c1ed0d4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Design-Build</caption><header>false</header><name>x_172976_bid_track_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-18 14:57:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea9a152607b490109584f0269c1ed0d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Design-Build</sys_name><sys_overrides/><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_ui_section_ea9a152607b490109584f0269c1ed0d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-18 14:57:21</sys_updated_on><sys_user/><title>false</title><view display_value="">5534e661077410109584f0269c1ed0df</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>532906485</payload_hash>
+        <record_name>Project</record_name>
+        <reverted_from/>
+        <source>a59d6d6b07a300109584f0269c1ed0e3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:39</sys_created_on>
+        <sys_id>a58a5a6207b890109584f0269c1ed097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722949c2710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:39</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>658a5a62f4b89010ff5cf75d12435697</update_guid>
+        <update_guid_history>658a5a62f4b89010ff5cf75d12435697:532906485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 19:36:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>294fd2b63c364416a52fde527f2ac5b1</sys_id>
+        <sys_metadata>ea9a152607b490109584f0269c1ed0d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Design-Build</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="Plant Projects">2d724709db8f7b00e55d7b1ebf96199d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ea9a152607b490109584f0269c1ed0d4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ea9a152607b490109584f0269c1ed0d4">a58a5a6207b890109584f0269c1ed097</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 19:36:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

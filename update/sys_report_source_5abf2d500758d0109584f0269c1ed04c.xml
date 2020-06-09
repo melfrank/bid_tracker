@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
     <sys_report_source action="INSERT_OR_UPDATE">
         <description>All projects</description>
-        <display>Project.All (Project)</display>
+        <display>Project.All (Plant Projects)</display>
         <filter/>
         <name>Project.All</name>
         <sys_class_name>sys_report_source</sys_class_name>

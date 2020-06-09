@@ -75,7 +75,7 @@
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
-        <report_source display_value="Project.HardBid.JobBoard.NoDBPrivatePostBid (Project)">9f44afbf078090109584f0269c1ed017</report_source>
+        <report_source display_value="Project.HardBid.JobBoard.NoDBPrivatePostBid (Plant Projects)">9f44afbf078090109584f0269c1ed017</report_source>
         <roles/>
         <row/>
         <sc_groupby_item_id/>

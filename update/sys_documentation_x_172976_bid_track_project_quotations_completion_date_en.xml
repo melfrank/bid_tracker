@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quotations_completion_date" label="Quotations Completion Date" language="en" table="x_172976_bid_track_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quotations_completion_date</element>
+            <help/>
+            <hint/>
+            <label>Quotations Completion Date</label>
+            <language>en</language>
+            <name>x_172976_bid_track_project</name>
+            <plural>Quotations Completion Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 21:07:23</sys_created_on>
+            <sys_id>b695c929070d50109584f0269c1ed0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quotations Completion Date</sys_name>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_bid_track_project_quotations_completion_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 21:07:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

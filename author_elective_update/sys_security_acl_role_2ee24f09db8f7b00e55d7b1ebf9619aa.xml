@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:41:10</sys_created_on>
+        <sys_id>2ee24f09db8f7b00e55d7b1ebf9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project_task.x_172976_bid_track.user</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_security_acl display_value="x_172976_bid_track_project_task">66e24f09db8f7b00e55d7b1ebf9619a8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2ee24f09db8f7b00e55d7b1ebf9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:41:10</sys_updated_on>
+        <sys_user_role display_value="x_172976_bid_track.user" name="x_172976_bid_track.user">b961cb45db4f7b00e55d7b1ebf9619e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_security_acl_role_2ee24f09db8f7b00e55d7b1ebf9619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 10:41:10</sys_created_on>
+        <sys_id>2ee24f09db8f7b00e55d7b1ebf9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project_task.x_172976_bid_track.user</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_security_acl display_value="x_172976_bid_track_project_task">66e24f09db8f7b00e55d7b1ebf9619a8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2ee24f09db8f7b00e55d7b1ebf9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 10:41:10</sys_updated_on>
+        <sys_user_role display_value="x_172976_bid_track.user" name="x_172976_bid_track.user">b961cb45db4f7b00e55d7b1ebf9619e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1662174878</payload_hash>
+        <record_name>x_172976_bid_track_project_task.x_172976_bid_track.user</record_name>
+        <reverted_from/>
+        <source>6e9dad6b07a300109584f0269c1ed0ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 15:36:07</sys_created_on>
+        <sys_id>97ad65ab07a300109584f0269c1ed0d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f89658490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 15:36:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d3ad65ab85a300102958c4f67f119ad3</update_guid>
+        <update_guid_history>d3ad65ab85a300102958c4f67f119ad3:0,f4896127fda300108ac67de14c7075e8:-718702131,2cdefc1fe1e300104783a1faf5cebfa4:0,2e1d3c57b4e30010de3fe15eaeae8264:1860188707,e69498e82b010010b8d80d5e14b0c86a:0,d844d868eb0100106c202d1081c28cf3:-1819543535,87654b8cd90100106ad17897ace985e7:1662174878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_172976_bid_track_project_task.x_172976_bid_track.user">92607f2607e890109584f0269c1ed07d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 15:36:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5b2c63105bd24c7fbcf176985d732591</sys_id>
+        <sys_metadata>2ee24f09db8f7b00e55d7b1ebf9619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_bid_track_project_task.x_172976_bid_track.user</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent display_value="">66e24f09db8f7b00e55d7b1ebf9619a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2ee24f09db8f7b00e55d7b1ebf9619aa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2ee24f09db8f7b00e55d7b1ebf9619aa">97ad65ab07a300109584f0269c1ed0d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 15:36:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

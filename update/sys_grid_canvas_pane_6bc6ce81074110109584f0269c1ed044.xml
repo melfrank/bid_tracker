@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">e9d20ebb07f0d4109584f0269c1ed01f</grid_canvas>
+        <height>12</height>
+        <portal_widget display_value="Created 05-26-2020 08:35:17 AM">67c68641074110109584f0269c1ed07a</portal_widget>
+        <posx>0</posx>
+        <posy>13</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-26 12:35:17</sys_created_on>
+        <sys_id>6bc6ce81074110109584f0269c1ed044</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>e9d20ebb07f0d4109584f0269c1ed01f</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6bc6ce81074110109584f0269c1ed044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:40:08</sys_updated_on>
+        <width>3</width>
+    </sys_grid_canvas_pane>
+</record_update>

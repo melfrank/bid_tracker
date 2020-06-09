@@ -8,16 +8,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-20 14:39:53</sys_created_on>
         <sys_id>222620c3dbd77300e55d7b1ebf961925</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>project_zip.city</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_ui_policy_action_222620c3dbd77300e55d7b1ebf961925</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-23 13:46:12</sys_updated_on>
+        <sys_updated_on>2020-05-08 15:11:15</sys_updated_on>
         <table>x_172976_bid_track_project</table>
-        <ui_policy display_value="Show - Hide Project state, zip ">72656483dbd77300e55d7b1ebf961957</ui_policy>
-        <visible>true</visible>
+        <ui_policy display_value="Show/Hide location details project zip empty">72656483dbd77300e55d7b1ebf961957</ui_policy>
+        <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>
