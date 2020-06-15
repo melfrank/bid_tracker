@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<p></p>
+<table style="width: 100%; background-color: #ffffff; height: 266px;">
+<tbody>
+<tr style="height: 266px;">
+<td style="height: 266px;">
+<table style="width: 100%; text-align: center; max-width: 800px; margin: auto; height: 159px;">
+<tbody>
+<tr style="height: 60px;">
+<td style="color: #ffffff; height: 60px; text-align: left; border-bottom: 1px solid #cbcbcb; background-color: #ffffff; padding: 10px 0px 10px 25px;"><img src="FERGUSON%20WATERWORKS%20LOGO.jpgx" alt="" title="" style="align: baseline;" width="325" vspace="" hspace="" height="82" border="" align="bottom" /></td>
+</tr>
+<tr style="height: 49px;">
+<td style="color: #293e40; text-align: left; font-size: 16px; background-color: #ffffff; padding: 25px 0px 25px 30px; height: 49px;">
+<p class="p1">${notification:body}</p>
+</td>
+</tr>
+<tr style="height: 50px;">
+<td style="color: #293e40; height: 50px; text-align: left; font-size: 16px; background-color: #ffffff; padding-left: 30px;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="height: 266px;" align="center"></td>
+</tr>
+</tbody>
+</table>]]></layout>
+        <name>Plant Layout</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 12:26:58</sys_created_on>
+        <sys_id>eaf0d3fd07d150109584f0269c1ed0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Plant Layout</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_email_layout_eaf0d3fd07d150109584f0269c1ed0cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 12:26:58</sys_updated_on>
+    </sys_email_layout>
+</record_update>

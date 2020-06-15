@@ -13,7 +13,7 @@
         <mobile_title>Plan Services</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_172976_bid_track_plan_service</name>
-        <order>500</order>
+        <order>800</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,17 +24,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>45c7cf6f07e700109584f0269c1ed067</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Plant Plan Services</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Plan Services</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_app_module_45c7cf6f07e700109584f0269c1ed067</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-30 20:44:01</sys_updated_on>
+        <sys_updated_on>2020-06-11 17:49:20</sys_updated_on>
         <timeline_page/>
-        <title>Plant Plan Services</title>
+        <title>Plan Services</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

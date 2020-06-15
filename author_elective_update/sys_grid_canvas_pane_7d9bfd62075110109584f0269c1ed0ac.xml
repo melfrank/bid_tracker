@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA New Tab">e9d20ebb07f0d4109584f0269c1ed01f</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 06-12-2020 09:52:53 AM">b59bb962075110109584f0269c1ed0b5</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 13:52:53</sys_created_on>
+        <sys_id>7d9bfd62075110109584f0269c1ed0ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e9d20ebb07f0d4109584f0269c1ed01f</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_7d9bfd62075110109584f0269c1ed0ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 13:52:53</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</application>
+        <file_path/>
+        <instance_id>f84ab18adb0ab3084d2bac44d49619de</instance_id>
+        <instance_name>dev87711</instance_name>
+        <name>sys_grid_canvas_pane_7d9bfd62075110109584f0269c1ed0ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">e9d20ebb07f0d4109584f0269c1ed01f</grid_canvas><height>10</height><portal_widget display_value="Created 06-12-2020 09:52:53 AM">b59bb962075110109584f0269c1ed0b5</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-12 13:52:53</sys_created_on><sys_id>7d9bfd62075110109584f0269c1ed0ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e9d20ebb07f0d4109584f0269c1ed01f</sys_name><sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package><sys_policy/><sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope><sys_update_name>sys_grid_canvas_pane_7d9bfd62075110109584f0269c1ed0ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-12 13:52:53</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-2022124425</payload_hash>
+        <record_name>e9d20ebb07f0d4109584f0269c1ed01f</record_name>
+        <reverted_from/>
+        <source>46cd6d2707a300109584f0269c1ed05c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 13:52:53</sys_created_on>
+        <sys_id>bd9bfd62075110109584f0269c1ed0ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172a8ce03b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 13:52:53</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>f59bfd621b5110101eb395c17251f9ae</update_guid>
+        <update_guid_history>f59bfd621b5110101eb395c17251f9ae:-2022124425</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 13:53:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>024e46458a3b4803ba448eb59c9b0089</sys_id>
+        <sys_metadata>7d9bfd62075110109584f0269c1ed0ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e9d20ebb07f0d4109584f0269c1ed01f</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_scope_delete display_value="">634858217a1a496db7b69b0797195c91</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_7d9bfd62075110109584f0269c1ed0ac</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_7d9bfd62075110109584f0269c1ed0ac">bd9bfd62075110109584f0269c1ed0ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 13:53:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Plant Project Child" max_length="40" name="x_172976_bid_track_plant_projects_child" sizeclass="34" type="collection">
+    <element attributes="email_client=true,calendar_elements=plant_parent.engineers_estimate;assigned_to,use_document_viewer=true" extends="task" label="Plant Project Child" max_length="40" name="x_172976_bid_track_plant_projects_child" sizeclass="34" type="collection">
         <element label="Engineers Estimate" max_length="20" name="engineers_estimate" type="currency"/>
+        <element label="Percent Complete" max_length="15" name="percent_complete" type="percent_complete"/>
         <element attributes="edge_encryption_enabled=true" label="Planned End Date" max_length="40" name="planned_end_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Planned Start Date" max_length="40" name="planned_start_date" type="glide_date_time"/>
-        <element attributes="encode_utf8=false,readonly_clickthrough=true" label="Plant Project" mandatory="true" max_length="32" name="plant_parent" reference="x_172976_bid_track_project" type="reference"/>
+        <element attributes="encode_utf8=false,readonly_clickthrough=true" label="Project" mandatory="true" max_length="32" name="plant_parent" reference="x_172976_bid_track_project" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="50" name="plant_task_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Approval" value="approval"/>
@@ -13,7 +14,7 @@
                 <element inactive_on_update="false" label="Project Management" sequence="20" value="project_management"/>
                 <element inactive_on_update="false" label="Estimating" sequence="30" value="estimating_team"/>
                 <element inactive_on_update="false" label="Quotations" sequence="50" value="quotations"/>
-                <element inactive_on_update="false" label="Admin" sequence="100" value="administrative_team"/>
+                <element inactive_on_update="false" label="Administrative Team" sequence="100" value="administrative_team"/>
             </choice>
         </element>
     </element>

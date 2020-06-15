@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>email_client=true,calendar_elements=plant_parent.engineers_estimate;assigned_to,use_document_viewer=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-02 14:07:39</sys_created_on>
         <sys_id>e41f5e9707cd14109584f0269c1ed0fa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>x_172976_bid_track_plant_projects_child</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_dictionary_x_172976_bid_track_plant_projects_child_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-02 14:07:39</sys_updated_on>
+        <sys_updated_on>2020-06-13 20:23:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

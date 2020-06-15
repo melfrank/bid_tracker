@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-06-15 11:30:36">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-13 20:49:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9894a003079950109584f0269c1ed015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_portal_page_9894a003079950109584f0269c1ed015</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 20:49:38</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_12</view>
+    </sys_portal_page>
+</record_update>

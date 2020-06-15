@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Addenda" max_length="40" name="x_172976_bid_track_addenda" type="collection">
-        <element label="Addendum Date" max_length="40" name="addendum_date" type="glide_date"/>
-        <element label="Addendum Line Items" max_length="40" name="addendum_line_items" type="integer"/>
-        <element label="Addendum Minutes" max_length="40" name="addendum_minutes" type="integer"/>
-        <element display="true" label="Addendum Source" max_length="32" name="addendum_source" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
-        <element label="Addendum Summary" max_length="3000" name="addendum_summary" type="string"/>
+        <element label="Addenda" max_length="40" name="addenda_file" type="file_attachment"/>
+        <element label="Date" max_length="40" name="addendum_date" type="glide_date"/>
+        <element label="Line Items" max_length="40" name="addendum_line_items" type="integer"/>
+        <element label="Minutes" max_length="40" name="addendum_minutes" type="integer"/>
+        <element display="true" label="Source" max_length="32" name="addendum_source" reference="core_company" reference_qual="x_172976_bid_track_login_nameISNOTEMPTY^EQ" reference_qual_condition="x_172976_bid_track_login_nameISNOTEMPTY^EQ" type="reference"/>
+        <element label="Summary" max_length="3000" name="addendum_summary" type="string"/>
         <element label="Current Number of Addenda" max_length="40" name="current_number_of_addenda" type="integer"/>
         <element label="Initial Number of Addenda" max_length="40" name="initial_number_of_addenda" type="integer"/>
         <element label="Project Name" max_length="32" name="project_name" reference="x_172976_bid_track_project" type="reference"/>

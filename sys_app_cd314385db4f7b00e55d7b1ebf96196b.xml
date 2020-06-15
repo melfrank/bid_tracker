@@ -9,7 +9,7 @@
         <license_category>none</license_category>
         <license_model>none</license_model>
         <logo>d931cb45db4f7b00e55d7b1ebf9619e8</logo>
-        <menu/>
+        <menu display_value="BidTracker">59269f65075510109584f0269c1ed028</menu>
         <name>Bid Tracker</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -25,9 +25,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-02 10:33:42</sys_created_on>
         <sys_id>cd314385db4f7b00e55d7b1ebf96196b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-26 18:48:14</sys_updated_on>
+        <sys_updated_on>2020-06-09 17:54:36</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_172976_bid_track.user" name="x_172976_bid_track.user">b961cb45db4f7b00e55d7b1ebf9619e0</user_role>

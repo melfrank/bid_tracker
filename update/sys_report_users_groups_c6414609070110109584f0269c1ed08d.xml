@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="All Active Design-Build Projects">02414609070110109584f0269c1ed08d</report_id>
+        <report_id display_value="Design-Build Projects">02414609070110109584f0269c1ed08d</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-26 12:11:09</sys_created_on>

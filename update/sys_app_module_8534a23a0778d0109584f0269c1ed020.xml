@@ -13,7 +13,7 @@
         <mobile_title>Search Projects</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_172976_bid_track_project</name>
-        <order>800</order>
+        <order>700</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8534a23a0778d0109584f0269c1ed020</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Project Search</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_app_module_8534a23a0778d0109584f0269c1ed020</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-30 20:51:39</sys_updated_on>
+        <sys_updated_on>2020-06-11 17:49:33</sys_updated_on>
         <timeline_page/>
         <title>Project Search</title>
         <uncancelable>false</uncancelable>

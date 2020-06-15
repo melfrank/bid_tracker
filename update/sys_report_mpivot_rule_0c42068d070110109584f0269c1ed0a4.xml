@@ -6,7 +6,7 @@
         <color_id display_value="Chartreuse">65b30222a9fe3dba00bfe6cad3c512c2</color_id>
         <operator>&lt;=</operator>
         <order>-1</order>
-        <report_id display_value="All Active Hard Bid Projects">48424a4d070110109584f0269c1ed0e3</report_id>
+        <report_id display_value="Hard Bid Projects">48424a4d070110109584f0269c1ed0e3</report_id>
         <sys_class_name>sys_report_mpivot_rule</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-26 12:15:23</sys_created_on>

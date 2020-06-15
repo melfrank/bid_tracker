@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_172976_bid_track_plant_projects_child</collection>
+        <email_layout display_value="Plant Layout">eaf0d3fd07d150109584f0269c1ed0cf</email_layout>
+        <message/>
+        <message_html><![CDATA[<div>
+<div><strong><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">YOU HAVE BEEN ASSIGNED A NEW TASK:</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp;Added: ${sys_created_on}</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plant Project: <span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">${plant_parent.project_name}</span> <br /></span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp;Number: ${number}</span></div>
+<div>&nbsp;</div>
+</div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp;Short description: ${short_description}</span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div><hr /></div>
+</div>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp;Click here to view Task: <span style="color: #0000ff;">${URI_REF}</span></span></div>
+</div>
+</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Plant New Task Assigned</name>
+        <sms_alternate/>
+        <subject>New Task Assignment - ${plant_parent.project_name} -- ${short_description} -- ${number}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 20:44:36</sys_created_on>
+        <sys_id>0bfb3fe907d510109584f0269c1ed057</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Plant New Task Assigned</sys_name>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sysevent_email_template_0bfb3fe907d510109584f0269c1ed057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 15:39:13</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,calendar_elements=project_estimator;project_name,use_document_viewer=true" audit="true" extends="task" label="Plant Projects" max_length="40" name="x_172976_bid_track_project" sizeclass="276" text_index="true" type="collection">
+    <element attributes="email_client=true,calendar_elements=project_estimator;project_name,use_document_viewer=true" audit="true" extends="task" label="Plant Projects" max_length="40" name="x_172976_bid_track_project" sizeclass="172" text_index="true" type="collection">
         <element label="Accs. for Fabricated CS" max_length="1024" name="accs_for_fabricated_cs" type="string"/>
         <element label="Accs.  for Fabricated SS" max_length="1024" name="accs_for_fabricated_ss" type="string"/>
         <element label="Add Estimator 2" max_length="40" name="add_estimator_2" type="boolean"/>
@@ -235,10 +235,12 @@
         <element label="Sluice\Slide Gates Size Ranges" max_length="4000" name="sluice_slide_gates_size_ranges" type="string"/>
         <element label="Small Diameter Piping" max_length="4000" name="small_diameter_piping" type="string"/>
         <element label="Stainless Steel - EST" max_length="4000" name="stainless_steel_est" type="string"/>
+        <element label="Stainless Steel Fabricators" max_length="4000" name="stainless_steel_fabricators" reference="core_company" reference_qual="vendor_typeLIKEf2feebad079510109584f0269c1ed02a^EQ" reference_qual_condition="vendor_typeLIKEf2feebad079510109584f0269c1ed02a^EQ" type="glide_list"/>
         <element label="Stainless Steel Pkg" max_length="20" name="stainless_steel_pkg" type="currency"/>
         <element label="Stainless Steel - PM" max_length="4000" name="stainless_steel_pm" type="string"/>
         <element label="Stainless Steel Size Ranges" max_length="300" name="stainless_steel_size_ranges" type="string"/>
         <element label="Steel - EST" max_length="1000" name="steel_est" type="string"/>
+        <element label="Steel Fabricators" max_length="4000" name="steel_fabricators" reference="core_company" reference_qual="vendor_typeLIKEf2feebad079510109584f0269c1ed02a^EQ" reference_qual_condition="vendor_typeLIKEf2feebad079510109584f0269c1ed02a^EQ" type="glide_list"/>
         <element label="Steel Pkg" max_length="20" name="steel_pkg" type="currency"/>
         <element label="Steel - PM" max_length="300" name="steel_pm" type="string"/>
         <element label="Steel Size Ranges" max_length="300" name="steel_size_ranges" type="string"/>

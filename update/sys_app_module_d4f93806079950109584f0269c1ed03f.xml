@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Ferguson Waterworks Plant Div">bf1f29f5db073f00e55d7b1ebf961900</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Plant Pre-Bid Dashboard</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>50</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev87711.service-now.com/$pa_dashboard.do?sysparm_dashboard=ff824a3b07f0d4109584f0269c1ed087&amp;sysparm_tab=edd20ebb07f0d4109584f0269c1ed021&amp;sysparm_cancelable=true&amp;sysparm_editable=false&amp;sysparm_active_panel=false</query>
+        <report/>
+        <roles>x_172976_bid_track.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 20:15:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4f93806079950109584f0269c1ed03f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Plant Pre-Bid Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+        <sys_update_name>sys_app_module_d4f93806079950109584f0269c1ed03f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 16:15:53</sys_updated_on>
+        <timeline_page/>
+        <title>Plant Pre-Bid Dashboard</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

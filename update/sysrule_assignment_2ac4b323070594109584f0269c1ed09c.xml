@@ -8,7 +8,7 @@
         <description/>
         <group display_value="Plant Quotations" name="Plant Quotations">f6dfe73007b010109584f0269c1ed0fe</group>
         <match_conditions>ALL</match_conditions>
-        <name>Plant download task</name>
+        <name>West Coast Quote</name>
         <order>100</order>
         <script>/**&#13;
 * Example:&#13;
@@ -30,16 +30,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2ac4b323070594109584f0269c1ed09c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Plant download task</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>West Coast Quote</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sysrule_assignment_2ac4b323070594109584f0269c1ed09c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-03 15:10:02</sys_updated_on>
+        <sys_updated_on>2020-06-13 21:18:31</sys_updated_on>
         <table>x_172976_bid_track_plant_projects_child</table>
-        <user display_value="George Earley">b28f6e6e078300109584f0269c1ed0f3</user>
+        <user display_value="Billy Chiseck">89febc7b070994109584f0269c1ed0c7</user>
     </sysrule_assignment>
 </record_update>

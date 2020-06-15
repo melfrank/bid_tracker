@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0fae110a071d50109584f0269c1ed00b" sys_domain="global" table="x_172976_bid_track_project" version="3" view="new_project">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>78354dde075990109584f0269c1ed049</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <text>Project Details</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>bc354dde075990109584f0269c1ed049</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <text>Project Location</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>41358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Plant Process Flow">ce9759d9075110109584f0269c1ed01f</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>78354dde075990109584f0269c1ed049</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c5358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>49358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c9358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>4d358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_bid_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>cd358512079990109584f0269c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineers_estimate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>41358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c1358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_type</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>45358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_method</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c5358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_jobboard</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>49358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bidtracer_id</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c9358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>4d358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bc354dde075990109584f0269c1ed049</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>cd358512079990109584f0269c1ed0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>41358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c1358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.city</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>45358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.state</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c5358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>49358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_county</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>c9358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_business_unit</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>4d358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_zip.x_172976_bid_track_region</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>cd358512079990109584f0269c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 15:16:46</sys_created_on>
+            <sys_id>41358512079990109584f0269c1ed0f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_bid_track_project" sys_domain="global" view="4eca51c2071d50109584f0269c1ed069">0fae110a071d50109584f0269c1ed00b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 15:16:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_172976_bid_track_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-10 22:29:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fae110a071d50109584f0269c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172976_bid_track_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
+            <sys_update_name>sys_ui_section_0fae110a071d50109584f0269c1ed00b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-10 22:29:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New Project" name="new_project">4eca51c2071d50109584f0269c1ed069</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

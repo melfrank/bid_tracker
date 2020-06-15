@@ -42,9 +42,9 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>project_manager</field>
-        <field_list>project_name,project_manager,project_zip.x_172976_bid_track_business_unit,revised_bid_date,delivery_method,engineers_estimate,project_zip.city,project_zip.state,project_estimator,project_status,engineer,sys_created_on,bidtracer_id</field_list>
-        <filter table="x_172976_bid_track_project">project_statusNOT IN90,130,100,120,140,150^revised_bid_dateRELATIVELT@dayofweek@ahead@28<item display_value="90,130,100,120,140,150" endquery="false" field="project_status" goto="false" newquery="false" operator="NOT IN" or="false" value="90,130,100,120,140,150"/>
+        <field>assigned_to</field>
+        <field_list>project_name,revised_bid_date,delivery_method,engineers_estimate,project_zip.city,project_zip.state,project_estimator,state</field_list>
+        <filter table="x_172976_bid_track_project">stateNOT IN3,4,1200,10000^revised_bid_dateRELATIVELT@dayofweek@ahead@28<item display_value="3,4,1200,10000" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,1200,10000"/>
             <item endquery="false" field="revised_bid_date" goto="false" newquery="false" operator="RELATIVE" or="false" value="LT@dayofweek@ahead@28"/>
         </filter>
         <from/>
@@ -104,14 +104,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-17 17:14:19</sys_created_on>
         <sys_id>aaa09aec079010109584f0269c1ed003</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>Four Week Outlook for PM</sys_name>
         <sys_package display_value="Bid Tracker" source="x_172976_bid_track">cd314385db4f7b00e55d7b1ebf96196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bid Tracker">cd314385db4f7b00e55d7b1ebf96196b</sys_scope>
         <sys_update_name>sys_report_aaa09aec079010109584f0269c1ed003</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-27 18:23:41</sys_updated_on>
+        <sys_updated_on>2020-06-10 20:50:55</sys_updated_on>
         <table>x_172976_bid_track_project</table>
         <title>Four Week Outlook for PM</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
